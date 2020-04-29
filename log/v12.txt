@@ -1,0 +1,1215 @@
+[1]: id = 1 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/01/2013/839229.shtml , processed_status = Downloaded, rubrics: none
+[2]: id = 2 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/01/2013/839223.shtml , processed_status = Downloaded, rubrics: none
+[3]: id = 3 , agency =  ะมส , link =  http://top.rbc.ru/society/01/01/2013/839242.shtml , processed_status = Downloaded, rubrics: ['ืๅ๗ํÿ', 'ํเ๖่๎ํเ๋่็์', 'ฤๅ์๓๘๊่ํ', '๊๎ไๅ๊๑ ๏๎โๅไๅํ่ÿ']
+[4]: id = 4 , agency =  ะมส , link =  http://top.rbc.ru/society/01/01/2013/839227.shtml , processed_status = Downloaded, rubrics: none
+[5]: id = 5 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/01/2013/839240.shtml , processed_status = Downloaded, rubrics: none
+[6]: id = 6 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/01/2013/839231.shtml , processed_status = Downloaded, rubrics: none
+[7]: id = 7 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/01/2013/839226.shtml , processed_status = Downloaded, rubrics: none
+[8]: id = 8 , agency =  ะมส , link =  http://top.rbc.ru/politics/02/01/2013/839275.shtml , processed_status = Downloaded, rubrics: none
+[9]: id = 9 , agency =  ะมส , link =  http://top.rbc.ru/economics/02/01/2013/839256.shtml , processed_status = Downloaded, rubrics: ['ัุภ']
+[10]: id = 10 , agency =  ะมส , link =  http://top.rbc.ru/society/02/01/2013/839271.shtml , processed_status = Downloaded, rubrics: none
+[11]: id = 11 , agency =  ะมส , link =  http://top.rbc.ru/society/02/01/2013/839249.shtml , processed_status = Downloaded, rubrics: ['ิ๐เํ๖่ÿ', 'โเํไเ๋่็์']
+[12]: id = 12 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/01/2013/839257.shtml , processed_status = Failed — list index out of range
+[13]: id = 13 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/01/2013/839288.shtml , processed_status = Downloaded, rubrics: none
+[14]: id = 14 , agency =  ะมส , link =  http://top.rbc.ru/economics/03/01/2013/839341.shtml , processed_status = Downloaded, rubrics: none
+[15]: id = 15 , agency =  ะมส , link =  http://top.rbc.ru/society/03/01/2013/839286.shtml , processed_status = Downloaded, rubrics: none
+[16]: id = 16 , agency =  ะมส , link =  http://top.rbc.ru/economics/04/01/2013/839383.shtml , processed_status = Downloaded, rubrics: none
+[17]: id = 17 , agency =  ะมส , link =  http://top.rbc.ru/economics/04/01/2013/839361.shtml , processed_status = Downloaded, rubrics: ['ัุภ', 'ุโๅ้๖เ๐่ÿ', 'แเํ๊', '์เ๕่ํเ๖่่']
+[18]: id = 18 , agency =  ะมส , link =  http://top.rbc.ru/society/04/01/2013/839392.shtml , processed_status = Downloaded, rubrics: none
+[19]: id = 19 , agency =  ะมส , link =  http://top.rbc.ru/society/04/01/2013/839348.shtml , processed_status = Downloaded, rubrics: ['Transocean,', 'BP,', 'ฬๅ๊๑่๊เํ๑๊่้ ็เ๋่โ,', '๘๒๐เ๔,', 'เโเ๐่ÿ ,', 'ัุภ']
+[20]: id = 20 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/01/2013/839349.shtml , processed_status = Downloaded, rubrics: none
+[21]: id = 21 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/01/2013/839346.shtml , processed_status = Downloaded, rubrics: none
+[22]: id = 22 , agency =  ะมส , link =  http://top.rbc.ru/society/05/01/2013/839429.shtml , processed_status = Failed — list index out of range
+[23]: id = 23 , agency =  ะมส , link =  http://top.rbc.ru/incidents/05/01/2013/839423.shtml , processed_status = Downloaded, rubrics: none
+[24]: id = 24 , agency =  ะมส , link =  http://top.rbc.ru/incidents/05/01/2013/839415.shtml , processed_status = Downloaded, rubrics: none
+[25]: id = 26 , agency =  ะมส , link =  http://top.rbc.ru/incidents/05/01/2013/839401.shtml , processed_status = Downloaded, rubrics: none
+[26]: id = 27 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/05/01/2013/839406.shtml , processed_status = Downloaded, rubrics: none
+[27]: id = 28 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/05/01/2013/839420.shtml , processed_status = Failed — list index out of range
+[28]: id = 29 , agency =  ะมส , link =  http://top.rbc.ru/society/06/01/2013/839443.shtml , processed_status = Downloaded, rubrics: none
+[29]: id = 30 , agency =  ะมส , link =  http://top.rbc.ru/society/06/01/2013/839438.shtml , processed_status = Downloaded, rubrics: none
+[30]: id = 31 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/01/2013/839460.shtml , processed_status = Downloaded, rubrics: none
+[31]: id = 32 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/01/2013/839440.shtml , processed_status = Downloaded, rubrics: none
+[32]: id = 33 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/01/2013/839492.shtml , processed_status = Downloaded, rubrics: none
+[33]: id = 34 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/01/2013/839475.shtml , processed_status = Downloaded, rubrics: none
+[34]: id = 35 , agency =  ะมส , link =  http://top.rbc.ru/society/07/01/2013/839479.shtml , processed_status = Downloaded, rubrics: none
+[35]: id = 36 , agency =  ะมส , link =  http://top.rbc.ru/incidents/07/01/2013/839502.shtml , processed_status = Downloaded, rubrics: none
+[36]: id = 37 , agency =  ะมส , link =  http://top.rbc.ru/incidents/07/01/2013/839470.shtml , processed_status = Downloaded, rubrics: none
+[37]: id = 39 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/07/01/2013/839496.shtml , processed_status = Downloaded, rubrics: none
+[38]: id = 40 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/01/2013/839542.shtml , processed_status = Downloaded, rubrics: none
+[39]: id = 41 , agency =  ะมส , link =  http://top.rbc.ru/economics/08/01/2013/839538.shtml , processed_status = Downloaded, rubrics: none
+[40]: id = 42 , agency =  ะมส , link =  http://top.rbc.ru/society/08/01/2013/839550.shtml , processed_status = Downloaded, rubrics: none
+[41]: id = 43 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/01/2013/839536.shtml , processed_status = Downloaded, rubrics: none
+[42]: id = 44 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/01/2013/839525.shtml , processed_status = Downloaded, rubrics: none
+[43]: id = 45 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/01/2013/839513.shtml , processed_status = Downloaded, rubrics: none
+[44]: id = 46 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/01/2013/839666.shtml , processed_status = Downloaded, rubrics: none
+[45]: id = 47 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/01/2013/839626.shtml , processed_status = Failed — list index out of range
+[46]: id = 48 , agency =  ะมส , link =  http://top.rbc.ru/society/09/01/2013/839687.shtml , processed_status = Downloaded, rubrics: none
+[47]: id = 49 , agency =  ะมส , link =  http://top.rbc.ru/society/09/01/2013/839684.shtml , processed_status = Downloaded, rubrics: none
+[48]: id = 50 , agency =  ะมส , link =  http://top.rbc.ru/society/09/01/2013/839658.shtml , processed_status = Downloaded, rubrics: none
+[49]: id = 51 , agency =  ะมส , link =  http://top.rbc.ru/society/09/01/2013/839650.shtml , processed_status = Downloaded, rubrics: none
+[50]: id = 52 , agency =  ะมส , link =  http://top.rbc.ru/society/09/01/2013/839619.shtml , processed_status = Downloaded, rubrics: none
+[51]: id = 54 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/01/2013/839611.shtml , processed_status = Downloaded, rubrics: none
+[52]: id = 55 , agency =  ะมส , link =  http://top.rbc.ru/retail/09/01/2013/839627.shtml , processed_status = Downloaded, rubrics: ['iPhone,', 'Apple,', 'แþไๆๅ๒ํเÿ โๅ๐๑่ÿ,', '๑์เ๐๒๔๎ํ,', 'ใเไๆๅ๒']
+[53]: id = 56 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/01/2013/839875.shtml , processed_status = Downloaded, rubrics: none
+[54]: id = 57 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/01/2013/839754.shtml , processed_status = Downloaded, rubrics: none
+[55]: id = 58 , agency =  ะมส , link =  http://top.rbc.ru/economics/10/01/2013/839800.shtml , processed_status = Downloaded, rubrics: none
+[56]: id = 59 , agency =  ะมส , link =  http://top.rbc.ru/society/10/01/2013/839867.shtml , processed_status = Downloaded, rubrics: none
+[57]: id = 60 , agency =  ะมส , link =  http://top.rbc.ru/society/10/01/2013/839840.shtml , processed_status = Downloaded, rubrics: ['๊๎ํ๖ๅ๐๒', '์๓็๛๊เ']
+[58]: id = 61 , agency =  ะมส , link =  http://top.rbc.ru/society/10/01/2013/839835.shtml , processed_status = Downloaded, rubrics: none
+[59]: id = 62 , agency =  ะมส , link =  http://top.rbc.ru/society/10/01/2013/839724.shtml , processed_status = Downloaded, rubrics: none
+[60]: id = 63 , agency =  ะมส , link =  http://top.rbc.ru/society/10/01/2013/839720.shtml , processed_status = Downloaded, rubrics: none
+[61]: id = 64 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839838.shtml , processed_status = Downloaded, rubrics: none
+[62]: id = 65 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839831.shtml , processed_status = Downloaded, rubrics: none
+[63]: id = 66 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839796.shtml , processed_status = Downloaded, rubrics: none
+[64]: id = 67 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839792.shtml , processed_status = Downloaded, rubrics: none
+[65]: id = 68 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839775.shtml , processed_status = Downloaded, rubrics: none
+[66]: id = 69 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839758.shtml , processed_status = Downloaded, rubrics: none
+[67]: id = 70 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839744.shtml , processed_status = Downloaded, rubrics: none
+[68]: id = 71 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/01/2013/839718.shtml , processed_status = Downloaded, rubrics: none
+[69]: id = 72 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/10/01/2013/839808.shtml , processed_status = Failed — ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[70]: id = 73 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/10/01/2013/839799.shtml , processed_status = Failed — list index out of range
+[71]: id = 74 , agency =  ะมส , link =  http://top.rbc.ru/politics/11/01/2013/839930.shtml , processed_status = Downloaded, rubrics: none
+[72]: id = 75 , agency =  ะมส , link =  http://top.rbc.ru/economics/11/01/2013/840019.shtml , processed_status = Downloaded, rubrics: ['มเํ๊ ะ๎๑๑่่,', 'โํๅ๘ํ่้ ไ๎๋ใ']
+[73]: id = 76 , agency =  ะมส , link =  http://top.rbc.ru/economics/11/01/2013/839887.shtml , processed_status = Downloaded, rubrics: none
+[74]: id = 77 , agency =  ะมส , link =  http://top.rbc.ru/economics/11/01/2013/839881.shtml , processed_status = Downloaded, rubrics: none
+[75]: id = 78 , agency =  ะมส , link =  http://top.rbc.ru/society/11/01/2013/840008.shtml , processed_status = Downloaded, rubrics: none
+[76]: id = 79 , agency =  ะมส , link =  http://top.rbc.ru/society/11/01/2013/839990.shtml , processed_status = Downloaded, rubrics: ['็เ๊๎ํ ๏๎ไ๋ๅ๖๎โ,', '็เ๊๎ํ ฤ่์๛ ฿๊๎โ๋ๅ๊เ,', '๎๏๏๎็่๖่ÿ,', '์่๒่ํใ,', 'ฬเ๐๘ ๏๐๎๒่โ ๏๎ไ๋ๅ๖๎โ,', '๏๎๋่๖่ÿ,', 'ฬ๎๑๊โเ']
+[77]: id = 80 , agency =  ะมส , link =  http://top.rbc.ru/society/11/01/2013/839947.shtml , processed_status = Downloaded, rubrics: none
+[78]: id = 81 , agency =  ะมส , link =  http://top.rbc.ru/society/11/01/2013/839886.shtml , processed_status = Downloaded, rubrics: none
+[79]: id = 82 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/01/2013/839976.shtml , processed_status = Downloaded, rubrics: none
+[80]: id = 83 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/01/2013/839963.shtml , processed_status = Downloaded, rubrics: none
+[81]: id = 84 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/01/2013/839895.shtml , processed_status = Downloaded, rubrics: none
+[82]: id = 85 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/01/2013/839894.shtml , processed_status = Downloaded, rubrics: none
+[83]: id = 86 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/11/01/2013/840004.shtml , processed_status = Downloaded, rubrics: none
+[84]: id = 87 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/01/2013/840040.shtml , processed_status = Downloaded, rubrics: none
+[85]: id = 88 , agency =  ะมส , link =  http://top.rbc.ru/politics/13/01/2013/840078.shtml , processed_status = Downloaded, rubrics: ['ยๅ๋่๊๎แ๐่๒เํ่ÿ,', 'ิ๐เํ๖่ÿ,', 'ฬเ๋่,', 'ห๎๐เํ ิเแ่๓๑,', 'ฤýโ่ไ สý์ๅ๐๎ํ,', '่๑๋เ์่๑๒๛']
+[86]: id = 89 , agency =  ะมส , link =  http://top.rbc.ru/society/13/01/2013/840068.shtml , processed_status = Downloaded, rubrics: none
+[87]: id = 90 , agency =  ะมส , link =  http://top.rbc.ru/society/13/01/2013/840067.shtml , processed_status = Downloaded, rubrics: none
+[88]: id = 91 , agency =  ะมส , link =  http://top.rbc.ru/society/13/01/2013/840061.shtml , processed_status = Downloaded, rubrics: none
+[89]: id = 92 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/01/2013/840075.shtml , processed_status = Downloaded, rubrics: none
+[90]: id = 93 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/01/2013/840070.shtml , processed_status = Downloaded, rubrics: ['ั๎๗่,', 'ใ๎๐ํ๛ๅ ๋๛ๆ่,', 'เโเ๐่ÿ']
+[91]: id = 94 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/01/2013/840062.shtml , processed_status = Downloaded, rubrics: none
+[92]: id = 95 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/01/2013/840057.shtml , processed_status = Downloaded, rubrics: none
+[93]: id = 96 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/01/2013/840056.shtml , processed_status = Downloaded, rubrics: none
+[94]: id = 97 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/01/2013/840213.shtml , processed_status = Downloaded, rubrics: none
+[95]: id = 98 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/01/2013/840086.shtml , processed_status = Downloaded, rubrics: none
+[96]: id = 99 , agency =  ะมส , link =  http://top.rbc.ru/economics/14/01/2013/840254.shtml , processed_status = Downloaded, rubrics: none
+[97]: id = 100 , agency =  ะมส , link =  http://top.rbc.ru/society/14/01/2013/840273.shtml , processed_status = Downloaded, rubrics: ['๊๎์๏üþ๒ๅ๐๛,', 'หเแ๎๐เ๒๎๐่ÿ สเ๑๏ๅ๐๑๊๎ใ๎,', '๕เ๊ๅ๐๛,', '๘๏่๎ํ๛']
+[98]: id = 101 , agency =  ะมส , link =  http://top.rbc.ru/society/14/01/2013/840256.shtml , processed_status = Downloaded, rubrics: none
+[99]: id = 102 , agency =  ะมส , link =  http://top.rbc.ru/society/14/01/2013/840251.shtml , processed_status = Downloaded, rubrics: none
+[100]: id = 103 , agency =  ะมส , link =  http://top.rbc.ru/society/14/01/2013/840226.shtml , processed_status = Downloaded, rubrics: none
+[101]: id = 104 , agency =  ะมส , link =  http://top.rbc.ru/society/14/01/2013/840173.shtml , processed_status = Downloaded, rubrics: none
+[102]: id = 105 , agency =  ะมส , link =  http://top.rbc.ru/society/14/01/2013/840146.shtml , processed_status = Downloaded, rubrics: none
+[103]: id = 106 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/01/2013/840274.shtml , processed_status = Downloaded, rubrics: none
+[104]: id = 107 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/01/2013/840099.shtml , processed_status = Downloaded, rubrics: none
+[105]: id = 108 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/01/2013/840434.shtml , processed_status = Downloaded, rubrics: none
+[106]: id = 109 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/01/2013/840414.shtml , processed_status = Downloaded, rubrics: none
+[107]: id = 110 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/01/2013/840396.shtml , processed_status = Downloaded, rubrics: none
+[108]: id = 111 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/01/2013/840286.shtml , processed_status = Downloaded, rubrics: none
+[109]: id = 112 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/01/2013/840465.shtml , processed_status = Downloaded, rubrics: none
+[110]: id = 113 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/01/2013/840435.shtml , processed_status = Downloaded, rubrics: none
+[111]: id = 114 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/01/2013/840428.shtml , processed_status = Downloaded, rubrics: ['มเํใ๋เไๅ๘ ,', 'ภÝั,', '๊๐ๅไ่๒']
+[112]: id = 115 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/01/2013/840418.shtml , processed_status = Downloaded, rubrics: none
+[113]: id = 116 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/01/2013/840376.shtml , processed_status = Downloaded, rubrics: none
+[114]: id = 117 , agency =  ะมส , link =  http://top.rbc.ru/society/15/01/2013/840433.shtml , processed_status = Downloaded, rubrics: none
+[115]: id = 118 , agency =  ะมส , link =  http://top.rbc.ru/society/15/01/2013/840406.shtml , processed_status = Failed — list index out of range
+[116]: id = 119 , agency =  ะมส , link =  http://top.rbc.ru/society/15/01/2013/840404.shtml , processed_status = Downloaded, rubrics: none
+[117]: id = 120 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840461.shtml , processed_status = Downloaded, rubrics: none
+[118]: id = 121 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840407.shtml , processed_status = Downloaded, rubrics: none
+[119]: id = 122 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840349.shtml , processed_status = Downloaded, rubrics: none
+[120]: id = 123 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840318.shtml , processed_status = Downloaded, rubrics: none
+[121]: id = 124 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840291.shtml , processed_status = Downloaded, rubrics: none
+[122]: id = 125 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840289.shtml , processed_status = Failed — list index out of range
+[123]: id = 126 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/01/2013/840288.shtml , processed_status = Downloaded, rubrics: none
+[124]: id = 127 , agency =  ะมส , link =  http://top.rbc.ru/economics/16/01/2013/840634.shtml , processed_status = Downloaded, rubrics: none
+[125]: id = 128 , agency =  ะมส , link =  http://top.rbc.ru/economics/16/01/2013/840601.shtml , processed_status = Downloaded, rubrics: none
+[126]: id = 129 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840642.shtml , processed_status = Downloaded, rubrics: ['เํ๒่๔เ๘่๑๒๛,', 'ฬ๎๑๊โเ ,', '๘ๅ๑๒โ่ๅ']
+[127]: id = 130 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840626.shtml , processed_status = Downloaded, rubrics: none
+[128]: id = 131 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840616.shtml , processed_status = Downloaded, rubrics: none
+[129]: id = 132 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840615.shtml , processed_status = Downloaded, rubrics: none
+[130]: id = 133 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840496.shtml , processed_status = Downloaded, rubrics: ['ฤ่์่๒๐่้ ัโๅ๐ไ๋๎โ,', 'ะฯึ,', 'Pussy Riot']
+[131]: id = 134 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840475.shtml , processed_status = Downloaded, rubrics: none
+[132]: id = 135 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840472.shtml , processed_status = Downloaded, rubrics: none
+[133]: id = 136 , agency =  ะมส , link =  http://top.rbc.ru/society/16/01/2013/840469.shtml , processed_status = Downloaded, rubrics: none
+[134]: id = 137 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840607.shtml , processed_status = Failed — list index out of range
+[135]: id = 138 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840578.shtml , processed_status = Downloaded, rubrics: none
+[136]: id = 139 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840518.shtml , processed_status = Downloaded, rubrics: none
+[137]: id = 140 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840514.shtml , processed_status = Downloaded, rubrics: none
+[138]: id = 141 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840491.shtml , processed_status = Downloaded, rubrics: none
+[139]: id = 142 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840488.shtml , processed_status = Downloaded, rubrics: none
+[140]: id = 143 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/01/2013/840471.shtml , processed_status = Downloaded, rubrics: none
+[141]: id = 144 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/16/01/2013/840521.shtml , processed_status = Downloaded, rubrics: none
+[142]: id = 146 , agency =  ะมส , link =  http://top.rbc.ru/politics/17/01/2013/840742.shtml , processed_status = Downloaded, rubrics: none
+[143]: id = 147 , agency =  ะมส , link =  http://top.rbc.ru/politics/17/01/2013/840705.shtml , processed_status = Downloaded, rubrics: none
+[144]: id = 148 , agency =  ะมส , link =  http://top.rbc.ru/economics/17/01/2013/840869.shtml , processed_status = Downloaded, rubrics: none
+[145]: id = 149 , agency =  ะมส , link =  http://top.rbc.ru/economics/17/01/2013/840791.shtml , processed_status = Downloaded, rubrics: none
+[146]: id = 150 , agency =  ะมส , link =  http://top.rbc.ru/economics/17/01/2013/840700.shtml , processed_status = Downloaded, rubrics: none
+[147]: id = 151 , agency =  ะมส , link =  http://top.rbc.ru/society/17/01/2013/840799.shtml , processed_status = Downloaded, rubrics: none
+[148]: id = 152 , agency =  ะมส , link =  http://top.rbc.ru/society/17/01/2013/840793.shtml , processed_status = Downloaded, rubrics: ['ฬยฤ,', 'ฯ๐่์๎๐๑๊่้ ๊๐เ้,', 'ภาÝั,', '๊๎๐๐๓๏๖่ÿ']
+[149]: id = 153 , agency =  ะมส , link =  http://top.rbc.ru/society/17/01/2013/840691.shtml , processed_status = Failed — list index out of range
+[150]: id = 154 , agency =  ะมส , link =  http://top.rbc.ru/society/17/01/2013/840690.shtml , processed_status = Downloaded, rubrics: none
+[151]: id = 155 , agency =  ะมส , link =  http://top.rbc.ru/society/17/01/2013/840681.shtml , processed_status = Downloaded, rubrics: none
+[152]: id = 156 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/01/2013/840883.shtml , processed_status = Failed — list index out of range
+[153]: id = 157 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/01/2013/840824.shtml , processed_status = Downloaded, rubrics: none
+[154]: id = 158 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/01/2013/840784.shtml , processed_status = Downloaded, rubrics: none
+[155]: id = 159 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/01/2013/840738.shtml , processed_status = Downloaded, rubrics: none
+[156]: id = 160 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/01/2013/840693.shtml , processed_status = Downloaded, rubrics: none
+[157]: id = 161 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/17/01/2013/840833.shtml , processed_status = Downloaded, rubrics: none
+[158]: id = 162 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/17/01/2013/840698.shtml , processed_status = Downloaded, rubrics: none
+[159]: id = 163 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/17/01/2013/840841.shtml , processed_status = Failed — list index out of range
+[160]: id = 164 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/17/01/2013/840835.shtml , processed_status = Failed — list index out of range
+[161]: id = 166 , agency =  ะมส , link =  http://top.rbc.ru/society/18/01/2013/841099.shtml , processed_status = Downloaded, rubrics: none
+[162]: id = 167 , agency =  ะมส , link =  http://top.rbc.ru/society/18/01/2013/841074.shtml , processed_status = Downloaded, rubrics: none
+[163]: id = 168 , agency =  ะมส , link =  http://top.rbc.ru/society/18/01/2013/841061.shtml , processed_status = Downloaded, rubrics: none
+[164]: id = 169 , agency =  ะมส , link =  http://top.rbc.ru/society/18/01/2013/841053.shtml , processed_status = Downloaded, rubrics: none
+[165]: id = 171 , agency =  ะมส , link =  http://top.rbc.ru/society/18/01/2013/841008.shtml , processed_status = Downloaded, rubrics: none
+[166]: id = 172 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/01/2013/841103.shtml , processed_status = Downloaded, rubrics: none
+[167]: id = 173 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/01/2013/841112.shtml , processed_status = Downloaded, rubrics: none
+[168]: id = 174 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/01/2013/841127.shtml , processed_status = Downloaded, rubrics: none
+[169]: id = 176 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/01/2013/841156.shtml , processed_status = Downloaded, rubrics: none
+[170]: id = 178 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/01/2013/841138.shtml , processed_status = Downloaded, rubrics: none
+[171]: id = 179 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/01/2013/841134.shtml , processed_status = Downloaded, rubrics: none
+[172]: id = 180 , agency =  ะมส , link =  http://top.rbc.ru/politics/21/01/2013/841393.shtml , processed_status = Downloaded, rubrics: none
+[173]: id = 181 , agency =  ะมส , link =  http://top.rbc.ru/politics/21/01/2013/841281.shtml , processed_status = Downloaded, rubrics: none
+[174]: id = 182 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/01/2013/841390.shtml , processed_status = Downloaded, rubrics: none
+[175]: id = 183 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/01/2013/841365.shtml , processed_status = Downloaded, rubrics: none
+[176]: id = 184 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/01/2013/841296.shtml , processed_status = Downloaded, rubrics: ['ิัยาั ,', 'ý๊๑๏๎๐๒ ๎๐๓ๆ่ÿ ,', 'ฮฯส']
+[177]: id = 185 , agency =  ะมส , link =  http://top.rbc.ru/society/21/01/2013/841407.shtml , processed_status = Downloaded, rubrics: ['ฬืั,', 'ะิ,', 'ั่๐่ÿ,', 'ใ๐เๆไเํ๑๊เÿ โ๎้ํเ,', 'ýโเ๊๓เ๖่ÿ']
+[178]: id = 186 , agency =  ะมส , link =  http://top.rbc.ru/society/21/01/2013/841371.shtml , processed_status = Downloaded, rubrics: none
+[179]: id = 188 , agency =  ะมส , link =  http://top.rbc.ru/society/21/01/2013/841343.shtml , processed_status = Downloaded, rubrics: none
+[180]: id = 189 , agency =  ะมส , link =  http://top.rbc.ru/society/21/01/2013/841241.shtml , processed_status = Downloaded, rubrics: none
+[181]: id = 190 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/01/2013/841379.shtml , processed_status = Downloaded, rubrics: none
+[182]: id = 192 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/21/01/2013/841382.shtml , processed_status = Downloaded, rubrics: none
+[183]: id = 193 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/01/2013/841649.shtml , processed_status = Downloaded, rubrics: none
+[184]: id = 194 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/01/2013/841423.shtml , processed_status = Downloaded, rubrics: none
+[185]: id = 195 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/01/2013/841417.shtml , processed_status = Downloaded, rubrics: none
+[186]: id = 196 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841605.shtml , processed_status = Downloaded, rubrics: none
+[187]: id = 197 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841592.shtml , processed_status = Downloaded, rubrics: none
+[188]: id = 198 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841491.shtml , processed_status = Downloaded, rubrics: none
+[189]: id = 199 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841477.shtml , processed_status = Downloaded, rubrics: ['ัุภ,', "McDonald's,", '๘๒๐เ๔,', 'ฤๅ๒๐๎้๒,', '์๓๑๓๋ü์เํๅ,', '่๑๋เ์,', '๔เ๑๒-๔๓ไ,', 'ฬ่๗่ใเํ']
+[190]: id = 200 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841466.shtml , processed_status = Downloaded, rubrics: none
+[191]: id = 201 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841427.shtml , processed_status = Downloaded, rubrics: none
+[192]: id = 202 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841421.shtml , processed_status = Downloaded, rubrics: none
+[193]: id = 203 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841419.shtml , processed_status = Failed — list index out of range
+[194]: id = 204 , agency =  ะมส , link =  http://top.rbc.ru/society/22/01/2013/841412.shtml , processed_status = Downloaded, rubrics: none
+[195]: id = 205 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/01/2013/841630.shtml , processed_status = Downloaded, rubrics: none
+[196]: id = 206 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/01/2013/841577.shtml , processed_status = Downloaded, rubrics: none
+[197]: id = 207 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/01/2013/841524.shtml , processed_status = Failed — list index out of range
+[198]: id = 208 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/01/2013/841464.shtml , processed_status = Downloaded, rubrics: none
+[199]: id = 209 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/01/2013/841430.shtml , processed_status = Downloaded, rubrics: none
+[200]: id = 210 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/01/2013/841410.shtml , processed_status = Downloaded, rubrics: none
+[201]: id = 211 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/01/2013/841855.shtml , processed_status = Downloaded, rubrics: none
+[202]: id = 212 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/01/2013/841699.shtml , processed_status = Failed — list index out of range
+[203]: id = 213 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/01/2013/841655.shtml , processed_status = Downloaded, rubrics: none
+[204]: id = 214 , agency =  ะมส , link =  http://top.rbc.ru/economics/23/01/2013/841804.shtml , processed_status = Downloaded, rubrics: none
+[205]: id = 215 , agency =  ะมส , link =  http://top.rbc.ru/economics/23/01/2013/841665.shtml , processed_status = Downloaded, rubrics: none
+[206]: id = 216 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841846.shtml , processed_status = Downloaded, rubrics: none
+[207]: id = 217 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841787.shtml , processed_status = Downloaded, rubrics: none
+[208]: id = 218 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841728.shtml , processed_status = Downloaded, rubrics: none
+[209]: id = 219 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841717.shtml , processed_status = Downloaded, rubrics: none
+[210]: id = 220 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841704.shtml , processed_status = Downloaded, rubrics: none
+[211]: id = 221 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841695.shtml , processed_status = Downloaded, rubrics: none
+[212]: id = 222 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841680.shtml , processed_status = Downloaded, rubrics: none
+[213]: id = 223 , agency =  ะมส , link =  http://top.rbc.ru/society/23/01/2013/841663.shtml , processed_status = Downloaded, rubrics: none
+[214]: id = 224 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/01/2013/841852.shtml , processed_status = Downloaded, rubrics: none
+[215]: id = 225 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/23/01/2013/841798.shtml , processed_status = Failed — list index out of range
+[216]: id = 226 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/23/01/2013/841764.shtml , processed_status = Failed — list index out of range
+[217]: id = 227 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/23/01/2013/841713.shtml , processed_status = Failed — list index out of range
+[218]: id = 228 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/01/2013/841893.shtml , processed_status = Downloaded, rubrics: ['ฬศฤ', '๊๎๑์๎๑', 'ะ๎๑๊๎๑์๎๑', 'สเ็เ๕๑๒เํ', 'มเ้๊๎ํ๓๐']
+[219]: id = 229 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/01/2013/841883.shtml , processed_status = Failed — list index out of range
+[220]: id = 230 , agency =  ะมส , link =  http://top.rbc.ru/economics/24/01/2013/842005.shtml , processed_status = Downloaded, rubrics: none
+[221]: id = 231 , agency =  ะมส , link =  http://top.rbc.ru/society/24/01/2013/842081.shtml , processed_status = Downloaded, rubrics: none
+[222]: id = 232 , agency =  ะมส , link =  http://top.rbc.ru/society/24/01/2013/842077.shtml , processed_status = Failed — list index out of range
+[223]: id = 233 , agency =  ะมส , link =  http://top.rbc.ru/society/24/01/2013/842033.shtml , processed_status = Downloaded, rubrics: ['ภไเใเ์๎โ,', '่็ํเ๑่๋๎โเํ่ๅ,', 'แ๋๎ใๅ๐๛,', 'ฤๅ๋ü๑เ๋ü,', 'อ๎๐โๅใ่ÿ,', '๎๏๏๎็่๖่ÿ,', 'ภํเ๒๎์่ÿ ๏๐๎๒ๅ๑๒เ']
+[224]: id = 234 , agency =  ะมส , link =  http://top.rbc.ru/society/24/01/2013/842030.shtml , processed_status = Downloaded, rubrics: none
+[225]: id = 237 , agency =  ะมส , link =  http://top.rbc.ru/society/24/01/2013/841888.shtml , processed_status = Downloaded, rubrics: none
+[226]: id = 238 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/01/2013/841977.shtml , processed_status = Downloaded, rubrics: none
+[227]: id = 239 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/01/2013/841890.shtml , processed_status = Failed — list index out of range
+[228]: id = 240 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/24/01/2013/842039.shtml , processed_status = Downloaded, rubrics: none
+[229]: id = 241 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/01/2013/842249.shtml , processed_status = Downloaded, rubrics: none
+[230]: id = 242 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/01/2013/842181.shtml , processed_status = Downloaded, rubrics: none
+[231]: id = 243 , agency =  ะมส , link =  http://top.rbc.ru/economics/25/01/2013/842171.shtml , processed_status = Downloaded, rubrics: none
+[232]: id = 244 , agency =  ะมส , link =  http://top.rbc.ru/society/25/01/2013/842199.shtml , processed_status = Downloaded, rubrics: none
+[233]: id = 245 , agency =  ะมส , link =  http://top.rbc.ru/society/25/01/2013/842173.shtml , processed_status = Downloaded, rubrics: none
+[234]: id = 246 , agency =  ะมส , link =  http://top.rbc.ru/society/25/01/2013/842128.shtml , processed_status = Downloaded, rubrics: none
+[235]: id = 247 , agency =  ะมส , link =  http://top.rbc.ru/society/25/01/2013/842093.shtml , processed_status = Downloaded, rubrics: none
+[236]: id = 248 , agency =  ะมส , link =  http://top.rbc.ru/society/25/01/2013/842090.shtml , processed_status = Failed — list index out of range
+[237]: id = 249 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/01/2013/842228.shtml , processed_status = Downloaded, rubrics: none
+[238]: id = 250 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/01/2013/842219.shtml , processed_status = Downloaded, rubrics: none
+[239]: id = 251 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/01/2013/842170.shtml , processed_status = Downloaded, rubrics: none
+[240]: id = 252 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/01/2013/842165.shtml , processed_status = Downloaded, rubrics: none
+[241]: id = 254 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/25/01/2013/842257.shtml , processed_status = Downloaded, rubrics: none
+[242]: id = 255 , agency =  ะมส , link =  http://rt.rbc.ru/tatarstan_topnews/25/01/2013/851101.shtml , processed_status = Failed — list index out of range
+[243]: id = 256 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/01/2013/842302.shtml , processed_status = Downloaded, rubrics: none
+[244]: id = 257 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/01/2013/842296.shtml , processed_status = Downloaded, rubrics: none
+[245]: id = 258 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/01/2013/842284.shtml , processed_status = Downloaded, rubrics: none
+[246]: id = 259 , agency =  ะมส , link =  http://top.rbc.ru/society/26/01/2013/842295.shtml , processed_status = Failed — list index out of range
+[247]: id = 260 , agency =  ะมส , link =  http://top.rbc.ru/society/26/01/2013/842294.shtml , processed_status = Downloaded, rubrics: none
+[248]: id = 261 , agency =  ะมส , link =  http://top.rbc.ru/society/26/01/2013/842289.shtml , processed_status = Downloaded, rubrics: ['๑์ๅ๐๒ü']
+[249]: id = 262 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/01/2013/842297.shtml , processed_status = Downloaded, rubrics: none
+[250]: id = 263 , agency =  ะมส , link =  http://top.rbc.ru/politics/27/01/2013/842334.shtml , processed_status = Downloaded, rubrics: none
+[251]: id = 264 , agency =  ะมส , link =  http://top.rbc.ru/society/27/01/2013/842333.shtml , processed_status = Downloaded, rubrics: none
+[252]: id = 265 , agency =  ะมส , link =  http://top.rbc.ru/society/27/01/2013/842330.shtml , processed_status = Downloaded, rubrics: none
+[253]: id = 266 , agency =  ะมส , link =  http://top.rbc.ru/society/27/01/2013/842317.shtml , processed_status = Downloaded, rubrics: none
+[254]: id = 267 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/01/2013/842323.shtml , processed_status = Downloaded, rubrics: ['ม๐เ็่๋่ÿ,', 'ํ๎๗ํ๎้ ๊๋๓แ,', '๏๎ๆเ๐']
+[255]: id = 268 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/01/2013/842315.shtml , processed_status = Downloaded, rubrics: none
+[256]: id = 269 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/27/01/2013/842337.shtml , processed_status = Failed — list index out of range
+[257]: id = 270 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/01/2013/842513.shtml , processed_status = Downloaded, rubrics: none
+[258]: id = 271 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/01/2013/842361.shtml , processed_status = Downloaded, rubrics: none
+[259]: id = 272 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/01/2013/842350.shtml , processed_status = Downloaded, rubrics: none
+[260]: id = 273 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/01/2013/842349.shtml , processed_status = Downloaded, rubrics: none
+[261]: id = 274 , agency =  ะมส , link =  http://top.rbc.ru/society/28/01/2013/842512.shtml , processed_status = Failed — Unicode strings with encoding declaration are not supported. Please use bytes input or XML fragments without declaration.
+[262]: id = 275 , agency =  ะมส , link =  http://top.rbc.ru/society/28/01/2013/842402.shtml , processed_status = Downloaded, rubrics: none
+[263]: id = 276 , agency =  ะมส , link =  http://top.rbc.ru/society/28/01/2013/842398.shtml , processed_status = Downloaded, rubrics: none
+[264]: id = 277 , agency =  ะมส , link =  http://top.rbc.ru/society/28/01/2013/842357.shtml , processed_status = Downloaded, rubrics: none
+[265]: id = 279 , agency =  ะมส , link =  http://top.rbc.ru/society/28/01/2013/842351.shtml , processed_status = Failed — list index out of range
+[266]: id = 280 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/01/2013/842486.shtml , processed_status = Downloaded, rubrics: none
+[267]: id = 281 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/01/2013/842353.shtml , processed_status = Failed — list index out of range
+[268]: id = 282 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/28/01/2013/842452.shtml , processed_status = Failed — list index out of range
+[269]: id = 283 , agency =  ะมส , link =  http://top.rbc.ru/politics/29/01/2013/842689.shtml , processed_status = Downloaded, rubrics: none
+[270]: id = 284 , agency =  ะมส , link =  http://top.rbc.ru/economics/29/01/2013/842675.shtml , processed_status = Failed — list index out of range
+[271]: id = 285 , agency =  ะมส , link =  http://top.rbc.ru/society/29/01/2013/842651.shtml , processed_status = Downloaded, rubrics: none
+[272]: id = 286 , agency =  ะมส , link =  http://top.rbc.ru/society/29/01/2013/842574.shtml , processed_status = Failed — list index out of range
+[273]: id = 287 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/01/2013/842687.shtml , processed_status = Downloaded, rubrics: none
+[274]: id = 288 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/01/2013/842642.shtml , processed_status = Downloaded, rubrics: none
+[275]: id = 289 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/01/2013/842637.shtml , processed_status = Failed — list index out of range
+[276]: id = 290 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/01/2013/842622.shtml , processed_status = Downloaded, rubrics: none
+[277]: id = 291 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/01/2013/842605.shtml , processed_status = Downloaded, rubrics: none
+[278]: id = 292 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/29/01/2013/842655.shtml , processed_status = Failed — list index out of range
+[279]: id = 293 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/29/01/2013/842647.shtml , processed_status = Failed — list index out of range
+[280]: id = 294 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/29/01/2013/842639.shtml , processed_status = Failed — list index out of range
+[281]: id = 295 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/01/2013/842759.shtml , processed_status = Downloaded, rubrics: none
+[282]: id = 296 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/01/2013/842727.shtml , processed_status = Downloaded, rubrics: none
+[283]: id = 297 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/01/2013/842718.shtml , processed_status = Downloaded, rubrics: none
+[284]: id = 298 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/01/2013/842901.shtml , processed_status = Downloaded, rubrics: none
+[285]: id = 299 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/01/2013/842897.shtml , processed_status = Downloaded, rubrics: none
+[286]: id = 300 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/01/2013/842877.shtml , processed_status = Failed — list index out of range
+[287]: id = 301 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/01/2013/842876.shtml , processed_status = Downloaded, rubrics: none
+[288]: id = 302 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/01/2013/842725.shtml , processed_status = Downloaded, rubrics: none
+[289]: id = 303 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/01/2013/842716.shtml , processed_status = Downloaded, rubrics: ['ว่์แเแโๅ,', '๊๐่็่๑,', 'ภ๔๐่๊เ']
+[290]: id = 304 , agency =  ะมส , link =  http://top.rbc.ru/society/30/01/2013/842783.shtml , processed_status = Failed — list index out of range
+[291]: id = 305 , agency =  ะมส , link =  http://top.rbc.ru/society/30/01/2013/842766.shtml , processed_status = Downloaded, rubrics: none
+[292]: id = 306 , agency =  ะมส , link =  http://top.rbc.ru/society/30/01/2013/842740.shtml , processed_status = Failed — list index out of range
+[293]: id = 307 , agency =  ะมส , link =  http://top.rbc.ru/incidents/30/01/2013/842890.shtml , processed_status = Downloaded, rubrics: none
+[294]: id = 308 , agency =  ะมส , link =  http://top.rbc.ru/incidents/30/01/2013/842752.shtml , processed_status = Failed — list index out of range
+[295]: id = 309 , agency =  ะมส , link =  http://top.rbc.ru/politics/31/01/2013/843107.shtml , processed_status = Downloaded, rubrics: none
+[296]: id = 310 , agency =  ะมส , link =  http://top.rbc.ru/economics/31/01/2013/843057.shtml , processed_status = Downloaded, rubrics: none
+[297]: id = 311 , agency =  ะมส , link =  http://top.rbc.ru/society/31/01/2013/843124.shtml , processed_status = Downloaded, rubrics: ['ย๎๋ใ๎ใ๐เไ,', 'ั๒เ๋่ํใ๐เไ,', 'ยฮย,', 'โๅ๒ๅ๐เํ๛,', 'สฯะิ,', 'ั๒เ๋่ํ']
+[298]: id = 312 , agency =  ะมส , link =  http://top.rbc.ru/society/31/01/2013/843105.shtml , processed_status = Downloaded, rubrics: none
+[299]: id = 314 , agency =  ะมส , link =  http://top.rbc.ru/society/31/01/2013/843021.shtml , processed_status = Downloaded, rubrics: none
+[300]: id = 315 , agency =  ะมส , link =  http://top.rbc.ru/society/31/01/2013/843016.shtml , processed_status = Failed — list index out of range
+[301]: id = 316 , agency =  ะมส , link =  http://top.rbc.ru/society/31/01/2013/842970.shtml , processed_status = Downloaded, rubrics: none
+[302]: id = 317 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/01/2013/843048.shtml , processed_status = Downloaded, rubrics: none
+[303]: id = 318 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/01/2013/843019.shtml , processed_status = Downloaded, rubrics: none
+[304]: id = 319 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/01/2013/843010.shtml , processed_status = Downloaded, rubrics: ['๊๎๐๐๓๏๖่ÿ,', 'เ๐์่ÿ,', 'ฬ่ํ๎แ๎๐๎ํ๛,', 'ัสะ']
+[305]: id = 320 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/01/2013/842959.shtml , processed_status = Downloaded, rubrics: none
+[306]: id = 321 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/31/01/2013/843055.shtml , processed_status = Failed — list index out of range
+[307]: id = 322 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/31/01/2013/843044.shtml , processed_status = Failed — list index out of range
+[308]: id = 323 , agency =  ะมส , link =  http://top.rbc.ru/politics/01/02/2013/843335.shtml , processed_status = Downloaded, rubrics: none
+[309]: id = 326 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/02/2013/843285.shtml , processed_status = Failed — list index out of range
+[310]: id = 327 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/02/2013/843283.shtml , processed_status = Downloaded, rubrics: ['อ่ไๅ๐๋เํไ๛', 'แเํ๊']
+[311]: id = 328 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/02/2013/843259.shtml , processed_status = Downloaded, rubrics: none
+[312]: id = 329 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/02/2013/843236.shtml , processed_status = Downloaded, rubrics: none
+[313]: id = 330 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/02/2013/843176.shtml , processed_status = Downloaded, rubrics: none
+[314]: id = 331 , agency =  ะมส , link =  http://top.rbc.ru/society/01/02/2013/843269.shtml , processed_status = Downloaded, rubrics: none
+[315]: id = 332 , agency =  ะมส , link =  http://top.rbc.ru/society/01/02/2013/843185.shtml , processed_status = Failed — list index out of range
+[316]: id = 333 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/02/2013/843281.shtml , processed_status = Downloaded, rubrics: none
+[317]: id = 334 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/02/2013/843232.shtml , processed_status = Downloaded, rubrics: none
+[318]: id = 335 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/02/2013/843177.shtml , processed_status = Downloaded, rubrics: none
+[319]: id = 336 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/02/2013/843175.shtml , processed_status = Downloaded, rubrics: none
+[320]: id = 337 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/02/2013/843173.shtml , processed_status = Downloaded, rubrics: none
+[321]: id = 338 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/01/02/2013/843216.shtml , processed_status = Downloaded, rubrics: none
+[322]: id = 339 , agency =  ะมส , link =  http://top.rbc.ru/politics/02/02/2013/843377.shtml , processed_status = Downloaded, rubrics: none
+[323]: id = 340 , agency =  ะมส , link =  http://top.rbc.ru/society/02/02/2013/843390.shtml , processed_status = Downloaded, rubrics: none
+[324]: id = 341 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/02/2013/843389.shtml , processed_status = Downloaded, rubrics: none
+[325]: id = 342 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/02/2013/843405.shtml , processed_status = Downloaded, rubrics: none
+[326]: id = 343 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/02/2013/843398.shtml , processed_status = Downloaded, rubrics: none
+[327]: id = 344 , agency =  ะมส , link =  http://top.rbc.ru/society/03/02/2013/843406.shtml , processed_status = Downloaded, rubrics: none
+[328]: id = 345 , agency =  ะมส , link =  http://top.rbc.ru/society/03/02/2013/843395.shtml , processed_status = Failed — ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+[329]: id = 346 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/02/2013/843610.shtml , processed_status = Downloaded, rubrics: none
+[330]: id = 347 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/02/2013/843528.shtml , processed_status = Downloaded, rubrics: none
+[331]: id = 348 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/02/2013/843446.shtml , processed_status = Downloaded, rubrics: none
+[332]: id = 349 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/02/2013/843432.shtml , processed_status = Downloaded, rubrics: none
+[333]: id = 350 , agency =  ะมส , link =  http://top.rbc.ru/economics/04/02/2013/843466.shtml , processed_status = Downloaded, rubrics: ['เโ่เ๖่ÿ', 'ฬภส', 'ะ๎๑เโ่เ๖่ÿ', 'Red Wings']
+[334]: id = 351 , agency =  ะมส , link =  http://top.rbc.ru/society/04/02/2013/843599.shtml , processed_status = Downloaded, rubrics: none
+[335]: id = 352 , agency =  ะมส , link =  http://top.rbc.ru/society/04/02/2013/843595.shtml , processed_status = Downloaded, rubrics: none
+[336]: id = 353 , agency =  ะมส , link =  http://top.rbc.ru/society/04/02/2013/843499.shtml , processed_status = Downloaded, rubrics: none
+[337]: id = 354 , agency =  ะมส , link =  http://top.rbc.ru/society/04/02/2013/843483.shtml , processed_status = Downloaded, rubrics: none
+[338]: id = 355 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/02/2013/843612.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ', 'ฬืั', '์ๅ๒๐๎๏๎๋่๒ๅํ', '๎แ๐๓๘ๅํ่ๅ']
+[339]: id = 356 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/02/2013/843730.shtml , processed_status = Downloaded, rubrics: none
+[340]: id = 357 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/02/2013/843683.shtml , processed_status = Failed — list index out of range
+[341]: id = 358 , agency =  ะมส , link =  http://top.rbc.ru/society/05/02/2013/843811.shtml , processed_status = Downloaded, rubrics: none
+[342]: id = 359 , agency =  ะมส , link =  http://top.rbc.ru/society/05/02/2013/843792.shtml , processed_status = Downloaded, rubrics: none
+[343]: id = 360 , agency =  ะมส , link =  http://top.rbc.ru/society/05/02/2013/843783.shtml , processed_status = Downloaded, rubrics: ['สเ์แ๎ไๆเ,', 'ั่เํ๓๊,', 'ฬๅ๊๎ํใ']
+[344]: id = 361 , agency =  ะมส , link =  http://top.rbc.ru/society/05/02/2013/843778.shtml , processed_status = Downloaded, rubrics: none
+[345]: id = 362 , agency =  ะมส , link =  http://top.rbc.ru/incidents/05/02/2013/843812.shtml , processed_status = Downloaded, rubrics: none
+[346]: id = 363 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/05/02/2013/843760.shtml , processed_status = Downloaded, rubrics: none
+[347]: id = 364 , agency =  ะมส , link =  http://top.rbc.ru/politics/06/02/2013/843900.shtml , processed_status = Downloaded, rubrics: none
+[348]: id = 365 , agency =  ะมส , link =  http://top.rbc.ru/economics/06/02/2013/843825.shtml , processed_status = Failed — list index out of range
+[349]: id = 366 , agency =  ะมส , link =  http://top.rbc.ru/economics/06/02/2013/843824.shtml , processed_status = Failed — ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+[350]: id = 367 , agency =  ะมส , link =  http://top.rbc.ru/economics/06/02/2013/843823.shtml , processed_status = Downloaded, rubrics: none
+[351]: id = 368 , agency =  ะมส , link =  http://top.rbc.ru/society/06/02/2013/843923.shtml , processed_status = Downloaded, rubrics: none
+[352]: id = 369 , agency =  ะมส , link =  http://top.rbc.ru/society/06/02/2013/843863.shtml , processed_status = Downloaded, rubrics: none
+[353]: id = 370 , agency =  ะมส , link =  http://top.rbc.ru/society/06/02/2013/843821.shtml , processed_status = Failed — list index out of range
+[354]: id = 371 , agency =  ะมส , link =  http://top.rbc.ru/society/06/02/2013/843814.shtml , processed_status = Downloaded, rubrics: none
+[355]: id = 372 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/02/2013/843970.shtml , processed_status = Downloaded, rubrics: none
+[356]: id = 373 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/02/2013/843958.shtml , processed_status = Downloaded, rubrics: none
+[357]: id = 374 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/02/2013/843916.shtml , processed_status = Downloaded, rubrics: none
+[358]: id = 375 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/02/2013/843875.shtml , processed_status = Downloaded, rubrics: none
+[359]: id = 376 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/06/02/2013/843891.shtml , processed_status = Downloaded, rubrics: none
+[360]: id = 377 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/06/02/2013/843887.shtml , processed_status = Failed — list index out of range
+[361]: id = 379 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/02/2013/844204.shtml , processed_status = Downloaded, rubrics: none
+[362]: id = 380 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/02/2013/844067.shtml , processed_status = Downloaded, rubrics: none
+[363]: id = 381 , agency =  ะมส , link =  http://top.rbc.ru/economics/07/02/2013/844164.shtml , processed_status = Downloaded, rubrics: none
+[364]: id = 382 , agency =  ะมส , link =  http://top.rbc.ru/economics/07/02/2013/844042.shtml , processed_status = Failed — list index out of range
+[365]: id = 383 , agency =  ะมส , link =  http://top.rbc.ru/society/07/02/2013/844199.shtml , processed_status = Downloaded, rubrics: none
+[366]: id = 384 , agency =  ะมส , link =  http://top.rbc.ru/society/07/02/2013/844145.shtml , processed_status = Downloaded, rubrics: ['ฯ๓๒่ํ ,', 'ํเ๓๊เ,', '๏๐ๅ์่ÿ']
+[367]: id = 385 , agency =  ะมส , link =  http://top.rbc.ru/society/07/02/2013/844144.shtml , processed_status = Downloaded, rubrics: none
+[368]: id = 387 , agency =  ะมส , link =  http://top.rbc.ru/society/07/02/2013/844080.shtml , processed_status = Downloaded, rubrics: none
+[369]: id = 388 , agency =  ะมส , link =  http://top.rbc.ru/society/07/02/2013/844063.shtml , processed_status = Failed — list index out of range
+[370]: id = 389 , agency =  ะมส , link =  http://top.rbc.ru/incidents/07/02/2013/844011.shtml , processed_status = Downloaded, rubrics: none
+[371]: id = 390 , agency =  ะมส , link =  http://top.rbc.ru/incidents/07/02/2013/844007.shtml , processed_status = Downloaded, rubrics: none
+[372]: id = 391 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/07/02/2013/844072.shtml , processed_status = Downloaded, rubrics: none
+[373]: id = 392 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/07/02/2013/844050.shtml , processed_status = Failed — list index out of range
+[374]: id = 393 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/02/2013/844402.shtml , processed_status = Downloaded, rubrics: none
+[375]: id = 394 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/02/2013/844227.shtml , processed_status = Downloaded, rubrics: none
+[376]: id = 395 , agency =  ะมส , link =  http://top.rbc.ru/economics/08/02/2013/844398.shtml , processed_status = Downloaded, rubrics: none
+[377]: id = 396 , agency =  ะมส , link =  http://top.rbc.ru/society/08/02/2013/844384.shtml , processed_status = Downloaded, rubrics: none
+[378]: id = 397 , agency =  ะมส , link =  http://top.rbc.ru/society/08/02/2013/844307.shtml , processed_status = Downloaded, rubrics: none
+[379]: id = 398 , agency =  ะมส , link =  http://top.rbc.ru/society/08/02/2013/844281.shtml , processed_status = Downloaded, rubrics: none
+[380]: id = 399 , agency =  ะมส , link =  http://top.rbc.ru/society/08/02/2013/844222.shtml , processed_status = Failed — list index out of range
+[381]: id = 400 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/02/2013/844330.shtml , processed_status = Downloaded, rubrics: none
+[382]: id = 401 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/02/2013/844243.shtml , processed_status = Downloaded, rubrics: none
+[383]: id = 402 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/02/2013/844431.shtml , processed_status = Failed — list index out of range
+[384]: id = 403 , agency =  ะมส , link =  http://top.rbc.ru/economics/09/02/2013/844409.shtml , processed_status = Downloaded, rubrics: none
+[385]: id = 406 , agency =  ะมส , link =  http://top.rbc.ru/society/09/02/2013/844417.shtml , processed_status = Downloaded, rubrics: none
+[386]: id = 407 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/02/2013/844425.shtml , processed_status = Downloaded, rubrics: none
+[387]: id = 408 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/02/2013/844421.shtml , processed_status = Failed — list index out of range
+[388]: id = 409 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/02/2013/844414.shtml , processed_status = Downloaded, rubrics: none
+[389]: id = 410 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/02/2013/844413.shtml , processed_status = Downloaded, rubrics: none
+[390]: id = 411 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/02/2013/844464.shtml , processed_status = Downloaded, rubrics: ['ส๎๋๎๊๎๋ü๖ๅโ', 'ฬยฤ', '๑์ๅ๐๒ํเÿ ๊เ็ํü']
+[391]: id = 412 , agency =  ะมส , link =  http://top.rbc.ru/society/10/02/2013/844467.shtml , processed_status = Downloaded, rubrics: none
+[392]: id = 413 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/02/2013/844457.shtml , processed_status = Downloaded, rubrics: none
+[393]: id = 414 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/02/2013/844450.shtml , processed_status = Downloaded, rubrics: none
+[394]: id = 415 , agency =  ะมส , link =  http://top.rbc.ru/politics/11/02/2013/844613.shtml , processed_status = Downloaded, rubrics: none
+[395]: id = 416 , agency =  ะมส , link =  http://top.rbc.ru/politics/11/02/2013/844520.shtml , processed_status = Downloaded, rubrics: none
+[396]: id = 417 , agency =  ะมส , link =  http://top.rbc.ru/society/11/02/2013/844677.shtml , processed_status = Downloaded, rubrics: none
+[397]: id = 418 , agency =  ะมส , link =  http://top.rbc.ru/society/11/02/2013/844663.shtml , processed_status = Failed — list index out of range
+[398]: id = 419 , agency =  ะมส , link =  http://top.rbc.ru/society/11/02/2013/844661.shtml , processed_status = Downloaded, rubrics: none
+[399]: id = 420 , agency =  ะมส , link =  http://top.rbc.ru/society/11/02/2013/844644.shtml , processed_status = Downloaded, rubrics: none
+[400]: id = 421 , agency =  ะมส , link =  http://top.rbc.ru/society/11/02/2013/844482.shtml , processed_status = Downloaded, rubrics: none
+[401]: id = 422 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/02/2013/844612.shtml , processed_status = Failed — list index out of range
+[402]: id = 423 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/02/2013/844566.shtml , processed_status = Failed — list index out of range
+[403]: id = 424 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/02/2013/844532.shtml , processed_status = Downloaded, rubrics: none
+[404]: id = 425 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/02/2013/844528.shtml , processed_status = Downloaded, rubrics: none
+[405]: id = 426 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/02/2013/844523.shtml , processed_status = Downloaded, rubrics: ['โ็๐๛โ', '๘เ๕๒เ', 'ย๎๐๊๓๒เ', 'ส๎์่']
+[406]: id = 427 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/11/02/2013/844556.shtml , processed_status = Failed — list index out of range
+[407]: id = 428 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/02/2013/844864.shtml , processed_status = Downloaded, rubrics: none
+[408]: id = 429 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/02/2013/844858.shtml , processed_status = Downloaded, rubrics: none
+[409]: id = 430 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/02/2013/844851.shtml , processed_status = Downloaded, rubrics: none
+[410]: id = 431 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/02/2013/844842.shtml , processed_status = Downloaded, rubrics: ['๊๓๐ๅํ่ๅ,', 'ร๎๑ไ๓์เ,', '็เ๊๎ํ๛']
+[411]: id = 433 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/02/2013/844782.shtml , processed_status = Downloaded, rubrics: none
+[412]: id = 434 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/02/2013/844705.shtml , processed_status = Downloaded, rubrics: none
+[413]: id = 435 , agency =  ะมส , link =  http://top.rbc.ru/economics/12/02/2013/844786.shtml , processed_status = Downloaded, rubrics: none
+[414]: id = 436 , agency =  ะมส , link =  http://top.rbc.ru/economics/12/02/2013/844763.shtml , processed_status = Downloaded, rubrics: none
+[415]: id = 437 , agency =  ะมส , link =  http://top.rbc.ru/society/12/02/2013/844823.shtml , processed_status = Downloaded, rubrics: none
+[416]: id = 438 , agency =  ะมส , link =  http://top.rbc.ru/society/12/02/2013/844727.shtml , processed_status = Failed — list index out of range
+[417]: id = 439 , agency =  ะมส , link =  http://top.rbc.ru/society/12/02/2013/844687.shtml , processed_status = Downloaded, rubrics: none
+[418]: id = 440 , agency =  ะมส , link =  http://top.rbc.ru/society/12/02/2013/844685.shtml , processed_status = Downloaded, rubrics: none
+[419]: id = 441 , agency =  ะมส , link =  http://top.rbc.ru/society/12/02/2013/844679.shtml , processed_status = Downloaded, rubrics: none
+[420]: id = 442 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844854.shtml , processed_status = Downloaded, rubrics: none
+[421]: id = 443 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844808.shtml , processed_status = Downloaded, rubrics: none
+[422]: id = 444 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844770.shtml , processed_status = Downloaded, rubrics: none
+[423]: id = 445 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844755.shtml , processed_status = Downloaded, rubrics: none
+[424]: id = 446 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844730.shtml , processed_status = Downloaded, rubrics: none
+[425]: id = 447 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844692.shtml , processed_status = Downloaded, rubrics: none
+[426]: id = 448 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/02/2013/844688.shtml , processed_status = Failed — list index out of range
+[427]: id = 449 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/12/02/2013/844756.shtml , processed_status = Downloaded, rubrics: none
+[428]: id = 450 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/12/02/2013/844778.shtml , processed_status = Failed — list index out of range
+[429]: id = 451 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/12/02/2013/844749.shtml , processed_status = Failed — list index out of range
+[430]: id = 452 , agency =  ะมส , link =  http://top.rbc.ru/politics/13/02/2013/845016.shtml , processed_status = Downloaded, rubrics: none
+[431]: id = 453 , agency =  ะมส , link =  http://top.rbc.ru/politics/13/02/2013/844993.shtml , processed_status = Downloaded, rubrics: none
+[432]: id = 455 , agency =  ะมส , link =  http://top.rbc.ru/economics/13/02/2013/845045.shtml , processed_status = Downloaded, rubrics: none
+[433]: id = 456 , agency =  ะมส , link =  http://top.rbc.ru/economics/13/02/2013/845033.shtml , processed_status = Downloaded, rubrics: none
+[434]: id = 457 , agency =  ะมส , link =  http://top.rbc.ru/economics/13/02/2013/845023.shtml , processed_status = Downloaded, rubrics: none
+[435]: id = 458 , agency =  ะมส , link =  http://top.rbc.ru/economics/13/02/2013/844992.shtml , processed_status = Failed — list index out of range
+[436]: id = 459 , agency =  ะมส , link =  http://top.rbc.ru/society/13/02/2013/845054.shtml , processed_status = Downloaded, rubrics: none
+[437]: id = 460 , agency =  ะมส , link =  http://top.rbc.ru/society/13/02/2013/845007.shtml , processed_status = Downloaded, rubrics: none
+[438]: id = 461 , agency =  ะมส , link =  http://top.rbc.ru/society/13/02/2013/844963.shtml , processed_status = Downloaded, rubrics: none
+[439]: id = 462 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/02/2013/845000.shtml , processed_status = Downloaded, rubrics: none
+[440]: id = 464 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/02/2013/844924.shtml , processed_status = Downloaded, rubrics: none
+[441]: id = 465 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/02/2013/844909.shtml , processed_status = Failed — list index out of range
+[442]: id = 466 , agency =  ะมส , link =  http://top.rbc.ru/incidents/13/02/2013/844880.shtml , processed_status = Downloaded, rubrics: none
+[443]: id = 467 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/02/2013/845219.shtml , processed_status = Downloaded, rubrics: none
+[444]: id = 468 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/02/2013/845099.shtml , processed_status = Downloaded, rubrics: none
+[445]: id = 469 , agency =  ะมส , link =  http://top.rbc.ru/economics/14/02/2013/845150.shtml , processed_status = Downloaded, rubrics: none
+[446]: id = 470 , agency =  ะมส , link =  http://top.rbc.ru/society/14/02/2013/845178.shtml , processed_status = Downloaded, rubrics: none
+[447]: id = 471 , agency =  ะมส , link =  http://top.rbc.ru/society/14/02/2013/845172.shtml , processed_status = Downloaded, rubrics: none
+[448]: id = 472 , agency =  ะมส , link =  http://top.rbc.ru/society/14/02/2013/845171.shtml , processed_status = Downloaded, rubrics: none
+[449]: id = 474 , agency =  ะมส , link =  http://top.rbc.ru/society/14/02/2013/845119.shtml , processed_status = Downloaded, rubrics: none
+[450]: id = 475 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/02/2013/845244.shtml , processed_status = Downloaded, rubrics: none
+[451]: id = 476 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/02/2013/845173.shtml , processed_status = Downloaded, rubrics: none
+[452]: id = 477 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/02/2013/845065.shtml , processed_status = Downloaded, rubrics: none
+[453]: id = 478 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/14/02/2013/845175.shtml , processed_status = Failed — list index out of range
+[454]: id = 479 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/14/02/2013/845159.shtml , processed_status = Failed — list index out of range
+[455]: id = 480 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/14/02/2013/845084.shtml , processed_status = Failed — list index out of range
+[456]: id = 481 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/02/2013/845433.shtml , processed_status = Downloaded, rubrics: none
+[457]: id = 482 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/02/2013/845426.shtml , processed_status = Downloaded, rubrics: none
+[458]: id = 483 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/02/2013/845382.shtml , processed_status = Downloaded, rubrics: none
+[459]: id = 484 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/02/2013/845376.shtml , processed_status = Downloaded, rubrics: none
+[460]: id = 485 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/02/2013/845318.shtml , processed_status = Failed — list index out of range
+[461]: id = 486 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/02/2013/845315.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊๎โ๑๊เÿ แ่๐ๆเ', 'IPO', 'ฬฬยม', 'ะาั']
+[462]: id = 487 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845449.shtml , processed_status = Downloaded, rubrics: none
+[463]: id = 488 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845447.shtml , processed_status = Failed — list index out of range
+[464]: id = 489 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845445.shtml , processed_status = Downloaded, rubrics: ['ยๅํๅ๑๓ý๋เ']
+[465]: id = 490 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845417.shtml , processed_status = Downloaded, rubrics: none
+[466]: id = 491 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845412.shtml , processed_status = Downloaded, rubrics: none
+[467]: id = 492 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845354.shtml , processed_status = Downloaded, rubrics: none
+[468]: id = 493 , agency =  ะมส , link =  http://top.rbc.ru/society/15/02/2013/845281.shtml , processed_status = Downloaded, rubrics: none
+[469]: id = 494 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/02/2013/845368.shtml , processed_status = Failed — list index out of range
+[470]: id = 495 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/15/02/2013/845370.shtml , processed_status = Failed — list index out of range
+[471]: id = 496 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/15/02/2013/845363.shtml , processed_status = Downloaded, rubrics: none
+[472]: id = 497 , agency =  ะมส , link =  http://top.rbc.ru/economics/16/02/2013/845467.shtml , processed_status = Downloaded, rubrics: ['G20', 'ฬยิ', 'โเ๋þ๒ํ๛้ ๐๛ํ๎๊', 'หเใเ๐ไ']
+[473]: id = 498 , agency =  ะมส , link =  http://top.rbc.ru/society/16/02/2013/845477.shtml , processed_status = Failed — list index out of range
+[474]: id = 499 , agency =  ะมส , link =  http://top.rbc.ru/society/16/02/2013/845460.shtml , processed_status = Downloaded, rubrics: none
+[475]: id = 500 , agency =  ะมส , link =  http://top.rbc.ru/society/16/02/2013/845456.shtml , processed_status = Downloaded, rubrics: none
+[476]: id = 501 , agency =  ะมส , link =  http://top.rbc.ru/society/16/02/2013/845453.shtml , processed_status = Downloaded, rubrics: none
+[477]: id = 502 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/02/2013/845463.shtml , processed_status = Downloaded, rubrics: ['ฬืั,', 'ืๅ๋ÿแ่ํ๑๊เÿ ๎แ๋เ๑๒ü,', '์ๅ๒ๅ๎๐่๒,', 'ืๅแเ๐๊๓๋ü']
+[478]: id = 503 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/02/2013/845451.shtml , processed_status = Downloaded, rubrics: none
+[479]: id = 504 , agency =  ะมส , link =  http://top.rbc.ru/politics/17/02/2013/845509.shtml , processed_status = Downloaded, rubrics: none
+[480]: id = 505 , agency =  ะมส , link =  http://top.rbc.ru/politics/17/02/2013/845493.shtml , processed_status = Downloaded, rubrics: none
+[481]: id = 506 , agency =  ะมส , link =  http://top.rbc.ru/society/17/02/2013/845494.shtml , processed_status = Downloaded, rubrics: none
+[482]: id = 507 , agency =  ะมส , link =  http://top.rbc.ru/society/17/02/2013/845488.shtml , processed_status = Downloaded, rubrics: none
+[483]: id = 508 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/02/2013/845502.shtml , processed_status = Downloaded, rubrics: none
+[484]: id = 509 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/02/2013/845703.shtml , processed_status = Downloaded, rubrics: none
+[485]: id = 510 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/02/2013/845671.shtml , processed_status = Downloaded, rubrics: none
+[486]: id = 512 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/02/2013/845623.shtml , processed_status = Downloaded, rubrics: none
+[487]: id = 513 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/02/2013/845551.shtml , processed_status = Failed — list index out of range
+[488]: id = 514 , agency =  ะมส , link =  http://top.rbc.ru/economics/18/02/2013/845593.shtml , processed_status = Downloaded, rubrics: ['๐ๅ้๒่ํใ ์่๋๋่เ๐ไๅ๐๎โ,', 'ำ๑์เํ๎โ,', 'ห่๑่ํ,', 'ยๅ๊๑ๅ๋üแๅ๐ใ,', 'ภแ๐เ์๎โ่๗,', 'ฤๅ๐่๏เ๑๊เ,', 'ฯ๐๎๕๎๐๎โ,', 'า่์๗ๅํ๊๎,', 'ภ๋ๅ๊๏ๅ๐๎โ']
+[489]: id = 515 , agency =  ะมส , link =  http://top.rbc.ru/society/18/02/2013/845628.shtml , processed_status = Downloaded, rubrics: ['๎ํ๊๎๋๎ใ่ÿ,', 'ฬ่ํ็ไ๐เโ,', '๊๎๐๐๓๏๖่ÿ,', '๐เ๊,', '๊๎๐๐๓๏๖่ÿ,', '์ๅไ่๖่ํเ ,', 'ฬ๎๑๊โเ,', 'ยเ๋ๅ๐่้ ื่๑๑๎โ']
+[490]: id = 516 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/02/2013/845656.shtml , processed_status = Downloaded, rubrics: none
+[491]: id = 517 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/02/2013/845571.shtml , processed_status = Downloaded, rubrics: none
+[492]: id = 518 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/02/2013/845541.shtml , processed_status = Downloaded, rubrics: none
+[493]: id = 520 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/02/2013/845520.shtml , processed_status = Downloaded, rubrics: none
+[494]: id = 521 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/18/02/2013/845650.shtml , processed_status = Downloaded, rubrics: none
+[495]: id = 522 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/02/2013/845688.shtml , processed_status = Failed — list index out of range
+[496]: id = 523 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/02/2013/845643.shtml , processed_status = Failed — list index out of range
+[497]: id = 524 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/02/2013/845922.shtml , processed_status = Downloaded, rubrics: none
+[498]: id = 525 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/02/2013/845915.shtml , processed_status = Failed — list index out of range
+[499]: id = 526 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/02/2013/845871.shtml , processed_status = Downloaded, rubrics: none
+[500]: id = 527 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/02/2013/845723.shtml , processed_status = Downloaded, rubrics: none
+[501]: id = 528 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/02/2013/845826.shtml , processed_status = Downloaded, rubrics: ['ร๎๑ไ๓์เ ,', '๏๐่โเ๒่็เ๖่ÿ ,', 'ํๅไโ่ๆ่์๎๑๒ü ,', 'ๆ่๋üๅ']
+[502]: id = 529 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/02/2013/845801.shtml , processed_status = Downloaded, rubrics: none
+[503]: id = 530 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/02/2013/845760.shtml , processed_status = Failed — list index out of range
+[504]: id = 531 , agency =  ะมส , link =  http://top.rbc.ru/society/19/02/2013/845921.shtml , processed_status = Downloaded, rubrics: none
+[505]: id = 532 , agency =  ะมส , link =  http://top.rbc.ru/society/19/02/2013/845758.shtml , processed_status = Downloaded, rubrics: ['๘๒เ๒ ฬ่๑๑่๑่๏่,', 'ัุภ,', '๐เแ๑๒โ๎,', 'ภโ๐เเ์ ห่ํ๊๎๋üํ']
+[506]: id = 533 , agency =  ะมส , link =  http://top.rbc.ru/society/19/02/2013/845727.shtml , processed_status = Downloaded, rubrics: none
+[507]: id = 534 , agency =  ะมส , link =  http://top.rbc.ru/society/19/02/2013/845719.shtml , processed_status = Downloaded, rubrics: none
+[508]: id = 535 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/02/2013/845840.shtml , processed_status = Downloaded, rubrics: none
+[509]: id = 536 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/19/02/2013/845894.shtml , processed_status = Downloaded, rubrics: none
+[510]: id = 537 , agency =  ะมส , link =  http://top.rbc.ru/politics/20/02/2013/846117.shtml , processed_status = Downloaded, rubrics: none
+[511]: id = 538 , agency =  ะมส , link =  http://top.rbc.ru/politics/20/02/2013/846107.shtml , processed_status = Downloaded, rubrics: none
+[512]: id = 540 , agency =  ะมส , link =  http://top.rbc.ru/economics/20/02/2013/845939.shtml , processed_status = Downloaded, rubrics: ['หๅแๅไๅโ', 'ฯ๎๋๎ํ๑๊่้', 'ื่๗โเ๐๊่ํ', 'ม๓์ๅ๐เํใ']
+[513]: id = 541 , agency =  ะมส , link =  http://top.rbc.ru/society/20/02/2013/846137.shtml , processed_status = Downloaded, rubrics: none
+[514]: id = 542 , agency =  ะมส , link =  http://top.rbc.ru/society/20/02/2013/846033.shtml , processed_status = Downloaded, rubrics: none
+[515]: id = 543 , agency =  ะมส , link =  http://top.rbc.ru/society/20/02/2013/846020.shtml , processed_status = Downloaded, rubrics: none
+[516]: id = 544 , agency =  ะมส , link =  http://top.rbc.ru/society/20/02/2013/845998.shtml , processed_status = Downloaded, rubrics: none
+[517]: id = 545 , agency =  ะมส , link =  http://top.rbc.ru/society/20/02/2013/845981.shtml , processed_status = Downloaded, rubrics: none
+[518]: id = 546 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/02/2013/846140.shtml , processed_status = Downloaded, rubrics: none
+[519]: id = 547 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/02/2013/846028.shtml , processed_status = Downloaded, rubrics: none
+[520]: id = 548 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/02/2013/845978.shtml , processed_status = Downloaded, rubrics: none
+[521]: id = 549 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/02/2013/845927.shtml , processed_status = Downloaded, rubrics: none
+[522]: id = 552 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/02/2013/846337.shtml , processed_status = Downloaded, rubrics: none
+[523]: id = 553 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/02/2013/846242.shtml , processed_status = Downloaded, rubrics: none
+[524]: id = 554 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846314.shtml , processed_status = Downloaded, rubrics: none
+[525]: id = 555 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846276.shtml , processed_status = Downloaded, rubrics: none
+[526]: id = 556 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846233.shtml , processed_status = Downloaded, rubrics: none
+[527]: id = 557 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846215.shtml , processed_status = Downloaded, rubrics: none
+[528]: id = 558 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846194.shtml , processed_status = Downloaded, rubrics: none
+[529]: id = 559 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846167.shtml , processed_status = Downloaded, rubrics: none
+[530]: id = 560 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846161.shtml , processed_status = Downloaded, rubrics: ['ภ๋ๅ๊๑ๅ้ รๅ๐์เํ - ๑๒เ๐๘่้,', '๊่ํ๎,', '๑์ๅ๐๒ü']
+[531]: id = 561 , agency =  ะมส , link =  http://top.rbc.ru/society/21/02/2013/846143.shtml , processed_status = Downloaded, rubrics: ['Soft Machine ,', '์๓็๛๊เ,', '๑์ๅ๐๒ü']
+[532]: id = 563 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/02/2013/846316.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ', 'ฬยฤ', 'ý๊๑๒๐เ๑ๅํ๑']
+[533]: id = 564 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/02/2013/846250.shtml , processed_status = Downloaded, rubrics: none
+[534]: id = 565 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/02/2013/846149.shtml , processed_status = Downloaded, rubrics: none
+[535]: id = 566 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/21/02/2013/846195.shtml , processed_status = Downloaded, rubrics: none
+[536]: id = 567 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/21/02/2013/846165.shtml , processed_status = Downloaded, rubrics: none
+[537]: id = 568 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/21/02/2013/846163.shtml , processed_status = Failed — list index out of range
+[538]: id = 569 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/02/2013/846438.shtml , processed_status = Downloaded, rubrics: none
+[539]: id = 570 , agency =  ะมส , link =  http://top.rbc.ru/economics/22/02/2013/846406.shtml , processed_status = Downloaded, rubrics: none
+[540]: id = 571 , agency =  ะมส , link =  http://top.rbc.ru/economics/22/02/2013/846388.shtml , processed_status = Downloaded, rubrics: none
+[541]: id = 572 , agency =  ะมส , link =  http://top.rbc.ru/society/22/02/2013/846532.shtml , processed_status = Downloaded, rubrics: none
+[542]: id = 573 , agency =  ะมส , link =  http://top.rbc.ru/society/22/02/2013/846506.shtml , processed_status = Downloaded, rubrics: none
+[543]: id = 574 , agency =  ะมส , link =  http://top.rbc.ru/society/22/02/2013/846489.shtml , processed_status = Downloaded, rubrics: none
+[544]: id = 575 , agency =  ะมส , link =  http://top.rbc.ru/society/22/02/2013/846429.shtml , processed_status = Failed — list index out of range
+[545]: id = 576 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/02/2013/846575.shtml , processed_status = Downloaded, rubrics: none
+[546]: id = 577 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/02/2013/846534.shtml , processed_status = Downloaded, rubrics: none
+[547]: id = 578 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/02/2013/846614.shtml , processed_status = Downloaded, rubrics: none
+[548]: id = 579 , agency =  ะมส , link =  http://top.rbc.ru/economics/23/02/2013/846584.shtml , processed_status = Downloaded, rubrics: none
+[549]: id = 580 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/02/2013/846588.shtml , processed_status = Downloaded, rubrics: none
+[550]: id = 581 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/02/2013/846586.shtml , processed_status = Failed — list index out of range
+[551]: id = 582 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/02/2013/846653.shtml , processed_status = Downloaded, rubrics: ['ส่๏๐']
+[552]: id = 583 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/02/2013/846649.shtml , processed_status = Downloaded, rubrics: none
+[553]: id = 584 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/02/2013/846636.shtml , processed_status = Downloaded, rubrics: none
+[554]: id = 585 , agency =  ะมส , link =  http://top.rbc.ru/society/24/02/2013/846644.shtml , processed_status = Downloaded, rubrics: none
+[555]: id = 586 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/02/2013/846626.shtml , processed_status = Downloaded, rubrics: none
+[556]: id = 587 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/24/02/2013/846631.shtml , processed_status = Failed — list index out of range
+[557]: id = 588 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/02/2013/846665.shtml , processed_status = Downloaded, rubrics: none
+[558]: id = 589 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/02/2013/846659.shtml , processed_status = Downloaded, rubrics: none
+[559]: id = 590 , agency =  ะมส , link =  http://top.rbc.ru/society/25/02/2013/846855.shtml , processed_status = Downloaded, rubrics: none
+[560]: id = 592 , agency =  ะมส , link =  http://top.rbc.ru/society/25/02/2013/846717.shtml , processed_status = Downloaded, rubrics: none
+[561]: id = 593 , agency =  ะมส , link =  http://top.rbc.ru/society/25/02/2013/846671.shtml , processed_status = Downloaded, rubrics: none
+[562]: id = 594 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/02/2013/846813.shtml , processed_status = Downloaded, rubrics: none
+[563]: id = 595 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/02/2013/846805.shtml , processed_status = Failed — ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+[564]: id = 596 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/02/2013/846709.shtml , processed_status = Downloaded, rubrics: none
+[565]: id = 597 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/02/2013/846701.shtml , processed_status = Failed — list index out of range
+[566]: id = 598 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/25/02/2013/846834.shtml , processed_status = Failed — list index out of range
+[567]: id = 599 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/25/02/2013/846699.shtml , processed_status = Failed — list index out of range
+[568]: id = 600 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/25/02/2013/846825.shtml , processed_status = Failed — list index out of range
+[569]: id = 601 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/25/02/2013/846695.shtml , processed_status = Failed — list index out of range
+[570]: id = 602 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/02/2013/847010.shtml , processed_status = Failed — list index out of range
+[571]: id = 603 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/02/2013/846928.shtml , processed_status = Downloaded, rubrics: none
+[572]: id = 604 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/02/2013/846877.shtml , processed_status = Downloaded, rubrics: none
+[573]: id = 605 , agency =  ะมส , link =  http://top.rbc.ru/economics/26/02/2013/846971.shtml , processed_status = Downloaded, rubrics: none
+[574]: id = 606 , agency =  ะมส , link =  http://top.rbc.ru/society/26/02/2013/847025.shtml , processed_status = Downloaded, rubrics: none
+[575]: id = 607 , agency =  ะมส , link =  http://top.rbc.ru/society/26/02/2013/847006.shtml , processed_status = Downloaded, rubrics: none
+[576]: id = 608 , agency =  ะมส , link =  http://top.rbc.ru/society/26/02/2013/846997.shtml , processed_status = Downloaded, rubrics: ['ัสะ,', 'ิัศอ,', '๊๎๐๐๓๏๖่ÿ']
+[577]: id = 609 , agency =  ะมส , link =  http://top.rbc.ru/society/26/02/2013/846984.shtml , processed_status = Downloaded, rubrics: none
+[578]: id = 610 , agency =  ะมส , link =  http://top.rbc.ru/society/26/02/2013/846924.shtml , processed_status = Downloaded, rubrics: none
+[579]: id = 611 , agency =  ะมส , link =  http://top.rbc.ru/society/26/02/2013/846874.shtml , processed_status = Downloaded, rubrics: none
+[580]: id = 612 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/02/2013/847027.shtml , processed_status = Downloaded, rubrics: none
+[581]: id = 613 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/02/2013/847013.shtml , processed_status = Downloaded, rubrics: none
+[582]: id = 614 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/02/2013/846978.shtml , processed_status = Failed — list index out of range
+[583]: id = 615 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/02/2013/846954.shtml , processed_status = Downloaded, rubrics: none
+[584]: id = 617 , agency =  ะมส , link =  http://top.rbc.ru/politics/27/02/2013/847207.shtml , processed_status = Downloaded, rubrics: none
+[585]: id = 618 , agency =  ะมส , link =  http://top.rbc.ru/economics/27/02/2013/847175.shtml , processed_status = Downloaded, rubrics: none
+[586]: id = 619 , agency =  ะมส , link =  http://top.rbc.ru/economics/27/02/2013/847160.shtml , processed_status = Downloaded, rubrics: none
+[587]: id = 620 , agency =  ะมส , link =  http://top.rbc.ru/economics/27/02/2013/847152.shtml , processed_status = Downloaded, rubrics: none
+[588]: id = 621 , agency =  ะมส , link =  http://top.rbc.ru/society/27/02/2013/847226.shtml , processed_status = Downloaded, rubrics: none
+[589]: id = 622 , agency =  ะมส , link =  http://top.rbc.ru/society/27/02/2013/847215.shtml , processed_status = Downloaded, rubrics: none
+[590]: id = 623 , agency =  ะมส , link =  http://top.rbc.ru/society/27/02/2013/847129.shtml , processed_status = Downloaded, rubrics: none
+[591]: id = 624 , agency =  ะมส , link =  http://top.rbc.ru/society/27/02/2013/847126.shtml , processed_status = Downloaded, rubrics: none
+[592]: id = 625 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/02/2013/847199.shtml , processed_status = Downloaded, rubrics: none
+[593]: id = 627 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/27/02/2013/847227.shtml , processed_status = Failed — list index out of range
+[594]: id = 628 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/02/2013/847427.shtml , processed_status = Failed — ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+[595]: id = 629 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/02/2013/847423.shtml , processed_status = Downloaded, rubrics: none
+[596]: id = 630 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/02/2013/847307.shtml , processed_status = Failed — list index out of range
+[597]: id = 631 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/02/2013/847264.shtml , processed_status = Downloaded, rubrics: none
+[598]: id = 632 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/02/2013/847249.shtml , processed_status = Downloaded, rubrics: none
+[599]: id = 633 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/02/2013/847244.shtml , processed_status = Downloaded, rubrics: none
+[600]: id = 635 , agency =  ะมส , link =  http://top.rbc.ru/economics/28/02/2013/847297.shtml , processed_status = Downloaded, rubrics: none
+[601]: id = 636 , agency =  ะมส , link =  http://top.rbc.ru/society/28/02/2013/847442.shtml , processed_status = Downloaded, rubrics: none
+[602]: id = 637 , agency =  ะมส , link =  http://top.rbc.ru/society/28/02/2013/847292.shtml , processed_status = Downloaded, rubrics: none
+[603]: id = 638 , agency =  ะมส , link =  http://top.rbc.ru/society/28/02/2013/847279.shtml , processed_status = Downloaded, rubrics: none
+[604]: id = 639 , agency =  ะมส , link =  http://top.rbc.ru/society/28/02/2013/847233.shtml , processed_status = Downloaded, rubrics: none
+[605]: id = 640 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/02/2013/847420.shtml , processed_status = Downloaded, rubrics: none
+[606]: id = 641 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/28/02/2013/847374.shtml , processed_status = Failed — list index out of range
+[607]: id = 642 , agency =  ะมส , link =  http://top.rbc.ru/politics/01/03/2013/847452.shtml , processed_status = Downloaded, rubrics: none
+[608]: id = 643 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/03/2013/847563.shtml , processed_status = Downloaded, rubrics: none
+[609]: id = 644 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/03/2013/847517.shtml , processed_status = Downloaded, rubrics: none
+[610]: id = 645 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/03/2013/847468.shtml , processed_status = Failed — list index out of range
+[611]: id = 646 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/03/2013/847459.shtml , processed_status = Downloaded, rubrics: none
+[612]: id = 647 , agency =  ะมส , link =  http://top.rbc.ru/society/01/03/2013/847614.shtml , processed_status = Downloaded, rubrics: ['Pussy Riot,', 'า๎๋๎๊๎ํํ่๊๎โเ']
+[613]: id = 648 , agency =  ะมส , link =  http://top.rbc.ru/society/01/03/2013/847592.shtml , processed_status = Failed — list index out of range
+[614]: id = 649 , agency =  ะมส , link =  http://top.rbc.ru/society/01/03/2013/847542.shtml , processed_status = Downloaded, rubrics: none
+[615]: id = 650 , agency =  ะมส , link =  http://top.rbc.ru/society/01/03/2013/847454.shtml , processed_status = Downloaded, rubrics: none
+[616]: id = 651 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/03/2013/847565.shtml , processed_status = Failed — list index out of range
+[617]: id = 652 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/03/2013/847502.shtml , processed_status = Failed — list index out of range
+[618]: id = 653 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/03/2013/847485.shtml , processed_status = Downloaded, rubrics: none
+[619]: id = 654 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/03/2013/847471.shtml , processed_status = Downloaded, rubrics: none
+[620]: id = 655 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/03/2013/847447.shtml , processed_status = Downloaded, rubrics: none
+[621]: id = 656 , agency =  ะมส , link =  http://top.rbc.ru/retail/01/03/2013/847461.shtml , processed_status = Downloaded, rubrics: none
+[622]: id = 657 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/01/03/2013/847484.shtml , processed_status = Failed — list index out of range
+[623]: id = 658 , agency =  ะมส , link =  http://top.rbc.ru/politics/02/03/2013/847650.shtml , processed_status = Failed — list index out of range
+[624]: id = 659 , agency =  ะมส , link =  http://top.rbc.ru/society/02/03/2013/847623.shtml , processed_status = Failed — list index out of range
+[625]: id = 660 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/03/2013/847655.shtml , processed_status = Downloaded, rubrics: none
+[626]: id = 661 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/03/2013/847635.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ ,', '๎ใ๐เแ๋ๅํ่ๅ,', 'þโๅ๋่๐ํ๛้ ๑เ๋๎ํ,', 'ฬยฤ']
+[627]: id = 663 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847685.shtml , processed_status = Downloaded, rubrics: ['ฯๅ๒ๅ๐แ๓๐ใ,', 'Harlem shake,', 'ศํ๒ๅ๐ํๅ๒,', '์ๅ์๛,', '๔๋ๅ๘์๎แ,', '์เ๑๑๎โเÿ เ๊๖่ÿ']
+[628]: id = 664 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847682.shtml , processed_status = Downloaded, rubrics: none
+[629]: id = 665 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847681.shtml , processed_status = Downloaded, rubrics: none
+[630]: id = 666 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847675.shtml , processed_status = Downloaded, rubrics: none
+[631]: id = 667 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847668.shtml , processed_status = Downloaded, rubrics: none
+[632]: id = 668 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847661.shtml , processed_status = Downloaded, rubrics: none
+[633]: id = 669 , agency =  ะมส , link =  http://top.rbc.ru/society/03/03/2013/847659.shtml , processed_status = Downloaded, rubrics: none
+[634]: id = 670 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/03/2013/847771.shtml , processed_status = Downloaded, rubrics: none
+[635]: id = 671 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/03/2013/847770.shtml , processed_status = Downloaded, rubrics: ['๏เ๐๋เ์ๅํ๒', 'ฯ๎๋ü๘เ', '๒๎๋ๅ๐เํ๒ํ๎๑๒ü']
+[636]: id = 672 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/03/2013/847732.shtml , processed_status = Downloaded, rubrics: none
+[637]: id = 673 , agency =  ะมส , link =  http://top.rbc.ru/society/04/03/2013/847819.shtml , processed_status = Downloaded, rubrics: none
+[638]: id = 674 , agency =  ะมส , link =  http://top.rbc.ru/society/04/03/2013/847772.shtml , processed_status = Downloaded, rubrics: none
+[639]: id = 675 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/03/2013/847736.shtml , processed_status = Downloaded, rubrics: none
+[640]: id = 676 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/03/2013/847711.shtml , processed_status = Downloaded, rubrics: none
+[641]: id = 677 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/03/2013/847693.shtml , processed_status = Downloaded, rubrics: none
+[642]: id = 678 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/04/03/2013/847825.shtml , processed_status = Failed — list index out of range
+[643]: id = 679 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/04/03/2013/847713.shtml , processed_status = Failed — list index out of range
+[644]: id = 680 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/04/03/2013/847780.shtml , processed_status = Failed — list index out of range
+[645]: id = 681 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/03/2013/847998.shtml , processed_status = Downloaded, rubrics: none
+[646]: id = 682 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/03/2013/847890.shtml , processed_status = Downloaded, rubrics: ['ยๅํๅ๑๓ý๋เ,', 'ืเโๅ๑,', '็ไ๎๐๎โüๅ']
+[647]: id = 683 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/03/2013/847886.shtml , processed_status = Downloaded, rubrics: none
+[648]: id = 684 , agency =  ะมส , link =  http://top.rbc.ru/economics/05/03/2013/848051.shtml , processed_status = Downloaded, rubrics: ['Dow Jones ,', 'ัุภ']
+[649]: id = 686 , agency =  ะมส , link =  http://top.rbc.ru/society/05/03/2013/848054.shtml , processed_status = Downloaded, rubrics: none
+[650]: id = 687 , agency =  ะมส , link =  http://top.rbc.ru/society/05/03/2013/848033.shtml , processed_status = Downloaded, rubrics: none
+[651]: id = 688 , agency =  ะมส , link =  http://top.rbc.ru/society/05/03/2013/847982.shtml , processed_status = Failed — list index out of range
+[652]: id = 689 , agency =  ะมส , link =  http://top.rbc.ru/society/05/03/2013/847955.shtml , processed_status = Downloaded, rubrics: ['ึเ๏๎๊,', 'ส๐เ๑ํ๎ไเ๐๑๊่้ ๊๐เ้,', 'ส๓๙ๅโ๑๊เÿ']
+[653]: id = 690 , agency =  ะมส , link =  http://top.rbc.ru/society/05/03/2013/847927.shtml , processed_status = Failed — list index out of range
+[654]: id = 691 , agency =  ะมส , link =  http://top.rbc.ru/society/05/03/2013/847904.shtml , processed_status = Downloaded, rubrics: none
+[655]: id = 692 , agency =  ะมส , link =  http://top.rbc.ru/incidents/05/03/2013/847946.shtml , processed_status = Downloaded, rubrics: none
+[656]: id = 693 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/05/03/2013/847896.shtml , processed_status = Failed — list index out of range
+[657]: id = 694 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/05/03/2013/848041.shtml , processed_status = Failed — list index out of range
+[658]: id = 695 , agency =  ะมส , link =  http://top.rbc.ru/politics/06/03/2013/848215.shtml , processed_status = Downloaded, rubrics: none
+[659]: id = 696 , agency =  ะมส , link =  http://top.rbc.ru/politics/06/03/2013/848096.shtml , processed_status = Failed — list index out of range
+[660]: id = 697 , agency =  ะมส , link =  http://top.rbc.ru/politics/06/03/2013/848068.shtml , processed_status = Downloaded, rubrics: none
+[661]: id = 698 , agency =  ะมส , link =  http://top.rbc.ru/society/06/03/2013/848223.shtml , processed_status = Downloaded, rubrics: none
+[662]: id = 699 , agency =  ะมส , link =  http://top.rbc.ru/society/06/03/2013/848125.shtml , processed_status = Downloaded, rubrics: none
+[663]: id = 701 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/03/2013/848248.shtml , processed_status = Downloaded, rubrics: none
+[664]: id = 702 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/03/2013/848144.shtml , processed_status = Failed — list index out of range
+[665]: id = 704 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/06/03/2013/848095.shtml , processed_status = Failed — list index out of range
+[666]: id = 705 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/06/03/2013/848070.shtml , processed_status = Failed — list index out of range
+[667]: id = 706 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/03/2013/848352.shtml , processed_status = Downloaded, rubrics: none
+[668]: id = 707 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/03/2013/848259.shtml , processed_status = Downloaded, rubrics: none
+[669]: id = 708 , agency =  ะมส , link =  http://top.rbc.ru/economics/07/03/2013/848257.shtml , processed_status = Downloaded, rubrics: none
+[670]: id = 709 , agency =  ะมส , link =  http://top.rbc.ru/economics/07/03/2013/848252.shtml , processed_status = Downloaded, rubrics: ['ะ๎๑ํๅ๔๒ü,', 'ExxonMobil,', 'ัๅ๗่ํ,', 'ฬๅ๊๑่๊เํ๑๊่้ ็เ๋่โ,', 'ํๅ๔๒ü']
+[671]: id = 710 , agency =  ะมส , link =  http://top.rbc.ru/society/07/03/2013/848387.shtml , processed_status = Downloaded, rubrics: none
+[672]: id = 711 , agency =  ะมส , link =  http://top.rbc.ru/society/07/03/2013/848380.shtml , processed_status = Downloaded, rubrics: none
+[673]: id = 712 , agency =  ะมส , link =  http://top.rbc.ru/society/07/03/2013/848374.shtml , processed_status = Downloaded, rubrics: none
+[674]: id = 713 , agency =  ะมส , link =  http://top.rbc.ru/society/07/03/2013/848350.shtml , processed_status = Downloaded, rubrics: ['ะ๓๑ร่ไ๐๎,', '๕่๙ๅํ่ÿ,', 'ฬยฤ,', '๊๎๐๐๓๏๖่ÿ']
+[675]: id = 714 , agency =  ะมส , link =  http://top.rbc.ru/society/07/03/2013/848327.shtml , processed_status = Downloaded, rubrics: none
+[676]: id = 715 , agency =  ะมส , link =  http://top.rbc.ru/society/07/03/2013/848287.shtml , processed_status = Downloaded, rubrics: ['ยๅ๋่๊๎แ๐่๒เํ่ÿ', '๑์ๅ๐๒ü', '์๓็๛๊เ', '๐๎๊']
+[677]: id = 717 , agency =  ะมส , link =  http://top.rbc.ru/incidents/07/03/2013/848312.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ', ', ฯเํ่ํ', ', ๊่ํ๎', ', ๑์ๅ๐๒ü', ', ๒ๅเ๒๐', ', ภํไ๐ๅ้ ฯเํ่ํ']
+[678]: id = 718 , agency =  ะมส , link =  http://top.rbc.ru/retail/07/03/2013/848255.shtml , processed_status = Downloaded, rubrics: none
+[679]: id = 719 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/07/03/2013/848317.shtml , processed_status = Failed — list index out of range
+[680]: id = 720 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/03/2013/848397.shtml , processed_status = Failed — list index out of range
+[681]: id = 721 , agency =  ะมส , link =  http://top.rbc.ru/economics/08/03/2013/848434.shtml , processed_status = Downloaded, rubrics: none
+[682]: id = 722 , agency =  ะมส , link =  http://top.rbc.ru/society/08/03/2013/848430.shtml , processed_status = Downloaded, rubrics: none
+[683]: id = 724 , agency =  ะมส , link =  http://top.rbc.ru/society/08/03/2013/848400.shtml , processed_status = Downloaded, rubrics: none
+[684]: id = 725 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/03/2013/848425.shtml , processed_status = Downloaded, rubrics: none
+[685]: id = 726 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/03/2013/848416.shtml , processed_status = Downloaded, rubrics: none
+[686]: id = 727 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/03/2013/848414.shtml , processed_status = Downloaded, rubrics: none
+[687]: id = 728 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/03/2013/848471.shtml , processed_status = Downloaded, rubrics: none
+[688]: id = 729 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/03/2013/848443.shtml , processed_status = Downloaded, rubrics: none
+[689]: id = 730 , agency =  ะมส , link =  http://top.rbc.ru/society/09/03/2013/848458.shtml , processed_status = Downloaded, rubrics: none
+[690]: id = 731 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/03/2013/848453.shtml , processed_status = Downloaded, rubrics: none
+[691]: id = 732 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/03/2013/848494.shtml , processed_status = Downloaded, rubrics: none
+[692]: id = 733 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/03/2013/848493.shtml , processed_status = Downloaded, rubrics: none
+[693]: id = 734 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/03/2013/848478.shtml , processed_status = Downloaded, rubrics: none
+[694]: id = 735 , agency =  ะมส , link =  http://top.rbc.ru/society/10/03/2013/848499.shtml , processed_status = Downloaded, rubrics: none
+[695]: id = 736 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/03/2013/848480.shtml , processed_status = Downloaded, rubrics: none
+[696]: id = 737 , agency =  ะมส , link =  http://top.rbc.ru/politics/11/03/2013/848512.shtml , processed_status = Failed — list index out of range
+[697]: id = 738 , agency =  ะมส , link =  http://top.rbc.ru/economics/11/03/2013/848584.shtml , processed_status = Downloaded, rubrics: none
+[698]: id = 739 , agency =  ะมส , link =  http://top.rbc.ru/society/11/03/2013/848701.shtml , processed_status = Downloaded, rubrics: ['๋่๒ๅ๐เ๒๓๐เ']
+[699]: id = 741 , agency =  ะมส , link =  http://top.rbc.ru/society/11/03/2013/848510.shtml , processed_status = Downloaded, rubrics: none
+[700]: id = 743 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/03/2013/848695.shtml , processed_status = Downloaded, rubrics: none
+[701]: id = 744 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/03/2013/848666.shtml , processed_status = Downloaded, rubrics: none
+[702]: id = 745 , agency =  ะมส , link =  http://top.rbc.ru/incidents/11/03/2013/848571.shtml , processed_status = Downloaded, rubrics: ['ฬ่ํ๎แ๎๐๎ํ๛,', '์๎๘ๅํํ่๗ๅ๑๒โ๎,', 'ัๅ๐ไþ๊๎โ,', 'ฯ๓็่๊๎โ,', 'ฮแ๎๐๎ํ๑ๅ๐โ่๑']
+[703]: id = 746 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/11/03/2013/848525.shtml , processed_status = Failed — list index out of range
+[704]: id = 747 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/11/03/2013/848649.shtml , processed_status = Failed — list index out of range
+[705]: id = 749 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/03/2013/848885.shtml , processed_status = Downloaded, rubrics: none
+[706]: id = 750 , agency =  ะมส , link =  http://top.rbc.ru/society/12/03/2013/848875.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ', '๏เ์ÿ๒ํ่๊']
+[707]: id = 751 , agency =  ะมส , link =  http://top.rbc.ru/society/12/03/2013/848810.shtml , processed_status = Failed — list index out of range
+[708]: id = 752 , agency =  ะมส , link =  http://top.rbc.ru/society/12/03/2013/848765.shtml , processed_status = Downloaded, rubrics: none
+[709]: id = 753 , agency =  ะมส , link =  http://top.rbc.ru/society/12/03/2013/848740.shtml , processed_status = Downloaded, rubrics: none
+[710]: id = 754 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/03/2013/848826.shtml , processed_status = Downloaded, rubrics: none
+[711]: id = 755 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/03/2013/848718.shtml , processed_status = Downloaded, rubrics: none
+[712]: id = 756 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/12/03/2013/848779.shtml , processed_status = Failed — list index out of range
+[713]: id = 757 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/12/03/2013/848873.shtml , processed_status = Failed — list index out of range
+[714]: id = 758 , agency =  ะมส , link =  http://top.rbc.ru/politics/13/03/2013/849086.shtml , processed_status = Failed — list index out of range
+[715]: id = 759 , agency =  ะมส , link =  http://top.rbc.ru/politics/13/03/2013/849075.shtml , processed_status = Downloaded, rubrics: none
+[716]: id = 760 , agency =  ะมส , link =  http://top.rbc.ru/politics/13/03/2013/848951.shtml , processed_status = Failed — list index out of range
+[717]: id = 761 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/849088.shtml , processed_status = Downloaded, rubrics: ['ยเ๒่๊เํ,', 'โ๛แ๎๐๛,', '๊๎ํ๊๋เโ,', 'ฯเ๏เ ะ่์๑๊่้']
+[718]: id = 762 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/849023.shtml , processed_status = Downloaded, rubrics: none
+[719]: id = 763 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/849013.shtml , processed_status = Downloaded, rubrics: none
+[720]: id = 764 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/848930.shtml , processed_status = Downloaded, rubrics: none
+[721]: id = 765 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/848917.shtml , processed_status = Downloaded, rubrics: ['๑์ๅ๐๒ü,', 'ห๎ํไ๎ํ,', '์๓็๛๊เ']
+[722]: id = 766 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/848895.shtml , processed_status = Downloaded, rubrics: ['สฯะิ,', 'หๅํ่ํ,', 'มๅ๋ใ๎๐๎ไ']
+[723]: id = 767 , agency =  ะมส , link =  http://top.rbc.ru/society/13/03/2013/848888.shtml , processed_status = Downloaded, rubrics: none
+[724]: id = 768 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/03/2013/849192.shtml , processed_status = Downloaded, rubrics: none
+[725]: id = 769 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/03/2013/849100.shtml , processed_status = Downloaded, rubrics: none
+[726]: id = 770 , agency =  ะมส , link =  http://top.rbc.ru/society/14/03/2013/849179.shtml , processed_status = Downloaded, rubrics: none
+[727]: id = 773 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/03/2013/849238.shtml , processed_status = Downloaded, rubrics: none
+[728]: id = 774 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/03/2013/849211.shtml , processed_status = Downloaded, rubrics: none
+[729]: id = 775 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/03/2013/849184.shtml , processed_status = Downloaded, rubrics: none
+[730]: id = 776 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/03/2013/849137.shtml , processed_status = Downloaded, rubrics: none
+[731]: id = 777 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/03/2013/849110.shtml , processed_status = Downloaded, rubrics: none
+[732]: id = 778 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/14/03/2013/849227.shtml , processed_status = Failed — list index out of range
+[733]: id = 779 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/03/2013/849324.shtml , processed_status = Downloaded, rubrics: none
+[734]: id = 781 , agency =  ะมส , link =  http://top.rbc.ru/society/15/03/2013/849383.shtml , processed_status = Downloaded, rubrics: none
+[735]: id = 782 , agency =  ะมส , link =  http://top.rbc.ru/society/15/03/2013/849374.shtml , processed_status = Downloaded, rubrics: none
+[736]: id = 783 , agency =  ะมส , link =  http://top.rbc.ru/society/15/03/2013/849315.shtml , processed_status = Downloaded, rubrics: none
+[737]: id = 784 , agency =  ะมส , link =  http://top.rbc.ru/society/15/03/2013/849300.shtml , processed_status = Downloaded, rubrics: none
+[738]: id = 785 , agency =  ะมส , link =  http://top.rbc.ru/society/15/03/2013/849289.shtml , processed_status = Downloaded, rubrics: none
+[739]: id = 787 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/03/2013/849343.shtml , processed_status = Downloaded, rubrics: none
+[740]: id = 788 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/03/2013/849293.shtml , processed_status = Downloaded, rubrics: none
+[741]: id = 789 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/15/03/2013/849409.shtml , processed_status = Failed — list index out of range
+[742]: id = 790 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/15/03/2013/849295.shtml , processed_status = Failed — list index out of range
+[743]: id = 791 , agency =  ะมส , link =  http://top.rbc.ru/politics/16/03/2013/849475.shtml , processed_status = Downloaded, rubrics: none
+[744]: id = 792 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/03/2013/849483.shtml , processed_status = Downloaded, rubrics: none
+[745]: id = 793 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/03/2013/849467.shtml , processed_status = Downloaded, rubrics: none
+[746]: id = 794 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/03/2013/849459.shtml , processed_status = Downloaded, rubrics: none
+[747]: id = 795 , agency =  ะมส , link =  http://top.rbc.ru/politics/17/03/2013/849511.shtml , processed_status = Downloaded, rubrics: none
+[748]: id = 796 , agency =  ะมส , link =  http://top.rbc.ru/economics/17/03/2013/849521.shtml , processed_status = Downloaded, rubrics: ['แเํ๊่,', 'ส่๏๐,', '๊๐่็่๑ ๅโ๐๎็๎ํ๛']
+[749]: id = 797 , agency =  ะมส , link =  http://top.rbc.ru/society/17/03/2013/849513.shtml , processed_status = Downloaded, rubrics: none
+[750]: id = 798 , agency =  ะมส , link =  http://top.rbc.ru/society/17/03/2013/849502.shtml , processed_status = Downloaded, rubrics: none
+[751]: id = 799 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/03/2013/849520.shtml , processed_status = Downloaded, rubrics: none
+[752]: id = 800 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/03/2013/849699.shtml , processed_status = Downloaded, rubrics: none
+[753]: id = 801 , agency =  ะมส , link =  http://top.rbc.ru/economics/18/03/2013/849636.shtml , processed_status = Downloaded, rubrics: none
+[754]: id = 802 , agency =  ะมส , link =  http://top.rbc.ru/economics/18/03/2013/849532.shtml , processed_status = Downloaded, rubrics: none
+[755]: id = 803 , agency =  ะมส , link =  http://top.rbc.ru/society/18/03/2013/849599.shtml , processed_status = Downloaded, rubrics: ['ภํไ๐ๅ้ ศ๑เๅโ,', 'ลไ่ํเÿ ะ๎๑๑่ÿ']
+[756]: id = 804 , agency =  ะมส , link =  http://top.rbc.ru/society/18/03/2013/849534.shtml , processed_status = Downloaded, rubrics: none
+[757]: id = 805 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/03/2013/849649.shtml , processed_status = Downloaded, rubrics: none
+[758]: id = 806 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/03/2013/849612.shtml , processed_status = Failed — list index out of range
+[759]: id = 807 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/03/2013/849588.shtml , processed_status = Downloaded, rubrics: none
+[760]: id = 808 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/03/2013/849540.shtml , processed_status = Downloaded, rubrics: none
+[761]: id = 809 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/03/2013/849530.shtml , processed_status = Downloaded, rubrics: none
+[762]: id = 810 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/18/03/2013/849598.shtml , processed_status = Downloaded, rubrics: none
+[763]: id = 811 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/03/2013/849582.shtml , processed_status = Failed — list index out of range
+[764]: id = 812 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/03/2013/849858.shtml , processed_status = Downloaded, rubrics: ['ร๎๑ไ๓์เ,', 'ฬ๎๑๊๎โ๑๊่้ ๊๎์๑๎์๎๋ๅ๖,', 'ัฬศ,', 'ฯเโๅ๋ ร๓๑ๅโ,', 'ภํไ๐ๅ้ ศ๑เๅโ,', 'ๆ๓๐ํเ๋่๑๒่๊เ']
+[765]: id = 813 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/03/2013/849855.shtml , processed_status = Downloaded, rubrics: none
+[766]: id = 814 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/03/2013/849796.shtml , processed_status = Downloaded, rubrics: none
+[767]: id = 815 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/03/2013/849889.shtml , processed_status = Downloaded, rubrics: ['ส่๏๐,', 'ý๊๎ํ๎์่๊เ,', 'ํเ๋๎ใ ํเ โ๊๋เไ๛,', 'ลโ๐๎็๎ํเ,', 'ะิ']
+[768]: id = 817 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/03/2013/849879.shtml , processed_status = Downloaded, rubrics: none
+[769]: id = 818 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/03/2013/849847.shtml , processed_status = Downloaded, rubrics: none
+[770]: id = 819 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/03/2013/849842.shtml , processed_status = Failed — list index out of range
+[771]: id = 820 , agency =  ะมส , link =  http://top.rbc.ru/society/19/03/2013/849890.shtml , processed_status = Downloaded, rubrics: none
+[772]: id = 821 , agency =  ะมส , link =  http://top.rbc.ru/society/19/03/2013/849836.shtml , processed_status = Downloaded, rubrics: none
+[773]: id = 822 , agency =  ะมส , link =  http://top.rbc.ru/society/19/03/2013/849794.shtml , processed_status = Downloaded, rubrics: none
+[774]: id = 823 , agency =  ะมส , link =  http://top.rbc.ru/society/19/03/2013/849749.shtml , processed_status = Downloaded, rubrics: none
+[775]: id = 824 , agency =  ะมส , link =  http://top.rbc.ru/society/19/03/2013/849744.shtml , processed_status = Downloaded, rubrics: none
+[776]: id = 826 , agency =  ะมส , link =  http://top.rbc.ru/society/19/03/2013/849703.shtml , processed_status = Downloaded, rubrics: none
+[777]: id = 827 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/03/2013/849891.shtml , processed_status = Failed — list index out of range
+[778]: id = 829 , agency =  ะมส , link =  http://top.rbc.ru/health/19/03/2013/849827.shtml , processed_status = Downloaded, rubrics: none
+[779]: id = 830 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/19/03/2013/849788.shtml , processed_status = Failed — list index out of range
+[780]: id = 831 , agency =  ะมส , link =  http://top.rbc.ru/politics/20/03/2013/850028.shtml , processed_status = Downloaded, rubrics: ['อภาฮ,', 'ั่๐่ÿ,', 'ใ๐เๆไเํ๑๊เÿ โ๎้ํเ,', 'ห่โ่ÿ,', '๕่์่๗ๅ๑๊๎ๅ ๎๐๓ๆ่ๅ']
+[781]: id = 832 , agency =  ะมส , link =  http://top.rbc.ru/economics/20/03/2013/850020.shtml , processed_status = Failed — list index out of range
+[782]: id = 833 , agency =  ะมส , link =  http://top.rbc.ru/economics/20/03/2013/849973.shtml , processed_status = Downloaded, rubrics: none
+[783]: id = 834 , agency =  ะมส , link =  http://top.rbc.ru/economics/20/03/2013/849964.shtml , processed_status = Failed — list index out of range
+[784]: id = 835 , agency =  ะมส , link =  http://top.rbc.ru/society/20/03/2013/850022.shtml , processed_status = Downloaded, rubrics: ['ฬส,', 'ศ๑เๅโ,', 'ร๓๑ๅโ,', 'ๆ๓๐ํเ๋่๑๒๛,', 'ลไ่ํเÿ ะ๎๑๑่ÿ']
+[785]: id = 837 , agency =  ะมส , link =  http://top.rbc.ru/society/20/03/2013/849935.shtml , processed_status = Downloaded, rubrics: none
+[786]: id = 838 , agency =  ะมส , link =  http://top.rbc.ru/society/20/03/2013/849898.shtml , processed_status = Downloaded, rubrics: none
+[787]: id = 839 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/03/2013/850066.shtml , processed_status = Downloaded, rubrics: none
+[788]: id = 840 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/20/03/2013/849908.shtml , processed_status = Downloaded, rubrics: none
+[789]: id = 841 , agency =  ะมส , link =  http://top.rbc.ru/politics/21/03/2013/850257.shtml , processed_status = Downloaded, rubrics: none
+[790]: id = 842 , agency =  ะมส , link =  http://top.rbc.ru/politics/21/03/2013/850224.shtml , processed_status = Downloaded, rubrics: none
+[791]: id = 844 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/03/2013/850240.shtml , processed_status = Failed — list index out of range
+[792]: id = 845 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/03/2013/850230.shtml , processed_status = Downloaded, rubrics: none
+[793]: id = 846 , agency =  ะมส , link =  http://top.rbc.ru/economics/21/03/2013/850151.shtml , processed_status = Downloaded, rubrics: none
+[794]: id = 847 , agency =  ะมส , link =  http://top.rbc.ru/society/21/03/2013/850244.shtml , processed_status = Downloaded, rubrics: none
+[795]: id = 848 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/03/2013/850193.shtml , processed_status = Downloaded, rubrics: none
+[796]: id = 849 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/03/2013/850173.shtml , processed_status = Downloaded, rubrics: none
+[797]: id = 850 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/03/2013/850112.shtml , processed_status = Downloaded, rubrics: none
+[798]: id = 851 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/03/2013/850405.shtml , processed_status = Failed — list index out of range
+[799]: id = 852 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/03/2013/850368.shtml , processed_status = Downloaded, rubrics: none
+[800]: id = 853 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/03/2013/850279.shtml , processed_status = Downloaded, rubrics: none
+[801]: id = 855 , agency =  ะมส , link =  http://top.rbc.ru/economics/22/03/2013/850404.shtml , processed_status = Failed — list index out of range
+[802]: id = 856 , agency =  ะมส , link =  http://top.rbc.ru/economics/22/03/2013/850336.shtml , processed_status = Downloaded, rubrics: none
+[803]: id = 857 , agency =  ะมส , link =  http://top.rbc.ru/society/22/03/2013/850395.shtml , processed_status = Downloaded, rubrics: none
+[804]: id = 858 , agency =  ะมส , link =  http://top.rbc.ru/society/22/03/2013/850332.shtml , processed_status = Downloaded, rubrics: none
+[805]: id = 859 , agency =  ะมส , link =  http://top.rbc.ru/society/22/03/2013/850282.shtml , processed_status = Downloaded, rubrics: ['ยส๎ํ๒เ๊๒ๅ,', 'ศํ๒ๅ๐ํๅ๒,', 'า๎์ ส๐๓็']
+[806]: id = 860 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/03/2013/850406.shtml , processed_status = Downloaded, rubrics: none
+[807]: id = 861 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/03/2013/850281.shtml , processed_status = Downloaded, rubrics: none
+[808]: id = 863 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/22/03/2013/850378.shtml , processed_status = Downloaded, rubrics: none
+[809]: id = 864 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/22/03/2013/850434.shtml , processed_status = Failed — list index out of range
+[810]: id = 865 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/22/03/2013/850386.shtml , processed_status = Failed — list index out of range
+[811]: id = 866 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/03/2013/850439.shtml , processed_status = Downloaded, rubrics: ['ส่๏๐,', '๊๐่็่๑ โ ๅโ๐๎็๎ํๅ,', 'แเํ๊่']
+[812]: id = 867 , agency =  ะมส , link =  http://top.rbc.ru/society/23/03/2013/850467.shtml , processed_status = Failed — list index out of range
+[813]: id = 868 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/03/2013/850464.shtml , processed_status = Downloaded, rubrics: none
+[814]: id = 869 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/03/2013/850462.shtml , processed_status = Downloaded, rubrics: none
+[815]: id = 870 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/03/2013/850508.shtml , processed_status = Downloaded, rubrics: none
+[816]: id = 871 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/03/2013/850494.shtml , processed_status = Downloaded, rubrics: none
+[817]: id = 872 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/03/2013/850728.shtml , processed_status = Downloaded, rubrics: none
+[818]: id = 873 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/03/2013/850518.shtml , processed_status = Downloaded, rubrics: none
+[819]: id = 874 , agency =  ะมส , link =  http://top.rbc.ru/economics/25/03/2013/850717.shtml , processed_status = Failed — list index out of range
+[820]: id = 875 , agency =  ะมส , link =  http://top.rbc.ru/economics/25/03/2013/850658.shtml , processed_status = Failed — ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+[821]: id = 876 , agency =  ะมส , link =  http://top.rbc.ru/economics/25/03/2013/850576.shtml , processed_status = Downloaded, rubrics: none
+[822]: id = 877 , agency =  ะมส , link =  http://top.rbc.ru/economics/25/03/2013/850571.shtml , processed_status = Failed — list index out of range
+[823]: id = 878 , agency =  ะมส , link =  http://top.rbc.ru/economics/25/03/2013/850530.shtml , processed_status = Failed — list index out of range
+[824]: id = 879 , agency =  ะมส , link =  http://top.rbc.ru/society/25/03/2013/850724.shtml , processed_status = Downloaded, rubrics: ['ัสะ,', 'ิัม,', 'สเไ๛๐๎โ,', 'อ๎โเÿ ใเ็ๅ๒เ']
+[825]: id = 880 , agency =  ะมส , link =  http://top.rbc.ru/society/25/03/2013/850554.shtml , processed_status = Downloaded, rubrics: none
+[826]: id = 881 , agency =  ะมส , link =  http://top.rbc.ru/society/25/03/2013/850521.shtml , processed_status = Downloaded, rubrics: ['สเไ๛๐๎โ', 'ืๅ๗ํÿ', 'ัสะ', 'ิัม', '๏๎๕่๙ๅํ่ๅ', 'มเ๑๒๐๛๊่ํ']
+[827]: id = 882 , agency =  ะมส , link =  http://top.rbc.ru/society/25/03/2013/850515.shtml , processed_status = Downloaded, rubrics: none
+[828]: id = 884 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/03/2013/850669.shtml , processed_status = Downloaded, rubrics: none
+[829]: id = 886 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/03/2013/850519.shtml , processed_status = Downloaded, rubrics: ['รๅํ๏๐๎๊๓๐เ๒๓๐เ,', 'ฬยฤ,', 'ไ๎๐๎ๆํ๛้ ๊๎ํ๔๋่๊๒,', 'ฬ๎๑๊โเ']
+[830]: id = 887 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/03/2013/850815.shtml , processed_status = Downloaded, rubrics: none
+[831]: id = 888 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/03/2013/850739.shtml , processed_status = Downloaded, rubrics: none
+[832]: id = 889 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/03/2013/850735.shtml , processed_status = Downloaded, rubrics: none
+[833]: id = 890 , agency =  ะมส , link =  http://top.rbc.ru/economics/26/03/2013/850889.shtml , processed_status = Failed — list index out of range
+[834]: id = 892 , agency =  ะมส , link =  http://top.rbc.ru/economics/26/03/2013/850828.shtml , processed_status = Downloaded, rubrics: none
+[835]: id = 895 , agency =  ะมส , link =  http://top.rbc.ru/society/26/03/2013/850917.shtml , processed_status = Failed — list index out of range
+[836]: id = 896 , agency =  ะมส , link =  http://top.rbc.ru/society/26/03/2013/850913.shtml , processed_status = Downloaded, rubrics: none
+[837]: id = 897 , agency =  ะมส , link =  http://top.rbc.ru/society/26/03/2013/850837.shtml , processed_status = Downloaded, rubrics: none
+[838]: id = 898 , agency =  ะมส , link =  http://top.rbc.ru/society/26/03/2013/850795.shtml , processed_status = Failed — list index out of range
+[839]: id = 899 , agency =  ะมส , link =  http://top.rbc.ru/society/26/03/2013/850784.shtml , processed_status = Downloaded, rubrics: none
+[840]: id = 900 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850948.shtml , processed_status = Downloaded, rubrics: none
+[841]: id = 901 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850942.shtml , processed_status = Downloaded, rubrics: none
+[842]: id = 902 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850906.shtml , processed_status = Downloaded, rubrics: none
+[843]: id = 903 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850819.shtml , processed_status = Downloaded, rubrics: ['ฬยฤ', '๊๎๐๐๓๏๖่ÿ', 'ะ๎๑๒ๅ๕ํ๎๋๎ใ่่']
+[844]: id = 904 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850782.shtml , processed_status = Downloaded, rubrics: none
+[845]: id = 905 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850749.shtml , processed_status = Downloaded, rubrics: none
+[846]: id = 906 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/03/2013/850742.shtml , processed_status = Downloaded, rubrics: none
+[847]: id = 907 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/26/03/2013/850827.shtml , processed_status = Failed — list index out of range
+[848]: id = 908 , agency =  ะมส , link =  http://top.rbc.ru/politics/27/03/2013/851364.shtml , processed_status = Failed — list index out of range
+[849]: id = 909 , agency =  ะมส , link =  http://top.rbc.ru/politics/27/03/2013/851056.shtml , processed_status = Downloaded, rubrics: ['ฬส,', 'ัฬศ,', 'ฯเโๅ๋ ร๓๑ๅโ,', 'ร๎๑ไ๓์เ,', 'ี่ํ๘๒ๅ้ํ']
+[850]: id = 910 , agency =  ะมส , link =  http://top.rbc.ru/society/27/03/2013/851350.shtml , processed_status = Failed — list index out of range
+[851]: id = 911 , agency =  ะมส , link =  http://top.rbc.ru/society/27/03/2013/851076.shtml , processed_status = Downloaded, rubrics: none
+[852]: id = 912 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/03/2013/851340.shtml , processed_status = Downloaded, rubrics: none
+[853]: id = 913 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/03/2013/851196.shtml , processed_status = Downloaded, rubrics: none
+[854]: id = 914 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/03/2013/850956.shtml , processed_status = Downloaded, rubrics: none
+[855]: id = 915 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/03/2013/850951.shtml , processed_status = Failed — list index out of range
+[856]: id = 916 , agency =  ะมส , link =  http://top.rbc.ru/health/27/03/2013/851005.shtml , processed_status = Downloaded, rubrics: none
+[857]: id = 917 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/27/03/2013/851317.shtml , processed_status = Downloaded, rubrics: none
+[858]: id = 918 , agency =  ะมส , link =  http://top.rbc.ru/viewpoint/27/03/2013/851325.shtml , processed_status = Downloaded, rubrics: none
+[859]: id = 919 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/27/03/2013/851309.shtml , processed_status = Failed — list index out of range
+[860]: id = 920 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/27/03/2013/851057.shtml , processed_status = Failed — list index out of range
+[861]: id = 922 , agency =  ะมส , link =  http://top.rbc.ru/politics/28/03/2013/851559.shtml , processed_status = Downloaded, rubrics: none
+[862]: id = 923 , agency =  ะมส , link =  http://top.rbc.ru/economics/28/03/2013/851539.shtml , processed_status = Downloaded, rubrics: ['ส่๏๐,', '็เ๐๏๋เ๒เ,', '๊๐่็่๑ ๅโ๐๎็๎ํ๛']
+[863]: id = 924 , agency =  ะมส , link =  http://top.rbc.ru/economics/28/03/2013/851511.shtml , processed_status = Downloaded, rubrics: none
+[864]: id = 925 , agency =  ะมส , link =  http://top.rbc.ru/economics/28/03/2013/851463.shtml , processed_status = Downloaded, rubrics: none
+[865]: id = 926 , agency =  ะมส , link =  http://top.rbc.ru/society/28/03/2013/851524.shtml , processed_status = Downloaded, rubrics: none
+[866]: id = 927 , agency =  ะมส , link =  http://top.rbc.ru/society/28/03/2013/851519.shtml , processed_status = Downloaded, rubrics: none
+[867]: id = 928 , agency =  ะมส , link =  http://top.rbc.ru/society/28/03/2013/851441.shtml , processed_status = Downloaded, rubrics: none
+[868]: id = 929 , agency =  ะมส , link =  http://top.rbc.ru/society/28/03/2013/851373.shtml , processed_status = Downloaded, rubrics: none
+[869]: id = 930 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/03/2013/851560.shtml , processed_status = Downloaded, rubrics: none
+[870]: id = 931 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/03/2013/851517.shtml , processed_status = Downloaded, rubrics: none
+[871]: id = 932 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/03/2013/851504.shtml , processed_status = Downloaded, rubrics: none
+[872]: id = 933 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/03/2013/851400.shtml , processed_status = Downloaded, rubrics: none
+[873]: id = 934 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/03/2013/851372.shtml , processed_status = Downloaded, rubrics: none
+[874]: id = 935 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/28/03/2013/851453.shtml , processed_status = Failed — list index out of range
+[875]: id = 936 , agency =  ะมส , link =  http://top.rbc.ru/politics/29/03/2013/851575.shtml , processed_status = Downloaded, rubrics: none
+[876]: id = 937 , agency =  ะมส , link =  http://top.rbc.ru/society/29/03/2013/851704.shtml , processed_status = Downloaded, rubrics: none
+[877]: id = 938 , agency =  ะมส , link =  http://top.rbc.ru/society/29/03/2013/851681.shtml , processed_status = Downloaded, rubrics: none
+[878]: id = 939 , agency =  ะมส , link =  http://top.rbc.ru/society/29/03/2013/851573.shtml , processed_status = Downloaded, rubrics: none
+[879]: id = 940 , agency =  ะมส , link =  http://top.rbc.ru/society/29/03/2013/851566.shtml , processed_status = Downloaded, rubrics: ['๊๎๑์๎๑', 'ะ๎๑๊๎๑์๎๑', 'NASA', 'มเ้๊๎ํ๓๐', '๊๎๑์๎ํเโ๒๛']
+[880]: id = 941 , agency =  ะมส , link =  http://top.rbc.ru/society/29/03/2013/851564.shtml , processed_status = Downloaded, rubrics: ['ยๅ๐๕๎โํ๛้ ๑๓ไ,', 'ยÿ๗ๅ๑๋เโ หๅแๅไๅโ,', '๎๒๊เ๒๛,', 'โ็ÿ๒๊่,', '๊๎๐๐๓๏๖่ÿ']
+[881]: id = 942 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/03/2013/851659.shtml , processed_status = Downloaded, rubrics: none
+[882]: id = 943 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/03/2013/851570.shtml , processed_status = Downloaded, rubrics: none
+[883]: id = 944 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/29/03/2013/851652.shtml , processed_status = Downloaded, rubrics: none
+[884]: id = 945 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/03/2013/851749.shtml , processed_status = Downloaded, rubrics: none
+[885]: id = 946 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/03/2013/851747.shtml , processed_status = Downloaded, rubrics: none
+[886]: id = 947 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/03/2013/851744.shtml , processed_status = Downloaded, rubrics: ['ัุภ,', 'สอฤะ,', 'Þๆํเÿ ส๎๐ๅÿ,', 'โ๎้ํเ']
+[887]: id = 948 , agency =  ะมส , link =  http://top.rbc.ru/society/30/03/2013/851754.shtml , processed_status = Downloaded, rubrics: none
+[888]: id = 949 , agency =  ะมส , link =  http://top.rbc.ru/incidents/30/03/2013/851746.shtml , processed_status = Downloaded, rubrics: none
+[889]: id = 950 , agency =  ะมส , link =  http://top.rbc.ru/politics/31/03/2013/851802.shtml , processed_status = Downloaded, rubrics: none
+[890]: id = 951 , agency =  ะมส , link =  http://top.rbc.ru/politics/31/03/2013/851801.shtml , processed_status = Downloaded, rubrics: none
+[891]: id = 952 , agency =  ะมส , link =  http://top.rbc.ru/politics/31/03/2013/851782.shtml , processed_status = Downloaded, rubrics: none
+[892]: id = 953 , agency =  ะมส , link =  http://top.rbc.ru/society/31/03/2013/851795.shtml , processed_status = Downloaded, rubrics: none
+[893]: id = 954 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/03/2013/851785.shtml , processed_status = Downloaded, rubrics: none
+[894]: id = 955 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/03/2013/851781.shtml , processed_status = Downloaded, rubrics: none
+[895]: id = 956 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/03/2013/851778.shtml , processed_status = Downloaded, rubrics: none
+[896]: id = 957 , agency =  ะมส , link =  http://top.rbc.ru/incidents/31/03/2013/851772.shtml , processed_status = Downloaded, rubrics: none
+[897]: id = 958 , agency =  ะมส , link =  http://top.rbc.ru/politics/01/04/2013/851890.shtml , processed_status = Downloaded, rubrics: none
+[898]: id = 960 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/04/2013/851937.shtml , processed_status = Downloaded, rubrics: ['รเ็๏๐๎์', 'ฤโ๎๐๊๎โ่๗', 'ะ๎๑ํๅ๔๒ๅใเ็']
+[899]: id = 961 , agency =  ะมส , link =  http://top.rbc.ru/economics/01/04/2013/851809.shtml , processed_status = Downloaded, rubrics: none
+[900]: id = 962 , agency =  ะมส , link =  http://top.rbc.ru/society/01/04/2013/851997.shtml , processed_status = Downloaded, rubrics: none
+[901]: id = 963 , agency =  ะมส , link =  http://top.rbc.ru/society/01/04/2013/851990.shtml , processed_status = Downloaded, rubrics: none
+[902]: id = 964 , agency =  ะมส , link =  http://top.rbc.ru/society/01/04/2013/851949.shtml , processed_status = Downloaded, rubrics: none
+[903]: id = 965 , agency =  ะมส , link =  http://top.rbc.ru/society/01/04/2013/851876.shtml , processed_status = Downloaded, rubrics: none
+[904]: id = 966 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/04/2013/851850.shtml , processed_status = Downloaded, rubrics: none
+[905]: id = 967 , agency =  ะมส , link =  http://top.rbc.ru/incidents/01/04/2013/851813.shtml , processed_status = Failed — list index out of range
+[906]: id = 968 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/01/04/2013/851926.shtml , processed_status = Failed — list index out of range
+[907]: id = 969 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/01/04/2013/851830.shtml , processed_status = Failed — list index out of range
+[908]: id = 971 , agency =  ะมส , link =  http://top.rbc.ru/politics/02/04/2013/852164.shtml , processed_status = Downloaded, rubrics: none
+[909]: id = 972 , agency =  ะมส , link =  http://top.rbc.ru/politics/02/04/2013/852147.shtml , processed_status = Downloaded, rubrics: none
+[910]: id = 974 , agency =  ะมส , link =  http://top.rbc.ru/economics/02/04/2013/852148.shtml , processed_status = Downloaded, rubrics: ['ส่๏๐ ,', '๊๐่็่๑ ๅโ๐๎็๎ํ๛']
+[911]: id = 975 , agency =  ะมส , link =  http://top.rbc.ru/economics/02/04/2013/852107.shtml , processed_status = Downloaded, rubrics: none
+[912]: id = 976 , agency =  ะมส , link =  http://top.rbc.ru/economics/02/04/2013/852070.shtml , processed_status = Failed — list index out of range
+[913]: id = 977 , agency =  ะมส , link =  http://top.rbc.ru/society/02/04/2013/852168.shtml , processed_status = Downloaded, rubrics: none
+[914]: id = 978 , agency =  ะมส , link =  http://top.rbc.ru/society/02/04/2013/852142.shtml , processed_status = Downloaded, rubrics: none
+[915]: id = 979 , agency =  ะมส , link =  http://top.rbc.ru/society/02/04/2013/852137.shtml , processed_status = Downloaded, rubrics: none
+[916]: id = 980 , agency =  ะมส , link =  http://top.rbc.ru/society/02/04/2013/852067.shtml , processed_status = Downloaded, rubrics: none
+[917]: id = 981 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/04/2013/852089.shtml , processed_status = Downloaded, rubrics: none
+[918]: id = 982 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/04/2013/852087.shtml , processed_status = Downloaded, rubrics: none
+[919]: id = 983 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/04/2013/852062.shtml , processed_status = Downloaded, rubrics: none
+[920]: id = 984 , agency =  ะมส , link =  http://top.rbc.ru/incidents/02/04/2013/852028.shtml , processed_status = Downloaded, rubrics: none
+[921]: id = 986 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/02/04/2013/852123.shtml , processed_status = Failed — list index out of range
+[922]: id = 987 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/02/04/2013/852122.shtml , processed_status = Failed — list index out of range
+[923]: id = 988 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/02/04/2013/852021.shtml , processed_status = Failed — list index out of range
+[924]: id = 989 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/04/2013/852357.shtml , processed_status = Downloaded, rubrics: none
+[925]: id = 990 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/04/2013/852288.shtml , processed_status = Downloaded, rubrics: none
+[926]: id = 991 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/04/2013/852263.shtml , processed_status = Downloaded, rubrics: none
+[927]: id = 992 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/04/2013/852193.shtml , processed_status = Downloaded, rubrics: none
+[928]: id = 993 , agency =  ะมส , link =  http://top.rbc.ru/politics/03/04/2013/852188.shtml , processed_status = Downloaded, rubrics: none
+[929]: id = 994 , agency =  ะมส , link =  http://top.rbc.ru/economics/03/04/2013/852334.shtml , processed_status = Downloaded, rubrics: none
+[930]: id = 995 , agency =  ะมส , link =  http://top.rbc.ru/economics/03/04/2013/852268.shtml , processed_status = Downloaded, rubrics: none
+[931]: id = 996 , agency =  ะมส , link =  http://top.rbc.ru/society/03/04/2013/852384.shtml , processed_status = Downloaded, rubrics: []
+[932]: id = 998 , agency =  ะมส , link =  http://top.rbc.ru/society/03/04/2013/852182.shtml , processed_status = Downloaded, rubrics: none
+[933]: id = 1000 , agency =  ะมส , link =  http://top.rbc.ru/incidents/03/04/2013/852382.shtml , processed_status = Downloaded, rubrics: none
+[934]: id = 1001 , agency =  ะมส , link =  http://top.rbc.ru/incidents/03/04/2013/852359.shtml , processed_status = Downloaded, rubrics: none
+[935]: id = 1002 , agency =  ะมส , link =  http://top.rbc.ru/incidents/03/04/2013/852269.shtml , processed_status = Downloaded, rubrics: none
+[936]: id = 1004 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/03/04/2013/852294.shtml , processed_status = Downloaded, rubrics: none
+[937]: id = 1005 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/03/04/2013/852215.shtml , processed_status = Downloaded, rubrics: none
+[938]: id = 1006 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/03/04/2013/852331.shtml , processed_status = Failed — list index out of range
+[939]: id = 1007 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/04/2013/852608.shtml , processed_status = Downloaded, rubrics: none
+[940]: id = 1008 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/04/2013/852561.shtml , processed_status = Downloaded, rubrics: none
+[941]: id = 1009 , agency =  ะมส , link =  http://top.rbc.ru/politics/04/04/2013/852390.shtml , processed_status = Downloaded, rubrics: none
+[942]: id = 1010 , agency =  ะมส , link =  http://top.rbc.ru/economics/04/04/2013/852558.shtml , processed_status = Downloaded, rubrics: none
+[943]: id = 1012 , agency =  ะมส , link =  http://top.rbc.ru/economics/04/04/2013/852468.shtml , processed_status = Downloaded, rubrics: none
+[944]: id = 1013 , agency =  ะมส , link =  http://top.rbc.ru/society/04/04/2013/852612.shtml , processed_status = Downloaded, rubrics: none
+[945]: id = 1014 , agency =  ะมส , link =  http://top.rbc.ru/society/04/04/2013/852586.shtml , processed_status = Failed — list index out of range
+[946]: id = 1015 , agency =  ะมส , link =  http://top.rbc.ru/society/04/04/2013/852557.shtml , processed_status = Downloaded, rubrics: []
+[947]: id = 1016 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/04/2013/852477.shtml , processed_status = Downloaded, rubrics: none
+[948]: id = 1017 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/04/2013/852444.shtml , processed_status = Downloaded, rubrics: none
+[949]: id = 1018 , agency =  ะมส , link =  http://top.rbc.ru/incidents/04/04/2013/852394.shtml , processed_status = Downloaded, rubrics: none
+[950]: id = 1019 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/04/04/2013/852566.shtml , processed_status = Downloaded, rubrics: none
+[951]: id = 1020 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/04/04/2013/852571.shtml , processed_status = Downloaded, rubrics: none
+[952]: id = 1021 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/04/04/2013/852569.shtml , processed_status = Failed — list index out of range
+[953]: id = 1022 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/04/2013/852715.shtml , processed_status = Downloaded, rubrics: none
+[954]: id = 1023 , agency =  ะมส , link =  http://top.rbc.ru/politics/05/04/2013/852660.shtml , processed_status = Downloaded, rubrics: none
+[955]: id = 1024 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852762.shtml , processed_status = Downloaded, rubrics: none
+[956]: id = 1025 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852751.shtml , processed_status = Downloaded, rubrics: ['ย่๊่๏ๅไ่ÿ,', 'ิัสอ,', 'ะ๎๑๊๎์ํเไ็๎๐,', '๐ๅๅ๑๒๐ ็เ๏๐ๅ๙ๅํํ๛๕ ๑เ้๒๎โ,', '่ํ๒ๅ๐ํๅ๒-๖ๅํ็๓๐เ,', '๖ๅํ็๓๐เ']
+[957]: id = 1026 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852739.shtml , processed_status = Downloaded, rubrics: none
+[958]: id = 1028 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852690.shtml , processed_status = Downloaded, rubrics: none
+[959]: id = 1029 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852674.shtml , processed_status = Downloaded, rubrics: none
+[960]: id = 1030 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852645.shtml , processed_status = Downloaded, rubrics: none
+[961]: id = 1031 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852633.shtml , processed_status = Downloaded, rubrics: none
+[962]: id = 1032 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852624.shtml , processed_status = Failed — list index out of range
+[963]: id = 1033 , agency =  ะมส , link =  http://top.rbc.ru/society/05/04/2013/852620.shtml , processed_status = Downloaded, rubrics: none
+[964]: id = 1034 , agency =  ะมส , link =  http://top.rbc.ru/incidents/05/04/2013/852667.shtml , processed_status = Downloaded, rubrics: none
+[965]: id = 1035 , agency =  ะมส , link =  http://top.rbc.ru/viewpoint/05/04/2013/852742.shtml , processed_status = Downloaded, rubrics: none
+[966]: id = 1036 , agency =  ะมส , link =  http://top.rbc.ru/politics/06/04/2013/852802.shtml , processed_status = Downloaded, rubrics: ['ัๅ๐ใๅ้ ฬ่๐๎ํ๎โ,', 'ั๏๐เโๅไ๋่โเÿ ะ๎๑๑่ÿ,', '๏ๅํ๑่่,', 'ร๎๑ไ๓์เ']
+[967]: id = 1037 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/04/2013/852805.shtml , processed_status = Downloaded, rubrics: none
+[968]: id = 1038 , agency =  ะมส , link =  http://top.rbc.ru/incidents/06/04/2013/852788.shtml , processed_status = Downloaded, rubrics: none
+[969]: id = 1039 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/04/2013/852825.shtml , processed_status = Downloaded, rubrics: none
+[970]: id = 1040 , agency =  ะมส , link =  http://top.rbc.ru/politics/07/04/2013/852819.shtml , processed_status = Downloaded, rubrics: none
+[971]: id = 1041 , agency =  ะมส , link =  http://top.rbc.ru/society/07/04/2013/852853.shtml , processed_status = Downloaded, rubrics: none
+[972]: id = 1042 , agency =  ะมส , link =  http://top.rbc.ru/society/07/04/2013/852844.shtml , processed_status = Downloaded, rubrics: none
+[973]: id = 1043 , agency =  ะมส , link =  http://top.rbc.ru/incidents/07/04/2013/852843.shtml , processed_status = Downloaded, rubrics: none
+[974]: id = 1044 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/04/2013/852983.shtml , processed_status = Failed — list index out of range
+[975]: id = 1045 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/04/2013/852952.shtml , processed_status = Failed — list index out of range
+[976]: id = 1046 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/04/2013/852941.shtml , processed_status = Downloaded, rubrics: none
+[977]: id = 1047 , agency =  ะมส , link =  http://top.rbc.ru/politics/08/04/2013/852858.shtml , processed_status = Failed — list index out of range
+[978]: id = 1049 , agency =  ะมส , link =  http://top.rbc.ru/society/08/04/2013/853026.shtml , processed_status = Downloaded, rubrics: none
+[979]: id = 1050 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/04/2013/852938.shtml , processed_status = Downloaded, rubrics: none
+[980]: id = 1052 , agency =  ะมส , link =  http://top.rbc.ru/incidents/08/04/2013/852859.shtml , processed_status = Downloaded, rubrics: none
+[981]: id = 1053 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/08/04/2013/853015.shtml , processed_status = Failed — list index out of range
+[982]: id = 1054 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/04/2013/853220.shtml , processed_status = Downloaded, rubrics: none
+[983]: id = 1055 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/04/2013/853177.shtml , processed_status = Downloaded, rubrics: none
+[984]: id = 1057 , agency =  ะมส , link =  http://top.rbc.ru/politics/09/04/2013/853046.shtml , processed_status = Downloaded, rubrics: none
+[985]: id = 1058 , agency =  ะมส , link =  http://top.rbc.ru/economics/09/04/2013/853189.shtml , processed_status = Downloaded, rubrics: none
+[986]: id = 1059 , agency =  ะมส , link =  http://top.rbc.ru/economics/09/04/2013/853069.shtml , processed_status = Downloaded, rubrics: none
+[987]: id = 1061 , agency =  ะมส , link =  http://top.rbc.ru/society/09/04/2013/853152.shtml , processed_status = Downloaded, rubrics: none
+[988]: id = 1062 , agency =  ะมส , link =  http://top.rbc.ru/society/09/04/2013/853125.shtml , processed_status = Downloaded, rubrics: none
+[989]: id = 1064 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/04/2013/853201.shtml , processed_status = Downloaded, rubrics: none
+[990]: id = 1065 , agency =  ะมส , link =  http://top.rbc.ru/incidents/09/04/2013/853196.shtml , processed_status = Failed — list index out of range
+[991]: id = 1067 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/09/04/2013/853143.shtml , processed_status = Failed — list index out of range
+[992]: id = 1068 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/04/2013/853366.shtml , processed_status = Downloaded, rubrics: none
+[993]: id = 1069 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/04/2013/853344.shtml , processed_status = Downloaded, rubrics: none
+[994]: id = 1070 , agency =  ะมส , link =  http://top.rbc.ru/politics/10/04/2013/853226.shtml , processed_status = Downloaded, rubrics: none
+[995]: id = 1071 , agency =  ะมส , link =  http://top.rbc.ru/economics/10/04/2013/853325.shtml , processed_status = Downloaded, rubrics: none
+[996]: id = 1072 , agency =  ะมส , link =  http://top.rbc.ru/economics/10/04/2013/853289.shtml , processed_status = Downloaded, rubrics: none
+[997]: id = 1073 , agency =  ะมส , link =  http://top.rbc.ru/society/10/04/2013/853292.shtml , processed_status = Downloaded, rubrics: none
+[998]: id = 1074 , agency =  ะมส , link =  http://top.rbc.ru/society/10/04/2013/853274.shtml , processed_status = Downloaded, rubrics: none
+[999]: id = 1076 , agency =  ะมส , link =  http://top.rbc.ru/society/10/04/2013/853230.shtml , processed_status = Downloaded, rubrics: none
+[1000]: id = 1078 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/04/2013/853319.shtml , processed_status = Downloaded, rubrics: none
+[1001]: id = 1079 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/04/2013/853260.shtml , processed_status = Downloaded, rubrics: none
+[1002]: id = 1080 , agency =  ะมส , link =  http://top.rbc.ru/incidents/10/04/2013/853233.shtml , processed_status = Failed — ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[1003]: id = 1081 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/10/04/2013/853379.shtml , processed_status = Failed — list index out of range
+[1004]: id = 1082 , agency =  ะมส , link =  http://top.rbc.ru/politics/11/04/2013/853597.shtml , processed_status = Failed — list index out of range
+[1005]: id = 1083 , agency =  ะมส , link =  http://top.rbc.ru/politics/11/04/2013/853558.shtml , processed_status = Downloaded, rubrics: ['ฬเ๐ใเ๐ๅ๒ าý๒๗ๅ๐,', 'ส๐่๑๒่ํเ ิๅ๐ํเํไๅ๑ ไๅ ส่๐๘ํๅ๐ ,', 'ยๅ๋่๊๎แ๐่๒เํ่ÿ,', 'ภ๐ใๅํ๒่ํเ,', '๏๎๕๎๐๎ํ๛']
+[1006]: id = 1086 , agency =  ะมส , link =  http://top.rbc.ru/society/11/04/2013/853540.shtml , processed_status = Downloaded, rubrics: none
+[1007]: id = 1087 , agency =  ะมส , link =  http://top.rbc.ru/society/11/04/2013/853519.shtml , processed_status = Downloaded, rubrics: none
+[1008]: id = 1088 , agency =  ะมส , link =  http://top.rbc.ru/society/11/04/2013/853491.shtml , processed_status = Downloaded, rubrics: none
+[1009]: id = 1090 , agency =  ะมส , link =  http://top.rbc.ru/society/11/04/2013/853424.shtml , processed_status = Downloaded, rubrics: none
+[1010]: id = 1094 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/04/2013/853779.shtml , processed_status = Downloaded, rubrics: []
+[1011]: id = 1095 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/04/2013/853706.shtml , processed_status = Downloaded, rubrics: none
+[1012]: id = 1096 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/04/2013/853694.shtml , processed_status = Downloaded, rubrics: none
+[1013]: id = 1097 , agency =  ะมส , link =  http://top.rbc.ru/politics/12/04/2013/853664.shtml , processed_status = Downloaded, rubrics: none
+[1014]: id = 1098 , agency =  ะมส , link =  http://top.rbc.ru/society/12/04/2013/853690.shtml , processed_status = Downloaded, rubrics: ['ะฯึ']
+[1015]: id = 1099 , agency =  ะมส , link =  http://top.rbc.ru/society/12/04/2013/853672.shtml , processed_status = Downloaded, rubrics: none
+[1016]: id = 1101 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/04/2013/853705.shtml , processed_status = Downloaded, rubrics: none
+[1017]: id = 1102 , agency =  ะมส , link =  http://top.rbc.ru/incidents/12/04/2013/853696.shtml , processed_status = Downloaded, rubrics: none
+[1018]: id = 1104 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/12/04/2013/853754.shtml , processed_status = Failed — list index out of range
+[1019]: id = 1106 , agency =  ะมส , link =  http://top.rbc.ru/politics/14/04/2013/853843.shtml , processed_status = Downloaded, rubrics: none
+[1020]: id = 1107 , agency =  ะมส , link =  http://top.rbc.ru/society/14/04/2013/853836.shtml , processed_status = Downloaded, rubrics: none
+[1021]: id = 1108 , agency =  ะมส , link =  http://top.rbc.ru/incidents/14/04/2013/853840.shtml , processed_status = Downloaded, rubrics: none
+[1022]: id = 1110 , agency =  ะมส , link =  http://top.rbc.ru/politics/15/04/2013/853904.shtml , processed_status = Downloaded, rubrics: none
+[1023]: id = 1111 , agency =  ะมส , link =  http://top.rbc.ru/economics/15/04/2013/853868.shtml , processed_status = Downloaded, rubrics: none
+[1024]: id = 1112 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/854029.shtml , processed_status = Downloaded, rubrics: none
+[1025]: id = 1113 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/854009.shtml , processed_status = Downloaded, rubrics: none
+[1026]: id = 1114 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/853994.shtml , processed_status = Downloaded, rubrics: none
+[1027]: id = 1115 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/853974.shtml , processed_status = Downloaded, rubrics: none
+[1028]: id = 1117 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/853951.shtml , processed_status = Downloaded, rubrics: ['๊๓๋ü๒๓๐เ,', 'ศํ๒ๅ๐ํๅ๒,', 'YouTube,', 'Þๆํเÿ ส๎๐ๅÿ,', '์๓็๛๊เ,', 'ฤๆเ๑๒่ํ ม่แๅ๐,', 'Gangnam Style']
+[1029]: id = 1118 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/853905.shtml , processed_status = Downloaded, rubrics: none
+[1030]: id = 1119 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/853889.shtml , processed_status = Downloaded, rubrics: none
+[1031]: id = 1120 , agency =  ะมส , link =  http://top.rbc.ru/society/15/04/2013/853867.shtml , processed_status = Downloaded, rubrics: none
+[1032]: id = 1121 , agency =  ะมส , link =  http://top.rbc.ru/incidents/15/04/2013/853893.shtml , processed_status = Downloaded, rubrics: none
+[1033]: id = 1124 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/15/04/2013/853997.shtml , processed_status = Failed — list index out of range
+[1034]: id = 1125 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/15/04/2013/853919.shtml , processed_status = Failed — list index out of range
+[1035]: id = 1126 , agency =  ะมส , link =  http://top.rbc.ru/politics/16/04/2013/854090.shtml , processed_status = Downloaded, rubrics: none
+[1036]: id = 1127 , agency =  ะมส , link =  http://top.rbc.ru/politics/16/04/2013/854051.shtml , processed_status = Downloaded, rubrics: none
+[1037]: id = 1128 , agency =  ะมส , link =  http://top.rbc.ru/economics/16/04/2013/854232.shtml , processed_status = Downloaded, rubrics: none
+[1038]: id = 1130 , agency =  ะมส , link =  http://top.rbc.ru/economics/16/04/2013/854079.shtml , processed_status = Failed — list index out of range
+[1039]: id = 1131 , agency =  ะมส , link =  http://top.rbc.ru/society/16/04/2013/854212.shtml , processed_status = Downloaded, rubrics: ['ึ่๑๊เ๐่ไ็ๅ,', 'ม๎๋ü๘๎้ ๒ๅเ๒๐,', 'รภมา,', 'ิ่๋่ํ']
+[1040]: id = 1132 , agency =  ะมส , link =  http://top.rbc.ru/society/16/04/2013/854122.shtml , processed_status = Failed — list index out of range
+[1041]: id = 1133 , agency =  ะมส , link =  http://top.rbc.ru/society/16/04/2013/854097.shtml , processed_status = Downloaded, rubrics: none
+[1042]: id = 1134 , agency =  ะมส , link =  http://top.rbc.ru/society/16/04/2013/854046.shtml , processed_status = Downloaded, rubrics: none
+[1043]: id = 1135 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854233.shtml , processed_status = Downloaded, rubrics: none
+[1044]: id = 1136 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854227.shtml , processed_status = Downloaded, rubrics: none
+[1045]: id = 1137 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854156.shtml , processed_status = Downloaded, rubrics: none
+[1046]: id = 1138 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854103.shtml , processed_status = Downloaded, rubrics: none
+[1047]: id = 1139 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854089.shtml , processed_status = Failed — list index out of range
+[1048]: id = 1140 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854085.shtml , processed_status = Downloaded, rubrics: none
+[1049]: id = 1141 , agency =  ะมส , link =  http://top.rbc.ru/incidents/16/04/2013/854039.shtml , processed_status = Downloaded, rubrics: none
+[1050]: id = 1142 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/16/04/2013/854147.shtml , processed_status = Downloaded, rubrics: none
+[1051]: id = 1143 , agency =  ะมส , link =  http://rt.rbc.ru/tatarstan_freenews/16/04/2013/854134.shtml , processed_status = Failed — list index out of range
+[1052]: id = 1144 , agency =  ะมส , link =  http://top.rbc.ru/society/17/04/2013/854417.shtml , processed_status = Downloaded, rubrics: none
+[1053]: id = 1145 , agency =  ะมส , link =  http://top.rbc.ru/society/17/04/2013/854416.shtml , processed_status = Downloaded, rubrics: ['ฬเ๐ใเ๐ๅ๒ าý๒๗ๅ๐,', 'ห๎ํไ๎ํ,', 'ยๅ๋่๊๎แ๐่๒เํ่ÿ,', '๏๎๕๎๐๎ํ๛,', '๑๎แ๎๐ ัโ.ฯเโ๋เ,', 'ล๋่็เโๅ๒เ II']
+[1054]: id = 1146 , agency =  ะมส , link =  http://top.rbc.ru/society/17/04/2013/854274.shtml , processed_status = Failed — list index out of range
+[1055]: id = 1147 , agency =  ะมส , link =  http://top.rbc.ru/society/17/04/2013/854259.shtml , processed_status = Downloaded, rubrics: none
+[1056]: id = 1148 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854467.shtml , processed_status = Downloaded, rubrics: none
+[1057]: id = 1149 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854382.shtml , processed_status = Downloaded, rubrics: none
+[1058]: id = 1150 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854368.shtml , processed_status = Downloaded, rubrics: none
+[1059]: id = 1151 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854337.shtml , processed_status = Downloaded, rubrics: none
+[1060]: id = 1152 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854268.shtml , processed_status = Downloaded, rubrics: none
+[1061]: id = 1154 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854262.shtml , processed_status = Downloaded, rubrics: none
+[1062]: id = 1155 , agency =  ะมส , link =  http://top.rbc.ru/incidents/17/04/2013/854254.shtml , processed_status = Downloaded, rubrics: none
+[1063]: id = 1156 , agency =  ะมส , link =  http://top.rbc.ru/viewpoint/17/04/2013/854376.shtml , processed_status = Downloaded, rubrics: none
+[1064]: id = 1157 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/17/04/2013/854389.shtml , processed_status = Failed — list index out of range
+[1065]: id = 1158 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/17/04/2013/854387.shtml , processed_status = Failed — list index out of range
+[1066]: id = 1159 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/04/2013/854645.shtml , processed_status = Downloaded, rubrics: none
+[1067]: id = 1160 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/04/2013/854560.shtml , processed_status = Downloaded, rubrics: none
+[1068]: id = 1161 , agency =  ะมส , link =  http://top.rbc.ru/politics/18/04/2013/854495.shtml , processed_status = Downloaded, rubrics: none
+[1069]: id = 1162 , agency =  ะมส , link =  http://top.rbc.ru/economics/18/04/2013/854551.shtml , processed_status = Downloaded, rubrics: none
+[1070]: id = 1163 , agency =  ะมส , link =  http://top.rbc.ru/society/18/04/2013/854674.shtml , processed_status = Downloaded, rubrics: none
+[1071]: id = 1164 , agency =  ะมส , link =  http://top.rbc.ru/society/18/04/2013/854613.shtml , processed_status = Downloaded, rubrics: none
+[1072]: id = 1165 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854607.shtml , processed_status = Downloaded, rubrics: none
+[1073]: id = 1166 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854604.shtml , processed_status = Downloaded, rubrics: none
+[1074]: id = 1167 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854596.shtml , processed_status = Downloaded, rubrics: none
+[1075]: id = 1168 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854593.shtml , processed_status = Downloaded, rubrics: none
+[1076]: id = 1169 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854572.shtml , processed_status = Downloaded, rubrics: none
+[1077]: id = 1170 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854479.shtml , processed_status = Downloaded, rubrics: ['ัุภ,', 'โ็๐๛โ,', 'าๅ๕เ๑,', '๕่์็เโ๎ไ']
+[1078]: id = 1171 , agency =  ะมส , link =  http://top.rbc.ru/incidents/18/04/2013/854478.shtml , processed_status = Downloaded, rubrics: none
+[1079]: id = 1173 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854650.shtml , processed_status = Failed — list index out of range
+[1080]: id = 1174 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854625.shtml , processed_status = Failed — list index out of range
+[1081]: id = 1175 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854524.shtml , processed_status = Failed — list index out of range
+[1082]: id = 1176 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854497.shtml , processed_status = Failed — list index out of range
+[1083]: id = 1177 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/04/2013/854900.shtml , processed_status = Downloaded, rubrics: ['ลั,', 'ัๅ๐แ่ÿ,', 'ส๎๑๎โ๎']
+[1084]: id = 1178 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/04/2013/854864.shtml , processed_status = Downloaded, rubrics: none
+[1085]: id = 1179 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/04/2013/854753.shtml , processed_status = Failed — list index out of range
+[1086]: id = 1180 , agency =  ะมส , link =  http://top.rbc.ru/politics/19/04/2013/854750.shtml , processed_status = Downloaded, rubrics: none
+[1087]: id = 1181 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/04/2013/854829.shtml , processed_status = Downloaded, rubrics: none
+[1088]: id = 1182 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/04/2013/854767.shtml , processed_status = Failed — ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[1089]: id = 1183 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/04/2013/854759.shtml , processed_status = Failed — list index out of range
+[1090]: id = 1184 , agency =  ะมส , link =  http://top.rbc.ru/economics/19/04/2013/854736.shtml , processed_status = Downloaded, rubrics: none
+[1091]: id = 1185 , agency =  ะมส , link =  http://top.rbc.ru/society/19/04/2013/854907.shtml , processed_status = Downloaded, rubrics: none
+[1092]: id = 1187 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854909.shtml , processed_status = Downloaded, rubrics: none
+[1093]: id = 1189 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854851.shtml , processed_status = Downloaded, rubrics: none
+[1094]: id = 1190 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854772.shtml , processed_status = Downloaded, rubrics: none
+[1095]: id = 1191 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854766.shtml , processed_status = Downloaded, rubrics: ['ม๎๑๒๎ํ,', '๒ๅ๐เ๊๒,', 'MIT']
+[1096]: id = 1193 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854691.shtml , processed_status = Downloaded, rubrics: none
+[1097]: id = 1194 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854690.shtml , processed_status = Downloaded, rubrics: none
+[1098]: id = 1195 , agency =  ะมส , link =  http://top.rbc.ru/incidents/19/04/2013/854682.shtml , processed_status = Downloaded, rubrics: none
+[1099]: id = 1196 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/19/04/2013/854867.shtml , processed_status = Downloaded, rubrics: none
+[1100]: id = 1197 , agency =  ะมส , link =  http://top.rbc.ru/politics/20/04/2013/854931.shtml , processed_status = Downloaded, rubrics: none
+[1101]: id = 1198 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/04/2013/854937.shtml , processed_status = Downloaded, rubrics: none
+[1102]: id = 1199 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/04/2013/854921.shtml , processed_status = Downloaded, rubrics: none
+[1103]: id = 1200 , agency =  ะมส , link =  http://top.rbc.ru/incidents/20/04/2013/854918.shtml , processed_status = Downloaded, rubrics: none
+[1104]: id = 1202 , agency =  ะมส , link =  http://top.rbc.ru/society/21/04/2013/854964.shtml , processed_status = Failed — list index out of range
+[1105]: id = 1203 , agency =  ะมส , link =  http://top.rbc.ru/society/21/04/2013/854941.shtml , processed_status = Downloaded, rubrics: none
+[1106]: id = 1204 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/04/2013/854960.shtml , processed_status = Downloaded, rubrics: none
+[1107]: id = 1205 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/04/2013/854951.shtml , processed_status = Downloaded, rubrics: none
+[1108]: id = 1206 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/04/2013/854946.shtml , processed_status = Downloaded, rubrics: none
+[1109]: id = 1207 , agency =  ะมส , link =  http://top.rbc.ru/incidents/21/04/2013/854944.shtml , processed_status = Downloaded, rubrics: none
+[1110]: id = 1208 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/04/2013/855113.shtml , processed_status = Downloaded, rubrics: none
+[1111]: id = 1209 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/04/2013/855074.shtml , processed_status = Downloaded, rubrics: ['อเ๐๛๘๊่ํ,', 'ห่โเํ๎โ ,', '๏๐เโ่๒ๅ๋ü๑๒โ๎']
+[1112]: id = 1210 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/04/2013/855043.shtml , processed_status = Downloaded, rubrics: none
+[1113]: id = 1211 , agency =  ะมส , link =  http://top.rbc.ru/politics/22/04/2013/854992.shtml , processed_status = Downloaded, rubrics: none
+[1114]: id = 1212 , agency =  ะมส , link =  http://top.rbc.ru/society/22/04/2013/855167.shtml , processed_status = Downloaded, rubrics: none
+[1115]: id = 1214 , agency =  ะมส , link =  http://top.rbc.ru/society/22/04/2013/854975.shtml , processed_status = Failed — list index out of range
+[1116]: id = 1216 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/04/2013/855109.shtml , processed_status = Downloaded, rubrics: none
+[1117]: id = 1217 , agency =  ะมส , link =  http://top.rbc.ru/incidents/22/04/2013/854991.shtml , processed_status = Downloaded, rubrics: none
+[1118]: id = 1218 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/22/04/2013/855050.shtml , processed_status = Failed — list index out of range
+[1119]: id = 1220 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/04/2013/855288.shtml , processed_status = Downloaded, rubrics: none
+[1120]: id = 1221 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/04/2013/855261.shtml , processed_status = Downloaded, rubrics: ['มๅ๋๎๐๓๑๑่ÿ,', 'ุ๎้ใ๓,', 'ฬ่ํ๎แ๎๐๎ํ๛,', 'ห๓๊เ๘ๅํ๊๎,', '่๑๒๐ๅแ่๒ๅ๋่']
+[1121]: id = 1222 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/04/2013/855248.shtml , processed_status = Downloaded, rubrics: none
+[1122]: id = 1223 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/04/2013/855192.shtml , processed_status = Downloaded, rubrics: none
+[1123]: id = 1224 , agency =  ะมส , link =  http://top.rbc.ru/politics/23/04/2013/855186.shtml , processed_status = Failed — list index out of range
+[1124]: id = 1225 , agency =  ะมส , link =  http://top.rbc.ru/economics/23/04/2013/855305.shtml , processed_status = Downloaded, rubrics: none
+[1125]: id = 1227 , agency =  ะมส , link =  http://top.rbc.ru/economics/23/04/2013/855235.shtml , processed_status = Downloaded, rubrics: none
+[1126]: id = 1228 , agency =  ะมส , link =  http://top.rbc.ru/economics/23/04/2013/855180.shtml , processed_status = Failed — list index out of range
+[1127]: id = 1229 , agency =  ะมส , link =  http://top.rbc.ru/society/23/04/2013/855276.shtml , processed_status = Downloaded, rubrics: none
+[1128]: id = 1230 , agency =  ะมส , link =  http://top.rbc.ru/society/23/04/2013/855259.shtml , processed_status = Downloaded, rubrics: none
+[1129]: id = 1231 , agency =  ะมส , link =  http://top.rbc.ru/society/23/04/2013/855174.shtml , processed_status = Downloaded, rubrics: none
+[1130]: id = 1232 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855352.shtml , processed_status = Downloaded, rubrics: none
+[1131]: id = 1233 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855337.shtml , processed_status = Downloaded, rubrics: none
+[1132]: id = 1234 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855293.shtml , processed_status = Downloaded, rubrics: none
+[1133]: id = 1236 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855279.shtml , processed_status = Downloaded, rubrics: none
+[1134]: id = 1237 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855273.shtml , processed_status = Failed — list index out of range
+[1135]: id = 1238 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855246.shtml , processed_status = Downloaded, rubrics: none
+[1136]: id = 1239 , agency =  ะมส , link =  http://top.rbc.ru/incidents/23/04/2013/855216.shtml , processed_status = Downloaded, rubrics: none
+[1137]: id = 1240 , agency =  ะมส , link =  http://top.rbc.ru/retail/23/04/2013/855179.shtml , processed_status = Failed — list index out of range
+[1138]: id = 1241 , agency =  ะมส , link =  http://top.rbc.ru/spb_sz/23/04/2013/855283.shtml , processed_status = Downloaded, rubrics: none
+[1139]: id = 1242 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/04/2013/855542.shtml , processed_status = Downloaded, rubrics: none
+[1140]: id = 1243 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/04/2013/855514.shtml , processed_status = Downloaded, rubrics: ['ร๎๑ไ๓์เ,', '็เ๊๎ํ๛,', '๗่ํ๎โํ่๊่,', '็เ๐๓แๅๆํ๛ๅ ๑๗ๅ๒เ']
+[1141]: id = 1245 , agency =  ะมส , link =  http://top.rbc.ru/politics/24/04/2013/855479.shtml , processed_status = Downloaded, rubrics: ['อเโเ๋üํ๛้,', 'ไๅ๋๎ ส่๐๎โ๋ๅ๑เ,', '๑๓ไ,', '๎๏๏๎็่๖่ÿ']
+[1142]: id = 1247 , agency =  ะมส , link =  http://top.rbc.ru/economics/24/04/2013/855436.shtml , processed_status = Downloaded, rubrics: none
+[1143]: id = 1248 , agency =  ะมส , link =  http://top.rbc.ru/economics/24/04/2013/855398.shtml , processed_status = Downloaded, rubrics: none
+[1144]: id = 1249 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855548.shtml , processed_status = Failed — list index out of range
+[1145]: id = 1250 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855544.shtml , processed_status = Downloaded, rubrics: none
+[1146]: id = 1251 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855481.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ ,', 'ฬ๎๑ใ๎๐ไ๓์เ ,', '๘๒๐เ๔๛']
+[1147]: id = 1252 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855475.shtml , processed_status = Failed — list index out of range
+[1148]: id = 1253 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855448.shtml , processed_status = Downloaded, rubrics: none
+[1149]: id = 1254 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855438.shtml , processed_status = Downloaded, rubrics: ['ศํ๒ๅ๐ํๅ๒', '๊๎ํ๊๓๐๑ ๊๐เ๑๎๒๛']
+[1150]: id = 1255 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855413.shtml , processed_status = Downloaded, rubrics: none
+[1151]: id = 1256 , agency =  ะมส , link =  http://top.rbc.ru/society/24/04/2013/855399.shtml , processed_status = Downloaded, rubrics: none
+[1152]: id = 1257 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855489.shtml , processed_status = Downloaded, rubrics: none
+[1153]: id = 1258 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855462.shtml , processed_status = Downloaded, rubrics: none
+[1154]: id = 1260 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855431.shtml , processed_status = Downloaded, rubrics: none
+[1155]: id = 1261 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855427.shtml , processed_status = Downloaded, rubrics: none
+[1156]: id = 1262 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855412.shtml , processed_status = Downloaded, rubrics: none
+[1157]: id = 1263 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855403.shtml , processed_status = Failed — list index out of range
+[1158]: id = 1264 , agency =  ะมส , link =  http://top.rbc.ru/incidents/24/04/2013/855355.shtml , processed_status = Downloaded, rubrics: none
+[1159]: id = 1265 , agency =  ะมส , link =  http://top.rbc.ru/spb_freenews/24/04/2013/855470.shtml , processed_status = Downloaded, rubrics: none
+[1160]: id = 1266 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/04/2013/855719.shtml , processed_status = Downloaded, rubrics: ['ัๅ๐แ่ÿ,', 'ั๐ๅแ๐ๅํ่๖เ,', 'อ่๊๎๋่๗']
+[1161]: id = 1267 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/04/2013/855681.shtml , processed_status = Downloaded, rubrics: []
+[1162]: id = 1268 , agency =  ะมส , link =  http://top.rbc.ru/politics/25/04/2013/855642.shtml , processed_status = Downloaded, rubrics: none
+[1163]: id = 1269 , agency =  ะมส , link =  http://top.rbc.ru/society/25/04/2013/855752.shtml , processed_status = Downloaded, rubrics: none
+[1164]: id = 1271 , agency =  ะมส , link =  http://top.rbc.ru/society/25/04/2013/855678.shtml , processed_status = Downloaded, rubrics: none
+[1165]: id = 1272 , agency =  ะมส , link =  http://top.rbc.ru/society/25/04/2013/855630.shtml , processed_status = Failed — list index out of range
+[1166]: id = 1273 , agency =  ะมส , link =  http://top.rbc.ru/society/25/04/2013/855626.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ,', 'รศมฤฤ,', 'โ๎ไ่๒ๅ๋่']
+[1167]: id = 1274 , agency =  ะมส , link =  http://top.rbc.ru/society/25/04/2013/855584.shtml , processed_status = Downloaded, rubrics: none
+[1168]: id = 1276 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/04/2013/855571.shtml , processed_status = Downloaded, rubrics: none
+[1169]: id = 1277 , agency =  ะมส , link =  http://top.rbc.ru/incidents/25/04/2013/855563.shtml , processed_status = Downloaded, rubrics: none
+[1170]: id = 1279 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/04/2013/855948.shtml , processed_status = Downloaded, rubrics: none
+[1171]: id = 1280 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/04/2013/855931.shtml , processed_status = Failed — list index out of range
+[1172]: id = 1282 , agency =  ะมส , link =  http://top.rbc.ru/politics/26/04/2013/855791.shtml , processed_status = Downloaded, rubrics: none
+[1173]: id = 1283 , agency =  ะมส , link =  http://top.rbc.ru/economics/26/04/2013/855920.shtml , processed_status = Downloaded, rubrics: none
+[1174]: id = 1284 , agency =  ะมส , link =  http://top.rbc.ru/economics/26/04/2013/855808.shtml , processed_status = Downloaded, rubrics: none
+[1175]: id = 1286 , agency =  ะมส , link =  http://top.rbc.ru/society/26/04/2013/855972.shtml , processed_status = Downloaded, rubrics: none
+[1176]: id = 1288 , agency =  ะมส , link =  http://top.rbc.ru/society/26/04/2013/855928.shtml , processed_status = Downloaded, rubrics: ['ฯ๓๒่ํ', '์๎๘ๅํํ่๗ๅ๑๒โ๎', 'รๅํ๏๐๎๊๓๐เ๒๓๐เ', '๊๎๐๐๓๏๖่ÿ', 'Þ๐่้ ืเ้๊เ', 'ฦสี', '๕่๙ๅํ่ÿ', 'ฮ์๑๊เÿ ๎แ๋เ๑๒ü', 'ฮ์๑๊']
+[1177]: id = 1289 , agency =  ะมส , link =  http://top.rbc.ru/society/26/04/2013/855903.shtml , processed_status = Downloaded, rubrics: none
+[1178]: id = 1290 , agency =  ะมส , link =  http://top.rbc.ru/society/26/04/2013/855825.shtml , processed_status = Failed — list index out of range
+[1179]: id = 1291 , agency =  ะมส , link =  http://top.rbc.ru/society/26/04/2013/855822.shtml , processed_status = Downloaded, rubrics: none
+[1180]: id = 1292 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/04/2013/855887.shtml , processed_status = Downloaded, rubrics: none
+[1181]: id = 1293 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/04/2013/855871.shtml , processed_status = Downloaded, rubrics: none
+[1182]: id = 1294 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/04/2013/855862.shtml , processed_status = Downloaded, rubrics: none
+[1183]: id = 1295 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/04/2013/855839.shtml , processed_status = Downloaded, rubrics: none
+[1184]: id = 1296 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/04/2013/855819.shtml , processed_status = Downloaded, rubrics: none
+[1185]: id = 1297 , agency =  ะมส , link =  http://top.rbc.ru/incidents/26/04/2013/855804.shtml , processed_status = Downloaded, rubrics: none
+[1186]: id = 1298 , agency =  ะมส , link =  http://rt.rbc.ru/tatarstan_freenews/26/04/2013/855939.shtml , processed_status = Failed — list index out of range
+[1187]: id = 1299 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/26/04/2013/855937.shtml , processed_status = Failed — list index out of range
+[1188]: id = 1300 , agency =  ะมส , link =  http://top.rbc.ru/politics/27/04/2013/856003.shtml , processed_status = Downloaded, rubrics: none
+[1189]: id = 1302 , agency =  ะมส , link =  http://top.rbc.ru/society/27/04/2013/856002.shtml , processed_status = Downloaded, rubrics: ['ฯๅ๒ๅ๐แ๓๐ใ,', '์ๅ๒๐๎,', '๐เ็โๅไๅํ่ๅ ์๎๑๒๎โ,', 'อๅโเ,', 'ํเโ่ใเ๖่ÿ']
+[1190]: id = 1304 , agency =  ะมส , link =  http://top.rbc.ru/incidents/27/04/2013/855983.shtml , processed_status = Downloaded, rubrics: none
+[1191]: id = 1305 , agency =  ะมส , link =  http://top.rbc.ru/economics/28/04/2013/856013.shtml , processed_status = Downloaded, rubrics: ['฿๏๎ํ่ÿ']
+[1192]: id = 1306 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/04/2013/856025.shtml , processed_status = Downloaded, rubrics: none
+[1193]: id = 1307 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/04/2013/856020.shtml , processed_status = Downloaded, rubrics: none
+[1194]: id = 1308 , agency =  ะมส , link =  http://top.rbc.ru/incidents/28/04/2013/856019.shtml , processed_status = Downloaded, rubrics: none
+[1195]: id = 1309 , agency =  ะมส , link =  http://top.rbc.ru/politics/29/04/2013/856119.shtml , processed_status = Downloaded, rubrics: none
+[1196]: id = 1311 , agency =  ะมส , link =  http://top.rbc.ru/economics/29/04/2013/856041.shtml , processed_status = Failed — list index out of range
+[1197]: id = 1312 , agency =  ะมส , link =  http://top.rbc.ru/society/29/04/2013/856157.shtml , processed_status = Downloaded, rubrics: none
+[1198]: id = 1313 , agency =  ะมส , link =  http://top.rbc.ru/society/29/04/2013/856146.shtml , processed_status = Downloaded, rubrics: ['ฬ๎๑๊โเ,', 'ฬ๎๑ใ๎๐๑๓ไ,', '๕๓๋่ใเํ๑๒โ๎,', '์เ๑๑๎โเÿ ไ๐เ๊เ']
+[1199]: id = 1314 , agency =  ะมส , link =  http://top.rbc.ru/society/29/04/2013/856046.shtml , processed_status = Failed — list index out of range
+[1200]: id = 1315 , agency =  ะมส , link =  http://top.rbc.ru/society/29/04/2013/856044.shtml , processed_status = Downloaded, rubrics: none
+[1201]: id = 1316 , agency =  ะมส , link =  http://top.rbc.ru/society/29/04/2013/856043.shtml , processed_status = Downloaded, rubrics: none
+[1202]: id = 1317 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/04/2013/856200.shtml , processed_status = Failed — list index out of range
+[1203]: id = 1318 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/04/2013/856176.shtml , processed_status = Downloaded, rubrics: none
+[1204]: id = 1319 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/04/2013/856158.shtml , processed_status = Failed — list index out of range
+[1205]: id = 1320 , agency =  ะมส , link =  http://top.rbc.ru/incidents/29/04/2013/856110.shtml , processed_status = Downloaded, rubrics: none
+[1206]: id = 1321 , agency =  ะมส , link =  http://top.rbc.ru/photoreport/29/04/2013/856122.shtml , processed_status = Failed — list index out of range
+[1207]: id = 1322 , agency =  ะมส , link =  http://top.rbc.ru/politics/30/04/2013/856276.shtml , processed_status = Failed — ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+[1208]: id = 1323 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/04/2013/856359.shtml , processed_status = Downloaded, rubrics: none
+[1209]: id = 1324 , agency =  ะมส , link =  http://top.rbc.ru/economics/30/04/2013/856289.shtml , processed_status = Downloaded, rubrics: none
+[1210]: id = 1325 , agency =  ะมส , link =  http://top.rbc.ru/society/30/04/2013/856335.shtml , processed_status = Downloaded, rubrics: ['๎๒๑๒เโ๊่']
+[1211]: id = 1327 , agency =  ะมส , link =  http://top.rbc.ru/society/30/04/2013/856211.shtml , processed_status = Failed — list index out of range
+[1212]: id = 1328 , agency =  ะมส , link =  http://top.rbc.ru/society/30/04/2013/856204.shtml , processed_status = Downloaded, rubrics: none
+[1213]: id = 1329 , agency =  ะมส , link =  http://top.rbc.ru/incidents/30/04/2013/856320.shtml , processed_status = Downloaded, rubrics: none
+[1214]: id = 1330 , agency =  ะมส , link =  http://top.rbc.ru/incidents/30/04/2013/856273.shtml , processed_status = Downloaded, rubrics: none
+[1215]: id = 1331 , agency =  ะมส , link =  http://top.rbc.ru/incidents/30/04/2013/856222.shtml , processed_status = 

@@ -1,0 +1,15 @@
+[1]: id = 1 , agency =  РБК , link =  http://top.rbc.ru/economics/01/01/2013/839229.shtml , processed_status = Downloaded, rubrics: none
+[2]: id = 2 , agency =  РБК , link =  http://top.rbc.ru/economics/01/01/2013/839223.shtml , processed_status = Downloaded, rubrics: none
+[3]: id = 3 , agency =  РБК , link =  http://top.rbc.ru/society/01/01/2013/839242.shtml , processed_status = Downloaded, rubrics: ['Чечня', 'национализм', 'Демушкин', 'кодекс поведения']
+[4]: id = 4 , agency =  РБК , link =  http://top.rbc.ru/society/01/01/2013/839227.shtml , processed_status = Downloaded, rubrics: none
+[5]: id = 5 , agency =  РБК , link =  http://top.rbc.ru/incidents/01/01/2013/839240.shtml , processed_status = Downloaded, rubrics: none
+[6]: id = 6 , agency =  РБК , link =  http://top.rbc.ru/incidents/01/01/2013/839231.shtml , processed_status = Downloaded, rubrics: none
+[7]: id = 7 , agency =  РБК , link =  http://top.rbc.ru/incidents/01/01/2013/839226.shtml , processed_status = Downloaded, rubrics: none
+[8]: id = 8 , agency =  РБК , link =  http://top.rbc.ru/politics/02/01/2013/839275.shtml , processed_status = Downloaded, rubrics: none
+[9]: id = 9 , agency =  РБК , link =  http://top.rbc.ru/economics/02/01/2013/839256.shtml , processed_status = Downloaded, rubrics: ['США']
+[10]: id = 10 , agency =  РБК , link =  http://top.rbc.ru/society/02/01/2013/839271.shtml , processed_status = Downloaded, rubrics: none
+[11]: id = 11 , agency =  РБК , link =  http://top.rbc.ru/society/02/01/2013/839249.shtml , processed_status = Downloaded, rubrics: ['Франция', 'вандализм']
+[12]: id = 12 , agency =  РБК , link =  http://top.rbc.ru/incidents/02/01/2013/839257.shtml , processed_status = Traceback (most recent call last):
+  File "C:/Users/Kiril/PycharmProjects/Diploma2020/Downloader.py", line 42, in <module>
+    for block in elements_with_article[0]:
+IndexError: list index out of range

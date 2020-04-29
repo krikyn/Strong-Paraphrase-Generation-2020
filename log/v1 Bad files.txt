@@ -1,0 +1,958 @@
+C:\Users\Kiril\AppData\Local\Programs\Python\Python37\python.exe C:/Users/Kiril/PycharmProjects/Diploma2020/corrector.py
+Bad files:
+[0]: id = 163 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/17/01/2013/840841.shtml  title =  В Петербурге сотрудницу налоговой подозревают во взятке, в инспекции обыски.
+
+[1]: id = 164 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/17/01/2013/840835.shtml  title =  Чиновники Петербурга отменили конкурсов на ремонт дорог без участия Навального.
+
+[2]: id = 207 , agency =  РБК , link =  http://top.rbc.ru/incidents/22/01/2013/841524.shtml  title =  В Челябинске возбуждено уголовное дело о клевете на Ф.Вяткина.
+
+[3]: id = 225 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/23/01/2013/841798.shtml  title =  В Петербурге проводится проверка по факту падения наледи на девушку.
+
+[4]: id = 226 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/23/01/2013/841764.shtml  title =  Суд Петербурга рассмотрит дело о гибели людей при взрыве в ресторане "Харбин".
+
+[5]: id = 227 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/23/01/2013/841713.shtml  title =  Депутаты Петербурга ищут виновных за срыв салюта в день прорыва блокады.
+
+[6]: id = 255 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/25/01/2013/851101.shtml  title =  В аэропорту Казани пассажирский Airbus задел хвостом маяк.
+
+[7]: id = 269 , agency =  РБК , link =  http://top.rbc.ru/photoreport/27/01/2013/842337.shtml  title =  При пожаре в ночном клубе в Бразилии погибли более 200 человек.
+
+[8]: id = 281 , agency =  РБК , link =  http://top.rbc.ru/incidents/28/01/2013/842353.shtml  title =  Шесть моряков с перевернувшегося в Японском море судна погибли.
+
+[9]: id = 282 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/28/01/2013/842452.shtml  title =  В Петербурге у отделения полиции произошел взрыв, есть пострадавший.
+
+[10]: id = 289 , agency =  РБК , link =  http://top.rbc.ru/incidents/29/01/2013/842637.shtml  title =  В Казахстане по факту крушения самолета возбуждено дело.
+
+[11]: id = 292 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/29/01/2013/842655.shtml  title =  Смольный опровергает разрыв отношений с Венецией.
+
+[12]: id = 293 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/29/01/2013/842647.shtml  title =  По факту избиения организатора спектакля "Лолита" в Петербурге возбудили дело.
+
+[13]: id = 294 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/29/01/2013/842639.shtml  title =  Смольный: Венеция не разрывала отношений с Петербургом из-за "гомофобного" закона.
+
+[14]: id = 306 , agency =  РБК , link =  http://top.rbc.ru/society/30/01/2013/842740.shtml  title =  Полиция нашла новые хищения при подготовке к саммиту АТЭС.
+
+[15]: id = 321 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/31/01/2013/843055.shtml  title =  Эрмитаж пытается догнать Лувр по ценам на билеты.
+
+[16]: id = 322 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/31/01/2013/843044.shtml  title =  Эрмитаж повышает стоимость билетов для россиян.
+
+[17]: id = 357 , agency =  РБК , link =  http://top.rbc.ru/politics/05/02/2013/843683.shtml  title =  Кремль: Инициирование отставки Н.Белых – абсолютно местная инициатива.
+
+[18]: id = 365 , agency =  РБК , link =  http://top.rbc.ru/economics/06/02/2013/843825.shtml  title =  У российского фондового рынка есть шанс для роста.
+
+[19]: id = 370 , agency =  РБК , link =  http://top.rbc.ru/society/06/02/2013/843821.shtml  title =  Вину за крушение Ан-28 на Камчатке возложили на пилотов.
+
+[20]: id = 377 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/06/02/2013/843887.shtml  title =  Двое судей КС выразили несогласие с делом Гудкова.
+
+[21]: id = 382 , agency =  РБК , link =  http://top.rbc.ru/economics/07/02/2013/844042.shtml  title =  За январь рубль подорожал к доллару на 2,9%, к евро — на 0,8%.
+
+[22]: id = 392 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/07/02/2013/844050.shtml  title =  ОАЭ выдали России петербургского героинового наркобарона.
+
+[23]: id = 422 , agency =  РБК , link =  http://top.rbc.ru/incidents/11/02/2013/844612.shtml  title =  На место взрыва в шахте МЧС направляет авиадесант во главе с министром.
+
+[24]: id = 423 , agency =  РБК , link =  http://top.rbc.ru/incidents/11/02/2013/844566.shtml  title =  На месте взрыва в шахте "Воркутинская" было 17 человек.
+
+[25]: id = 427 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/11/02/2013/844556.shtml  title =  Взрыв на шахте в Коми: девять горняков погибли.
+
+[26]: id = 438 , agency =  РБК , link =  http://top.rbc.ru/society/12/02/2013/844727.shtml  title =  В Коми объявили трехдневный траур по жертвам взрыва на шахте.
+
+[27]: id = 450 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/12/02/2013/844778.shtml  title =  СК возбудил дело по факту мошенничества с землями Минобороны в Ленобласти.
+
+[28]: id = 451 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/12/02/2013/844749.shtml  title =  В Петербурге возбуждено дело по факту покушения на убийство бизнесмена.
+
+[29]: id = 465 , agency =  РБК , link =  http://top.rbc.ru/incidents/13/02/2013/844909.shtml  title =  Тело сгоревшего "охотника за полицейскими" так и не было найдено.
+
+[30]: id = 478 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/14/02/2013/845175.shtml  title =  КС заставил Госдуму исправить скандальный закон о митингах.
+
+[31]: id = 479 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/14/02/2013/845159.shtml  title =  КС: Минимальный размер штрафа за нарушения на митингах должен быть снижен.
+
+[32]: id = 480 , agency =  РБК , link =  http://top.rbc.ru/photoreport/14/02/2013/845084.shtml  title =  Крушение самолета Ан-24 в Донецке.
+
+[33]: id = 495 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/02/2013/845370.shtml  title =  В комитете по транспорту правительства Петербурга прошли обыски.
+
+[34]: id = 513 , agency =  РБК , link =  http://top.rbc.ru/politics/18/02/2013/845551.shtml  title =  В Армении сегодня проходят президентские выборы.
+
+[35]: id = 522 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/02/2013/845688.shtml  title =  Зампред комитета по транспорту Смольного И.Маилов взят под стражу.
+
+[36]: id = 523 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/02/2013/845643.shtml  title =  Lexus губернатора Архангельской обл. попал в ДТП, двое пострадали.
+
+[37]: id = 525 , agency =  РБК , link =  http://top.rbc.ru/politics/19/02/2013/845915.shtml  title =  Политологи: Кремль сделал ставку на прозрачные выборы в регионах.
+
+[38]: id = 530 , agency =  РБК , link =  http://top.rbc.ru/economics/19/02/2013/845760.shtml  title =  РЖД возобновило продажу билетов на Украину.
+
+[39]: id = 568 , agency =  РБК , link =  http://top.rbc.ru/photoreport/21/02/2013/846163.shtml  title =  Ушел из жизни режиссер Алексей Герман - старший.
+
+[40]: id = 575 , agency =  РБК , link =  http://top.rbc.ru/society/22/02/2013/846429.shtml  title =  Ростехнадзор не нашел деформации моста к острову Русский.
+
+[41]: id = 587 , agency =  РБК , link =  http://top.rbc.ru/photoreport/24/02/2013/846631.shtml  title =  На гонках NASCAR в США столкнулись 10 машин.
+
+[42]: id = 597 , agency =  РБК , link =  http://top.rbc.ru/incidents/25/02/2013/846701.shtml  title =  СМИ: Похитители депутата из Владивостока сдались полиции.
+
+[43]: id = 598 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/25/02/2013/846834.shtml  title =  Суд смягчил приговор осужденным за подрыв "Невского экспресса".
+
+[44]: id = 599 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/25/02/2013/846699.shtml  title =  Верховный суд вернется к делу о подрыве "Невского экспресса".
+
+[45]: id = 600 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/25/02/2013/846825.shtml  title =  Верховный суд смягчил приговор шестерым осужденным за подрыв "Невского экспресса".
+
+[46]: id = 601 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/25/02/2013/846695.shtml  title =  Верховный суд вернется сегодня к делу о подрыве "Невского экспресса".
+
+[47]: id = 602 , agency =  РБК , link =  http://top.rbc.ru/politics/26/02/2013/847010.shtml  title =  Выборы в Италии: С.Берлускони задумался о союзе с победителями.
+
+[48]: id = 614 , agency =  РБК , link =  http://top.rbc.ru/incidents/26/02/2013/846978.shtml  title =  В Нигерии освобожден российский моряк, захваченный в плен пиратами.
+
+[49]: id = 627 , agency =  РБК , link =  http://top.rbc.ru/photoreport/27/02/2013/847227.shtml  title =  Скончался знаменитый пианист Ван Клиберн.
+
+[50]: id = 630 , agency =  РБК , link =  http://top.rbc.ru/politics/28/02/2013/847307.shtml  title =  Соавтор "закона Магнитского" будет повторно просить российскую визу.
+
+[51]: id = 641 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/28/02/2013/847374.shtml  title =  В Петербурге полиция пресекла крупную драку с участием 50 человек.
+
+[52]: id = 648 , agency =  РБК , link =  http://top.rbc.ru/society/01/03/2013/847592.shtml  title =  Власти Техаса обвинили Павла Астахова в голословности.
+
+[53]: id = 651 , agency =  РБК , link =  http://top.rbc.ru/incidents/01/03/2013/847565.shtml  title =  В Березниках введен режим ЧС в связи с выбросом хлора.
+
+[54]: id = 657 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/01/03/2013/847484.shtml  title =  Трассу от Москвы до Петербурга строили на ворованном песке.
+
+[55]: id = 678 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/04/03/2013/847825.shtml  title =  Плющенко: Поеду на реабилитацию в Израиль.
+
+[56]: id = 679 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/04/03/2013/847713.shtml  title =  Матвиенко взяла "золото" в борьбе с влиятельными женщинами России.
+
+[57]: id = 680 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/04/03/2013/847780.shtml  title =  При строительстве "Зенит-Арены" погиб рабочий, идет проверка.
+
+[58]: id = 688 , agency =  РБК , link =  http://top.rbc.ru/society/05/03/2013/847982.shtml  title =  Главным редактором "Коммерсантъ FM" назначен Константин Эггерт.
+
+[59]: id = 690 , agency =  РБК , link =  http://top.rbc.ru/society/05/03/2013/847927.shtml  title =  "Коммерсантъ" покидает директор информационного центра М.Лукин.
+
+[60]: id = 693 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/05/03/2013/847896.shtml  title =  Псковский губернатор пообещал избавить жену от активов во Франции.
+
+[61]: id = 694 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/05/03/2013/848041.shtml  title =  "Газпром нефть" определила кандидатов в совет директоров для избрания на годовом собрании акционеров.
+
+[62]: id = 704 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/06/03/2013/848095.shtml  title =  Министра спорта Калининградской обл. подозревают в служебном подлоге.
+
+[63]: id = 705 , agency =  РБК , link =  http://top.rbc.ru/photoreport/06/03/2013/848070.shtml  title =  Ушел из жизни Уго Чавес.
+
+[64]: id = 719 , agency =  РБК , link =  http://top.rbc.ru/photoreport/07/03/2013/848317.shtml  title =  Умер актер Андрей Панин.
+
+[65]: id = 737 , agency =  РБК , link =  http://top.rbc.ru/politics/11/03/2013/848512.shtml  title =  Сирийская оппозиция перенесла выборы временного правительства.
+
+[66]: id = 746 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/11/03/2013/848525.shtml  title =  Максим Кузьмин мог смертельно пострадать от падения с качелей.
+
+[67]: id = 747 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/11/03/2013/848649.shtml  title =  Сбивший в Архангельской обл. пятерых водитель попал под поезд, вызывая врачей.
+
+[68]: id = 756 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/12/03/2013/848779.shtml  title =  Суд рассмотрит дело о гибели людей при взрывах газа в Сестрорецке.
+
+[69]: id = 757 , agency =  РБК , link =  http://top.rbc.ru/photoreport/12/03/2013/848873.shtml  title =  В Ватикане начались выборы нового Папы Римского.
+
+[70]: id = 760 , agency =  РБК , link =  http://top.rbc.ru/politics/13/03/2013/848951.shtml  title =  ЛДПР может проголосовать против Э.Набиуллиной во главе ЦБ.
+
+[71]: id = 778 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/14/03/2013/849227.shtml  title =  В Исламском культурном центре в Петербурге нашли экстремистскую литературу.
+
+[72]: id = 789 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/15/03/2013/849409.shtml  title =  Суд над блогером, задержанным в Пулково, перенесли в Москву.
+
+[73]: id = 790 , agency =  РБК , link =  http://top.rbc.ru/photoreport/15/03/2013/849295.shtml  title =  Samsung представил смартфон Galaxy S4.
+
+[74]: id = 806 , agency =  РБК , link =  http://top.rbc.ru/incidents/18/03/2013/849612.shtml  title =  В Петербурге у священника похитили портфель с мощами святых и крестом.
+
+[75]: id = 811 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/03/2013/849582.shtml  title =  В Петербурге иностранец похитил у священника портфель со святыми мощами.
+
+[76]: id = 830 , agency =  РБК , link =  http://top.rbc.ru/photoreport/19/03/2013/849788.shtml  title =  Интронизация Папы Франциска.
+
+[77]: id = 832 , agency =  РБК , link =  http://top.rbc.ru/economics/20/03/2013/850020.shtml  title =  МЭР предложило повысить прогноз по цене на нефть марки Urals на $8.
+
+[78]: id = 864 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/22/03/2013/850434.shtml  title =  В результате взрыва в жилом доме Петербурга пострадали 8 человек.
+
+[79]: id = 865 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/22/03/2013/850386.shtml  title =  В Сыктывкаре может пройти первый разрешенный в России гей-парад.
+
+[80]: id = 874 , agency =  РБК , link =  http://top.rbc.ru/economics/25/03/2013/850717.shtml  title =  Фондовые торги в РФ завершились снижением на опасениях за Кипр.
+
+[81]: id = 878 , agency =  РБК , link =  http://top.rbc.ru/economics/25/03/2013/850530.shtml  title =  Российский фондовый рынок готовится к росту.
+
+[82]: id = 898 , agency =  РБК , link =  http://top.rbc.ru/society/26/03/2013/850795.shtml  title =  Подозреваемого в краже приморского аптекаря объявят в розыск.
+
+[83]: id = 907 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/26/03/2013/850827.shtml  title =  Новым худруком БДТ им.Товстоногова станет режиссер А.Могучий.
+
+[84]: id = 919 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/27/03/2013/851309.shtml  title =  В Петербурге убийцам инкассаторов дали пожизненный срок.
+
+[85]: id = 920 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/27/03/2013/851057.shtml  title =  У жителя Ленобласти нашли пистолеты, пулеметы и авиационную пушку.
+
+[86]: id = 935 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/28/03/2013/851453.shtml  title =  МЧС: Все погибшие в ДТП с участием детдомовского автобуса — взрослые.
+
+[87]: id = 968 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/01/04/2013/851926.shtml  title =  Москва поскупилась на дороги и мосты Петербурга.
+
+[88]: id = 969 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/01/04/2013/851830.shtml  title =  В Петербурге идет проверка по факту взрыва, от которого пострадал человек.
+
+[89]: id = 986 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/02/04/2013/852123.shtml  title =  Издатель «Делового Петербурга» купил «Фонтанку».
+
+[90]: id = 987 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/02/04/2013/852122.shtml  title =  Издатель "Делового Петербурга" купил 51% акций "Фонтанки".
+
+[91]: id = 988 , agency =  РБК , link =  http://top.rbc.ru/photoreport/02/04/2013/852021.shtml  title =  Дочь Джона Кеннеди станет послом в Японии.
+
+[92]: id = 1006 , agency =  РБК , link =  http://top.rbc.ru/photoreport/03/04/2013/852331.shtml  title =  Впервые в России родился детеныш трубкозуба.
+
+[93]: id = 1014 , agency =  РБК , link =  http://top.rbc.ru/society/04/04/2013/852586.shtml  title =  Автор запрещенного интервью с К.Эрнстом: Неэтично - не говорить правду.
+
+[94]: id = 1021 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/04/04/2013/852569.shtml  title =  В Новгородской обл. задержан первый замгубернатора по подозрению в хищении 35 млн руб.
+
+[95]: id = 1044 , agency =  РБК , link =  http://top.rbc.ru/politics/08/04/2013/852983.shtml  title =  Из-за падения с велосипеда М.Саакашвили пришлось изменить рабочий график.
+
+[96]: id = 1045 , agency =  РБК , link =  http://top.rbc.ru/politics/08/04/2013/852952.shtml  title =  Сеул не подтвердил свое заявление о подготовке КНДР к ядерным испытаниям.
+
+[97]: id = 1053 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/08/04/2013/853015.shtml  title =  Вице-губернатора Новгородской области обвинили по "дорожному делу".
+
+[98]: id = 1067 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/09/04/2013/853143.shtml  title =  Бывший вице-спикер Псковской областной думы объявлен в международный розыск.
+
+[99]: id = 1081 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/10/04/2013/853379.shtml  title =  Росэнергоатом отказался от требований к Балтзаводу на 13,5 млрд руб.
+
+[100]: id = 1104 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/12/04/2013/853754.shtml  title =  Полиция Петербурга провела второй за два дня рейд на Сенном рынке.
+
+[101]: id = 1124 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/04/2013/853997.shtml  title =  В Петербурге по факту заражения ребенка ВИЧ возбудили уголовное дело.
+
+[102]: id = 1125 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/04/2013/853919.shtml  title =  В Петербурге школьницы инсценировали собственное похищение, чтобы подставить знакомого.
+
+[103]: id = 1130 , agency =  РБК , link =  http://top.rbc.ru/economics/16/04/2013/854079.shtml  title =  Доллар и евро снова дорожают вслед за снижением цен на нефть.
+
+[104]: id = 1139 , agency =  РБК , link =  http://top.rbc.ru/incidents/16/04/2013/854089.shtml  title =  СМИ: На марафоне в Бостоне планировалось 5 взрывов.
+
+[105]: id = 1143 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/16/04/2013/854134.shtml  title =  Казанский бегун, принимавший участие в Бостонском марафоне, не пострадал.
+
+[106]: id = 1146 , agency =  РБК , link =  http://top.rbc.ru/society/17/04/2013/854274.shtml  title =  В Кирове начался суд над А.Навальным.
+
+[107]: id = 1157 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/17/04/2013/854389.shtml  title =  Дочка "Трансмашхолдинга" получила заказ на 17 вагонов для петербургского метро за 465 млн руб.
+
+[108]: id = 1158 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/17/04/2013/854387.shtml  title =  Петербургский авторынок замер на уровне прошлого года.
+
+[109]: id = 1173 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854650.shtml  title =  GM в Петербурге начал серийную сборку Chevrolet TrailBlazer.
+
+[110]: id = 1174 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854625.shtml  title =  В Апраксином дворе снова прошел рейд, в полицию доставлено около 100 человек.
+
+[111]: id = 1175 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854524.shtml  title =  Задержан подозреваемый в убийстве на Сенном рынке в Петербурге.
+
+[112]: id = 1176 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/18/04/2013/854497.shtml  title =  В театре Акимова на Невском проспекте произошел пожар.
+
+[113]: id = 1218 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/22/04/2013/855050.shtml  title =  КС подтвердил право избирателей оспаривать результаты выборов в суде.
+
+[114]: id = 1237 , agency =  РБК , link =  http://top.rbc.ru/incidents/23/04/2013/855273.shtml  title =  Нидерландского дипломата осудили на 12 лет за шпионаж в пользу России.
+
+[115]: id = 1252 , agency =  РБК , link =  http://top.rbc.ru/society/24/04/2013/855475.shtml  title =  Глава католиков Бельгии стоически перенес нападение активисток FEMEN.
+
+[116]: id = 1298 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/26/04/2013/855939.shtml  title =  Возбуждено уголовное дело по факту слива нефтепродуктов в Дербышках.
+
+[117]: id = 1299 , agency =  РБК , link =  http://top.rbc.ru/photoreport/26/04/2013/855937.shtml  title =  Ушел из жизни бывший министр финансов Александр Лившиц.
+
+[118]: id = 1319 , agency =  РБК , link =  http://top.rbc.ru/incidents/29/04/2013/856158.shtml  title =  Напавший на футболиста чеченский судья пожизненно отстранен от работы.
+
+[119]: id = 1321 , agency =  РБК , link =  http://top.rbc.ru/photoreport/29/04/2013/856122.shtml  title =  В центре Праги прогремел мощный взрыв.
+
+[120]: id = 1334 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/30/04/2013/856318.shtml  title =  В Петербурге могут создать бюджетный фонд для поддержки ГЧП-проектов.
+
+[121]: id = 1335 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/30/04/2013/856328.shtml  title =  В 1 квартале 2013 г. "Казаньоргсинтез" увеличил чистую прибыль на 7%.
+
+[122]: id = 1336 , agency =  РБК , link =  http://top.rbc.ru/photoreport/30/04/2013/856212.shtml  title =  Прощальная речь королевы Нидерландов.
+
+[123]: id = 1356 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/05/2013/856500.shtml  title =  На границе России и Финляндии образовалась очередь из 300 автомобилей.
+
+[124]: id = 1366 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/04/05/2013/856560.shtml  title =  На границе России и Финляндии готовятся к массовому возврату туристов.
+
+[125]: id = 1384 , agency =  РБК , link =  http://top.rbc.ru/incidents/06/05/2013/856711.shtml  title =  Суд по делу о крушении "Булгарии" приостановлен до 27 мая.
+
+[126]: id = 1388 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/06/05/2013/856706.shtml  title =  В Архангельской области в Пасху молния уничтожила уникальную церковь XVIII в.
+
+[127]: id = 1389 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/06/05/2013/856708.shtml  title =  Президент Объединенной судостроительной корпорации А.Дьячков подал в отставку.
+
+[128]: id = 1442 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/12/05/2013/857150.shtml  title =  В Петербурге возбуждено дело по факту убийства жены сотрудника ФСКН и их ребенка.
+
+[129]: id = 1460 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/13/05/2013/857289.shtml  title =  В Петербурге скончался один из авторов Конституции России Сергей Алексеев.
+
+[130]: id = 1489 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/14/05/2013/857531.shtml  title =  Фанаты "Зенита" вступились за импрессионистов.
+
+[131]: id = 1495 , agency =  РБК , link =  http://top.rbc.ru/economics/15/05/2013/857583.shtml  title =  На фондовом рынке акции готовы к подъему.
+
+[132]: id = 1505 , agency =  РБК , link =  http://top.rbc.ru/incidents/15/05/2013/857613.shtml  title =  При реконструкции тюменского Дома культуры похитили 122 млн руб.
+
+[133]: id = 1507 , agency =  РБК , link =  http://top.rbc.ru/photoreport/15/05/2013/857764.shtml  title =  Владимир Путин встретился с руководителями фракций Госдумы.
+
+[134]: id = 1508 , agency =  РБК , link =  http://top.rbc.ru/politics/16/05/2013/857926.shtml  title =  Замдиректора "Кировлеса" дала показания против Алексея Навального.
+
+[135]: id = 1513 , agency =  РБК , link =  http://top.rbc.ru/economics/16/05/2013/857897.shtml  title =  Международные резервы РФ за неделю снизились на 13 млрд долл.
+
+[136]: id = 1522 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/16/05/2013/857834.shtml  title =  Полтысячи детей эвакуировали из петербургской школы.
+
+[137]: id = 1523 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/16/05/2013/857921.shtml  title =  Корвет "Бойкий" вошел в состав Балтийского флота.
+
+[138]: id = 1524 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/16/05/2013/857864.shtml  title =  Расходы Казани на празднование дня Победы составили 1,3 млн рублей.
+
+[139]: id = 1525 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/16/05/2013/857818.shtml  title =  Данис Зарипов подписал контракт с "Металлургом".
+
+[140]: id = 1529 , agency =  РБК , link =  http://top.rbc.ru/society/17/05/2013/858095.shtml  title =  В ходе столкновений на гей-параде в Тбилиси пострадали 17 человек.
+
+[141]: id = 1567 , agency =  РБК , link =  http://top.rbc.ru/photoreport/20/05/2013/858406.shtml  title =  Пожар на строительном рынке "Мельница" в Москве.
+
+[142]: id = 1579 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/21/05/2013/858578.shtml  title =  По факту избиения активиста "Синих ведерок" в Петербурге возбудили дело.
+
+[143]: id = 1585 , agency =  РБК , link =  http://top.rbc.ru/economics/22/05/2013/858647.shtml  title =  ЦБ Японии не изменил монетарную политику и повысил прогноз по росту ВВП.
+
+[144]: id = 1591 , agency =  РБК , link =  http://top.rbc.ru/photoreport/22/05/2013/858779.shtml  title =  В Тульской области прошел смерч.
+
+[145]: id = 1593 , agency =  РБК , link =  http://top.rbc.ru/politics/23/05/2013/858872.shtml  title =  "Единая Россия" рассмотрит отставку А.Чеснакова 24 мая.
+
+[146]: id = 1595 , agency =  РБК , link =  http://top.rbc.ru/society/23/05/2013/858909.shtml  title =  Напавший на судью студент приговорен к 6 годам колонии.
+
+[147]: id = 1601 , agency =  РБК , link =  http://top.rbc.ru/incidents/23/05/2013/858880.shtml  title =  Энергоснабжение в пострадавшем от смерча Ефремове восстановлено.
+
+[148]: id = 1603 , agency =  РБК , link =  http://top.rbc.ru/politics/24/05/2013/859046.shtml  title =  Барак Обама: Узников Гуантанамо транспортируют в Йемен.
+
+[149]: id = 1618 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/24/05/2013/859018.shtml  title =  Роскомнадзор: "ВКонтакте" ошибочно включили в реестр запрещенных сайтов.
+
+[150]: id = 1619 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/24/05/2013/882954.shtml  title =  В Пермском крае обрушилась библиотека: погибли двое детей.
+
+[151]: id = 1631 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/26/05/2013/859207.shtml  title =  Рубин выступит в Лиге Европы.
+
+[152]: id = 1632 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/26/05/2013/882951.shtml  title =  В Пермском крае самосвал въехал в жилой дом.
+
+[153]: id = 1646 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/27/05/2013/859285.shtml  title =  В Петербурге "черные риэлторы" из МВД похитили человека.
+
+[154]: id = 1666 , agency =  РБК , link =  http://top.rbc.ru/economics/29/05/2013/859620.shtml  title =  Японцы помогут "Роснефти" в освоении шельфа Охотского моря.
+
+[155]: id = 1681 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/29/05/2013/859587.shtml  title =  Супруга мэра Калининграда "забыла" о своей вилле в Каннах.
+
+[156]: id = 1682 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/29/05/2013/859702.shtml  title =  "Рубин" будет обеспечивать безопасность на стадионе самостоятельно.
+
+[157]: id = 1684 , agency =  РБК , link =  http://top.rbc.ru/photoreport/29/05/2013/859566.shtml  title =  Грузовой состав сошел с рельсов в США.
+
+[158]: id = 1701 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/30/05/2013/859819.shtml  title =  Работы по тушению пожара в Технологическом институте закончены.
+
+[159]: id = 1702 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/30/05/2013/872711.shtml  title =  Для Олимпиады в Сочи изготовят рекордное количество медалей.
+
+[160]: id = 1703 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/30/05/2013/872712.shtml  title =  Сочи-2014: на олимпийские медали нанесли орнамент "лоскутного одеяла".
+
+[161]: id = 1722 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/31/05/2013/872710.shtml  title =  "Аэроэкспресс" уедет из Сочи и Владивостока.
+
+[162]: id = 1744 , agency =  РБК , link =  http://top.rbc.ru/photoreport/03/06/2013/860272.shtml  title =  Фестиваль "Кинотавр" в Сочи.
+
+[163]: id = 1756 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/04/06/2013/860502.shtml  title =  В Петербурге ликвидировали казино площадью 4 тыс. кв. м.
+
+[164]: id = 1761 , agency =  РБК , link =  http://top.rbc.ru/society/05/06/2013/860777.shtml  title =  Движение на Серпуховско-Тимирязевской линии метро возобновлено.
+
+[165]: id = 1775 , agency =  РБК , link =  http://top.rbc.ru/economics/06/06/2013/860838.shtml  title =  Газпром побил рекорд экспорта газа - 466 млн кубометров в сутки.
+
+[166]: id = 1784 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/06/06/2013/860850.shtml  title =  Судебный спор о могилах на Фарфоровском кладбище подошел к финалу.
+
+[167]: id = 1786 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/06/06/2013/883552.shtml  title =  Владимир Путин с супругой Людмилой.
+
+[168]: id = 1787 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/06/06/2013/883503.shtml  title =  Депутат Госдумы продал акций "Уралкалия" на 1,275 млрд долл.
+
+[169]: id = 1800 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/07/06/2013/872072.shtml  title =  Обвиняемый в убийстве брата С.Цапка оправдан судом.
+
+[170]: id = 1816 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/09/06/2013/872706.shtml  title =  Гран-при "Кинотавра" получил фильм "Географ глобус пропил".
+
+[171]: id = 1850 , agency =  РБК , link =  http://top.rbc.ru/photoreport/12/06/2013/861588.shtml  title =  "Марш против палачей" в Москве.
+
+[172]: id = 1866 , agency =  РБК , link =  http://top.rbc.ru/health/13/06/2013/861655.shtml  title =  Интернет-одержимость приводит к ухудшению памяти.
+
+[173]: id = 1873 , agency =  РБК , link =  http://top.rbc.ru/society/14/06/2013/861846.shtml  title =  Лондон заплатит 1 млн фунтов за решение главной проблемы человечества.
+
+[174]: id = 1905 , agency =  РБК , link =  http://top.rbc.ru/society/18/06/2013/862267.shtml  title =  Разрешенную скорость на московских магистралях увеличат в августе.
+
+[175]: id = 1908 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/18/06/2013/862202.shtml  title =  Преподаватель из СПбГУ узрел в госконтроле путь к стагнации науки.
+
+[176]: id = 1909 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/18/06/2013/862198.shtml  title =  Правительство Татарстана рассчитывает на рост доходов бюджета к 2015 г.
+
+[177]: id = 1955 , agency =  РБК , link =  http://rostov.rbc.ru/rostov_topnews/21/06/2013/908249.shtml  title =  Заболевшие в Ростове-на-Дону дети выздоравливают без последствий.
+
+[178]: id = 1974 , agency =  РБК , link =  http://top.rbc.ru/retail/24/06/2013/863125.shtml  title =  Глава отделения Huawei в СНГ: Россия стала для меня первым шагом в мир.
+
+[179]: id = 1975 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/24/06/2013/863064.shtml  title =  Гибелью бабушки и внука при пожаре в Петербурге занялись следователи.
+
+[180]: id = 1976 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/24/06/2013/863173.shtml  title =  В Казани открылся самый крупный автомобильный паркинг.
+
+[181]: id = 1977 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/24/06/2013/863163.shtml  title =  Казанский «Рубин» узнал двух соперников в «Лиге Европы».
+
+[182]: id = 1980 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/24/06/2013/863116.shtml  title =  В «Рубине» готовы к встрече с любым соперником в квалификации Лиги Европы.
+
+[183]: id = 1994 , agency =  РБК , link =  http://top.rbc.ru/incidents/25/06/2013/863215.shtml  title =  Талибы атаковали президентский дворец в Кабуле.
+
+[184]: id = 1996 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/25/06/2013/863325.shtml  title =  Знакомый главы Токсово пойдет под суд за помощь в торговле должностями.
+
+[185]: id = 2017 , agency =  РБК , link =  http://top.rbc.ru/society/27/06/2013/863667.shtml  title =  Столетняя жительница Мексики окончила начальную школу.
+
+[186]: id = 2018 , agency =  РБК , link =  http://top.rbc.ru/society/27/06/2013/863613.shtml  title =  Украинская милиция ни в чем не обвиняет «ВКонтакте».
+
+[187]: id = 2024 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/27/06/2013/863619.shtml  title =  Экс-глава управления торговли Балтфлота оказался мошенником.
+
+[188]: id = 2047 , agency =  РБК , link =  http://top.rbc.ru/society/01/07/2013/864156.shtml  title =  В Интернете объявлен сбор средств на лечение писателя Ю.Мамлеева.
+
+[189]: id = 2072 , agency =  РБК , link =  http://top.rbc.ru/photoreport/02/07/2013/864307.shtml  title =  Ученые протестуют против реформы РАН.
+
+[190]: id = 2076 , agency =  РБК , link =  http://top.rbc.ru/economics/03/07/2013/864499.shtml  title =  Из России утекло более 38 млрд долл. в первой половине 2013г.
+
+[191]: id = 2081 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/07/2013/864482.shtml  title =  Дополнение: У McDonald's на Невском проспекте прогремел взрыв.
+
+[192]: id = 2082 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/07/2013/864478.shtml  title =  У McDonald's на Невском проспекте прогремел взрыв.
+
+[193]: id = 2083 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/07/2013/864466.shtml  title =  В Петербурге задержан генеральный директор ГИПХа.
+
+[194]: id = 2084 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/03/07/2013/864476.shtml  title =  В районах Татарстана открываются штабы по борьбе с саранчой.
+
+[195]: id = 2085 , agency =  РБК , link =  http://top.rbc.ru/photoreport/03/07/2013/864507.shtml  title =  Король Бельгии решил отречься от престола.
+
+[196]: id = 2098 , agency =  РБК , link =  http://top.rbc.ru/incidents/04/07/2013/864571.shtml  title =  Якутия скорбит по жертвам крушения Ми-8.
+
+[197]: id = 2111 , agency =  РБК , link =  http://top.rbc.ru/society/05/07/2013/864702.shtml  title =  Семьи погибших при крушении Ми-8 в Якутии получат по 3 млн руб.
+
+[198]: id = 2114 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/05/07/2013/864715.shtml  title =  ОСК может обратиться в ФНБ за средствами для строительства верфи на Дальнем Востоке.
+
+[199]: id = 2121 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/06/07/2013/864935.shtml  title =  Екатерина Гамова зажжет Огонь Универсиады на церемонии открытия.
+
+[200]: id = 2122 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/06/07/2013/872069.shtml  title =  В Крымске открыли "стену плача" в память о погибших.
+
+[201]: id = 2130 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/07/07/2013/864980.shtml  title =  Сборная России на Универсиаде выиграла первую золотую медаль.
+
+[202]: id = 2132 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/07/07/2013/872066.shtml  title =  СК назвал предварительные версии крушения поезда на Кубани.
+
+[203]: id = 2133 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/07/07/2013/872068.shtml  title =  На Кубани попал в аварию поезд с отпускниками.
+
+[204]: id = 2146 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/08/07/2013/872698.shtml  title =  Пассажиры сошедшего с рельсов поезда на Кубани доставлены в Сочи.
+
+[205]: id = 2147 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/08/07/2013/872064.shtml  title =  По факту крушения поезда на Кубани возбуждено дело.
+
+[206]: id = 2157 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/09/07/2013/865244.shtml  title =  КС обязал владельцев сайтов удалять клевету на граждан.
+
+[207]: id = 2160 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/09/07/2013/865249.shtml  title =  Жилье в Казани к осени подорожает на 5-10% - эксперты.
+
+[208]: id = 2167 , agency =  РБК , link =  http://top.rbc.ru/economics/10/07/2013/865371.shtml  title =  Сессия на российских биржах начнется с умеренного роста.
+
+[209]: id = 2174 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/10/07/2013/865368.shtml  title =  Сборная России на Универсиаде завоевала 39 золотых медалей.
+
+[210]: id = 2188 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/11/07/2013/865536.shtml  title =  Сборная России по футболу вышла в 1/4 финала на Универсиаде.
+
+[211]: id = 2198 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/12/07/2013/865776.shtml  title =  Российские пловцы и стрелки выиграли золотые медали Универсиады.
+
+[212]: id = 2199 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/12/07/2013/865719.shtml  title =  Сборная России на Универсиаде завоевала 72 золотые медали.
+
+[213]: id = 2208 , agency =  РБК , link =  http://top.rbc.ru/photoreport/13/07/2013/865909.shtml  title =  Столкновение автобуса с грузовиком под Подольском: 18 погибших.
+
+[214]: id = 2216 , agency =  РБК , link =  http://top.rbc.ru/society/15/07/2013/866002.shtml  title =  Россияне за день выиграли 7 золотых медалей универсиады.
+
+[215]: id = 2225 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/15/07/2013/865976.shtml  title =  Сборная России за день выиграла еще 6 золотых медалей Универсиады.
+
+[216]: id = 2227 , agency =  РБК , link =  http://top.rbc.ru/politics/16/07/2013/866271.shtml  title =  Сергей Собянин зарегистрирован кандидатом в мэры Москвы.
+
+[217]: id = 2254 , agency =  РБК , link =  http://top.rbc.ru/society/18/07/2013/866639.shtml  title =  ОМОН начал задерживать сторонников А.Навального в Кирове.
+
+[218]: id = 2256 , agency =  РБК , link =  http://top.rbc.ru/society/18/07/2013/866630.shtml  title =  СК снял с Витаса обвинения по двум статьям.
+
+[219]: id = 2258 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/18/07/2013/866649.shtml  title =  Татарстанские спортсмены завоевали 15 золотых медалей Универсиады.
+
+[220]: id = 2259 , agency =  РБК , link =  http://top.rbc.ru/photoreport/18/07/2013/866512.shtml  title =  В Казани прошла церемония закрытия универсиады-2013.
+
+[221]: id = 2265 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/19/07/2013/866788.shtml  title =  Мурманчанин осужден за попытку притвориться активисткой FEMEN.
+
+[222]: id = 2272 , agency =  РБК , link =  http://top.rbc.ru/photoreport/20/07/2013/866901.shtml  title =  Возвращение оппозиционера: Навальный прибыл в Москву.
+
+[223]: id = 2301 , agency =  РБК , link =  http://top.rbc.ru/incidents/23/07/2013/867129.shtml  title =  Папу Римского "приветствовали" в Бразилии заложенной в церкви бомбой.
+
+[224]: id = 2305 , agency =  РБК , link =  http://top.rbc.ru/photoreport/23/07/2013/867162.shtml  title =  Визит Папы Римского Франциска в Бразилию.
+
+[225]: id = 2314 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/24/07/2013/867304.shtml  title =  Дмитрий Торбинский прибыл в Казань для оформления перехода в «Рубин».
+
+[226]: id = 2321 , agency =  РБК , link =  http://top.rbc.ru/society/25/07/2013/867566.shtml  title =  ФСБ передала в Минкультуры рукопись "Жизни и судьбы" В.Гроссмана.
+
+[227]: id = 2322 , agency =  РБК , link =  http://top.rbc.ru/society/25/07/2013/867563.shtml  title =  Поезд, потерпевший крушение в Испании, был исправен.
+
+[228]: id = 2334 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/26/07/2013/867712.shtml  title =  На "Севмаше" заложили третью атомную подлодку нового поколения "Ясень".
+
+[229]: id = 2342 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_topnews/27/07/2013/876875.shtml  title =  В Новосибирской области произошла утечка нефти.
+
+[230]: id = 2351 , agency =  РБК , link =  http://top.rbc.ru/society/29/07/2013/868014.shtml  title =  Власти Грузии восстановят памятник И.Сталину в Гори.
+
+[231]: id = 2384 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/31/07/2013/868243.shtml  title =  Счетная палата нашла признаки коррупции на стройке Мариинки-2.
+
+[232]: id = 2398 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/01/08/2013/868472.shtml  title =  Тело пропавшего ученого нашли на берегу Баренцева моря.
+
+[233]: id = 2400 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/01/08/2013/868382.shtml  title =  МВД по РТ: массовая драка в Нурлате - это "хулиганские действия группы молодых людей".
+
+[234]: id = 2437 , agency =  РБК , link =  http://top.rbc.ru/society/05/08/2013/868803.shtml  title =  Общую базу отпечатков пальцев сделают доступной для всех уровней полиции.
+
+[235]: id = 2442 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/05/08/2013/868890.shtml  title =  СК возбудил дело о мошенничестве при продаже участков Сиверского леса в Ленобласти.
+
+[236]: id = 2443 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/05/08/2013/872057.shtml  title =  Прокуратура Краснодарского края проверит фестиваль Kubana.
+
+[237]: id = 2444 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/05/08/2013/883499.shtml  title =  "Беларуськалий" нашел замену российскому партнеру в Катаре.
+
+[238]: id = 2464 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/07/08/2013/869264.shtml  title =  Предполагаемому убийце священника Павла Адельгейма предъявлено обвинение.
+
+[239]: id = 2465 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/07/08/2013/869244.shtml  title =  На Балтийской таможне в контейнере с бананами обнаружено 120 кг кокаина.
+
+[240]: id = 2466 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/07/08/2013/883202.shtml  title =  Кардиоцентр в Перми, где врач избил пациента, оштрафовали.
+
+[241]: id = 2477 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/08/08/2013/869315.shtml  title =  Рустам Минниханов поздравил мусульман РТ с праздником Ураза-байрам.
+
+[242]: id = 2488 , agency =  РБК , link =  http://top.rbc.ru/incidents/09/08/2013/869534.shtml  title =  Военный самолет загорелся в аэропорту столицы Сомали.
+
+[243]: id = 2490 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/09/08/2013/869495.shtml  title =  Электроснабжение Калининградской обл. восстановлено.
+
+[244]: id = 2491 , agency =  РБК , link =  http://top.rbc.ru/photoreport/09/08/2013/868745.shtml  title =  Палаточный лагерь для мигрантов-нелегалов в Москве.
+
+[245]: id = 2529 , agency =  РБК , link =  http://top.rbc.ru/economics/14/08/2013/870088.shtml  title =  На бирже продолжается подъем.
+
+[246]: id = 2547 , agency =  РБК , link =  http://top.rbc.ru/incidents/15/08/2013/870304.shtml  title =  Число жертв столкновений в Египте достигло 525 человек.
+
+[247]: id = 2549 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/08/2013/870342.shtml  title =  Бывший директор фонда В.Гергиева получил 8 лет тюрьмы.
+
+[248]: id = 2550 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/08/2013/870265.shtml  title =  В Финском заливе нашли останки погибшего во время войны водолаза.
+
+[249]: id = 2563 , agency =  РБК , link =  http://top.rbc.ru/society/17/08/2013/870550.shtml  title =  В Хабаровском крае из-за паводка эвакуировали почти 300 человек.
+
+[250]: id = 2567 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/17/08/2013/870553.shtml  title =  «Ак Барс» уступил в финале Кубка Праги.
+
+[251]: id = 2583 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/19/08/2013/870689.shtml  title =  Игрок «Ак Барса» Артем Лукоянов подозревается в нападении на полицейского.
+
+[252]: id = 2584 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/19/08/2013/872055.shtml  title =  Суд признал виновными чиновников затопленного Крымска.
+
+[253]: id = 2588 , agency =  РБК , link =  http://top.rbc.ru/economics/20/08/2013/870846.shtml  title =  Наводнение на Дальнем Востоке подняло цены на сою.
+
+[254]: id = 2594 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/20/08/2013/870941.shtml  title =  Мурманский архиепископ предложил провести крестный ход на вертолетах.
+
+[255]: id = 2595 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/20/08/2013/870876.shtml  title =  В администрации МО "Красненькая речка" проходят обыски.
+
+[256]: id = 2600 , agency =  РБК , link =  http://top.rbc.ru/society/21/08/2013/871111.shtml  title =  Непечатные СМИ получили право на премию правительства в 1 млн руб.
+
+[257]: id = 2621 , agency =  РБК , link =  http://top.rbc.ru/economics/23/08/2013/871412.shtml  title =  Частная китайская авиакомпания договорилась о покупке "Лайнеров мечты".
+
+[258]: id = 2637 , agency =  РБК , link =  http://top.rbc.ru/photoreport/25/08/2013/871538.shtml  title =  США отмечают 50-летие знаменитой речи Мартина Лютера Кинга.
+
+[259]: id = 2650 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/26/08/2013/883496.shtml  title =  Главу "Уралкалия" задержали сразу после встречи с премьером Белоруссии.
+
+[260]: id = 2651 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/26/08/2013/883498.shtml  title =  Генеральный директор "Уралкалия" задержан в Минске.
+
+[261]: id = 2665 , agency =  РБК , link =  http://top.rbc.ru/society/28/08/2013/872267.shtml  title =  Бунтовщики из уральской колонии получили от 6 до 13 лет тюрьмы.
+
+[262]: id = 2667 , agency =  РБК , link =  http://top.rbc.ru/society/28/08/2013/871954.shtml  title =  Руководство крупнейшего порта Сахалина подозревают в хищении 140 млн руб.
+
+[263]: id = 2676 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/28/08/2013/872688.shtml  title =  Минюст Эстонии предложил сажать за курение во время беременности.
+
+[264]: id = 2685 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/29/08/2013/873998.shtml  title =  Русский музей покажет картины Сильвестра Сталлоне.
+
+[265]: id = 2686 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/29/08/2013/873943.shtml  title =  В Пушкине нашли портрет цесаревича Алексея столетней давности.
+
+[266]: id = 2688 , agency =  РБК , link =  http://top.rbc.ru/politics/30/08/2013/874135.shtml  title =  США не откажутся от идеи военной операции в Сирии.
+
+[267]: id = 2689 , agency =  РБК , link =  http://top.rbc.ru/politics/30/08/2013/874057.shtml  title =  Правительство ограничит "популяцию" чиновников в регионах.
+
+[268]: id = 2693 , agency =  РБК , link =  http://top.rbc.ru/society/30/08/2013/874121.shtml  title =  Александринка онлайн: Минкультуры потратит 5 млн руб. на интернет-театр.
+
+[269]: id = 2698 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/30/08/2013/874062.shtml  title =  «Рубин» вышел в групповой этап Лиги Европы, где встретится с обладателем Кубка Англии.
+
+[270]: id = 2724 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/09/2013/874555.shtml  title =  Бизнесмен из Петербурга арестован по подозрению в хищении средств "Олимпстроя".
+
+[271]: id = 2732 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/04/09/2013/874794.shtml  title =  "Автотор" и TATA Daewoo будут производить грузовики в Калининграде.
+
+[272]: id = 2733 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/04/09/2013/874759.shtml  title =  Половина земель на Кубани подготовлена к севу озимых.
+
+[273]: id = 2746 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/05/09/2013/875066.shtml  title =  Архангельского депутата обвиняют в убийстве бизнесмена.
+
+[274]: id = 2747 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/05/09/2013/874894.shtml  title =  В Казани открывается 9-й фестиваль мусульманского кино.
+
+[275]: id = 2782 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/09/09/2013/875469.shtml  title =  В Петрозаводске кандидат от оппозиции выиграл выборы мэра.
+
+[276]: id = 2783 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_topnews/09/09/2013/875549.shtml  title =  Начала свою работу приемная бизнес-омбудсмена РБ.
+
+[277]: id = 2795 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/10/09/2013/875702.shtml  title =  СК закрыл уголовное дело о смерти замдиректора техникума в ОП «Юдино».
+
+[278]: id = 2801 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/11/09/2013/876000.shtml  title =  Депутаты не приняли обращение к В.Путину по поводу намывов в Сестрорецке.
+
+[279]: id = 2822 , agency =  РБК , link =  http://top.rbc.ru/incidents/13/09/2013/876499.shtml  title =  Губернатор Новгородской обл. прибыл в сгоревший интернат "Оксочи".
+
+[280]: id = 2824 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/13/09/2013/876601.shtml  title =  СК не стал возбуждать дело о смерти подрывника "Невского экспресса".
+
+[281]: id = 2826 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/13/09/2013/876551.shtml  title =  МЧС опубликовало фото с места пожара в интернате под Новгородом.
+
+[282]: id = 2827 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/13/09/2013/876514.shtml  title =  Пожар в новгородском психоневрологическом интернате: есть погибшие.
+
+[283]: id = 2828 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/13/09/2013/876604.shtml  title =  Следствие не стало возбуждать дело о смерти подрывника "Невского экспресса".
+
+[284]: id = 2829 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/13/09/2013/876550.shtml  title =  По факту пожара в интернате в Новгородской обл. возбуждено дело.
+
+[285]: id = 2830 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/13/09/2013/876526.shtml  title =  С пожаром в новгородском интернате борются 150 человек.
+
+[286]: id = 2831 , agency =  РБК , link =  http://top.rbc.ru/photoreport/13/09/2013/876543.shtml  title =  Пожар в новгородском интернате "Оксочи".
+
+[287]: id = 2846 , agency =  РБК , link =  http://top.rbc.ru/society/16/09/2013/877262.shtml  title =  Погибшего при взрыве в Чечне полицейского наградили за отвагу.
+
+[288]: id = 2854 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/16/09/2013/876814.shtml  title =  Грузооборот группы "НМТП" с начала года снизился на 12,3%.
+
+[289]: id = 2866 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/17/09/2013/877329.shtml  title =  На петербургском заводе "Тинькофф" будут выпекать хлеб.
+
+[290]: id = 2884 , agency =  РБК , link =  http://top.rbc.ru/photoreport/18/09/2013/877721.shtml  title =  На "Казань-Арене" началась подготовка к укладке футбольного газона.
+
+[291]: id = 2898 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_topnews/19/09/2013/877863.shtml  title =  Работы по восстановлению затопленных районов Башкирии завершатся к 1 октября.
+
+[292]: id = 2907 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/20/09/2013/878135.shtml  title =  В воскресенье бегуны ограничат движение по Невскому и Московскому проспектам.
+
+[293]: id = 2908 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/20/09/2013/878049.shtml  title =  На подготовку ЖКХ к зиме из бюджета республики выделено около 1,5 млрд рублей.
+
+[294]: id = 2909 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/20/09/2013/878120.shtml  title =  РБКweekend: вечеринки, фестивали и концерты с 20 по 22 сентября.
+
+[295]: id = 2922 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/22/09/2013/878290.shtml  title =  Бердыев: Проиграли из-за беспредела судьи.
+
+[296]: id = 2923 , agency =  РБК , link =  http://top.rbc.ru/photoreport/22/09/2013/878269.shtml  title =  Парламентские выборы в Германии.
+
+[297]: id = 2935 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/23/09/2013/878318.shtml  title =  Арское кладбище сделают туристической достопримечательностью.
+
+[298]: id = 2936 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/23/09/2013/878423.shtml  title =  Бывшего следователя приговорили к штрафу за покушение на мошенничество.
+
+[299]: id = 2946 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/24/09/2013/878598.shtml  title =  В следующем году финны будут платить еще больше налогов.
+
+[300]: id = 2947 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/24/09/2013/878725.shtml  title =  Курбана Бердыева дисквалифицировали на три матча.
+
+[301]: id = 2948 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/24/09/2013/878714.shtml  title =  Олимпийских журналистов поселят в "Александровском саду" и "Чистых прудах".
+
+[302]: id = 2960 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/25/09/2013/878785.shtml  title =  "Ленэнерго" начнет размещение допэмиссии на 5,6 млрд руб.
+
+[303]: id = 2961 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/25/09/2013/878772.shtml  title =  В Казани приставы отключили коммуникации в незаконных постройках.
+
+[304]: id = 2962 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/25/09/2013/878934.shtml  title =  Доходы кубанцев с начала года выросли на 21,6%.
+
+[305]: id = 2977 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/26/09/2013/879116.shtml  title =  Суд арестовал фотографа, участвовавшего в акции на "Приразломной".
+
+[306]: id = 2978 , agency =  РБК , link =  http://nn.rbc.ru/nn_topnews/26/09/2013/908024.shtml  title =  Суд не стал рассматривать дело М.Алехиной без алтарника и свечницы.
+
+[307]: id = 2986 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/27/09/2013/879386.shtml  title =  "Адмиралтейские верфи" и Балтзавод переедут на новые площадки к 2024г.
+
+[308]: id = 3009 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/30/09/2013/879722.shtml  title =  «Жилищный проект»: более 100 мероприятий за 2 дня.
+
+[309]: id = 3010 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/30/09/2013/879758.shtml  title =  "Северная верфь" спустила на воду самое большое судно связи в России.
+
+[310]: id = 3011 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/30/09/2013/879614.shtml  title =  "Северная верфь" спустит на воду самое большое судно связи в России.
+
+[311]: id = 3019 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/01/10/2013/879982.shtml  title =  Убийцу главного архитектора Всеволожска приговорили к 13 годам.
+
+[312]: id = 3020 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/01/10/2013/879980.shtml  title =  Убийцу главного архитектора Всеволожска приговорили к 13 годам тюрьмы.
+
+[313]: id = 3021 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/01/10/2013/879869.shtml  title =  В Ленобласти возбуждено дело по факту похищения врача-нейрохирурга.
+
+[314]: id = 3038 , agency =  РБК , link =  http://top.rbc.ru/economics/03/10/2013/880259.shtml  title =  Рынок готовится к еще одной неопределенной сессии.
+
+[315]: id = 3047 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/10/2013/880353.shtml  title =  Завод вице-губернатора Калининградской обл. выпустит водку Stalinskaya.
+
+[316]: id = 3059 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/04/10/2013/880534.shtml  title =  Убийцу ректора СПбГУСЭ приговорили к 13 годам тюрьмы.
+
+[317]: id = 3060 , agency =  РБК , link =  http://top.rbc.ru/photoreport/04/10/2013/880679.shtml  title =  Боксер Поветкин проиграл взвешивание Кличко.
+
+[318]: id = 3073 , agency =  РБК , link =  http://top.rbc.ru/photoreport/06/10/2013/880737.shtml  title =  Россия приняла олимпийский огонь XXII зимних Игр.
+
+[319]: id = 3079 , agency =  РБК , link =  http://top.rbc.ru/society/07/10/2013/880930.shtml  title =  Турция строит стену на границе с Сирией.
+
+[320]: id = 3082 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/07/10/2013/880915.shtml  title =  Власти Анапы в этом году направили на энергоснабжение 1,2 млрд руб.
+
+[321]: id = 3083 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/07/10/2013/880895.shtml  title =  В Краснодаре на ул. Московской заработал новый трамвайный переезд.
+
+[322]: id = 3088 , agency =  РБК , link =  http://top.rbc.ru/society/08/10/2013/881117.shtml  title =  Суд признал законным арест россиянки c судна Greenpeace.
+
+[323]: id = 3107 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/09/10/2013/881300.shtml  title =  Нападающий ХК "Салават Юлаев" Сергей Зиновьев дисквалифицирован на четыре матча.
+
+[324]: id = 3111 , agency =  РБК , link =  http://top.rbc.ru/economics/10/10/2013/881558.shtml  title =  РЖД заинтересовались проектами в Эфиопии.
+
+[325]: id = 3121 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/10/10/2013/881481.shtml  title =  Судьи верховных судов предпочли отставку переезду в Петербург.
+
+[326]: id = 3135 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/11/10/2013/883443.shtml  title =  Главе "Уралкалия" поменяли статью обвинения на "Хищение".
+
+[327]: id = 3147 , agency =  РБК , link =  http://top.rbc.ru/photoreport/13/10/2013/881938.shtml  title =  Скончалась Ольга Аросева.
+
+[328]: id = 3167 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/14/10/2013/883441.shtml  title =  В России возбудили дело в отношении В.Баумгертнера.
+
+[329]: id = 3184 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/15/10/2013/882193.shtml  title =  На машину главы "Росбалта" совершено нападение.
+
+[330]: id = 3186 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/10/2013/882236.shtml  title =  Дороги в Ленобласти будут ремонтировать с учетом их реального состояния.
+
+[331]: id = 3197 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/16/10/2013/882429.shtml  title =  На Кубани с 18 по 23 октября пройдет PHOTOVISA.
+
+[332]: id = 3206 , agency =  РБК , link =  http://top.rbc.ru/incidents/17/10/2013/882790.shtml  title =  Подозреваемые в убийстве чеченского судьи пытались скрыться в Сибири.
+
+[333]: id = 3224 , agency =  РБК , link =  http://top.rbc.ru/photoreport/18/10/2013/883797.shtml  title =  Церемония прощания с Ольгой Аросевой.
+
+[334]: id = 3241 , agency =  РБК , link =  http://top.rbc.ru/society/21/10/2013/883927.shtml  title =  Националисты предупредили мэрию о "Русском марше" в Люблино.
+
+[335]: id = 3251 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/21/10/2013/884026.shtml  title =  В Петербурге полиция задержала более 90 человек после акций националистов.
+
+[336]: id = 3252 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/21/10/2013/884007.shtml  title =  В Башкирии доля убыточных предприятий за январь-август 2013г. составила почти 20%.
+
+[337]: id = 3253 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/21/10/2013/884029.shtml  title =  В Горячем Ключе погиб мужчина, попав под каток.
+
+[338]: id = 3254 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/21/10/2013/883930.shtml  title =  Кубанские власти предоствят рыбоводам более 2 тыс. га прудов.
+
+[339]: id = 3255 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/21/10/2013/883895.shtml  title =  При столкновении "шестерки" и газели в Краснодаре погибли три человека.
+
+[340]: id = 3256 , agency =  РБК , link =  http://top.rbc.ru/photoreport/21/10/2013/884048.shtml  title =  Теракт в автобусе в Волгограде.
+
+[341]: id = 3262 , agency =  РБК , link =  http://top.rbc.ru/economics/22/10/2013/884114.shtml  title =  Российский рынок готов скорректироваться вниз.
+
+[342]: id = 3268 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/22/10/2013/884188.shtml  title =  Бизнес Тинькова намерен привлечь в ходе IPO более 1 млрд долл.
+
+[343]: id = 3270 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/22/10/2013/884124.shtml  title =  К 2014 году на Кубани появятся 100 врачебных офисов.
+
+[344]: id = 3272 , agency =  РБК , link =  http://top.rbc.ru/photoreport/22/10/2013/884255.shtml  title =  Геннадий Онищенко уходит в отставку.
+
+[345]: id = 3280 , agency =  РБК , link =  http://top.rbc.ru/incidents/23/10/2013/884564.shtml  title =  Во Владикавказе убит заместитель прокурора района.
+
+[346]: id = 3285 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/23/10/2013/884467.shtml  title =  Мэрия города нацелилась на парки и леса.
+
+[347]: id = 3286 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/23/10/2013/884317.shtml  title =  Власти Краснодара рассчитывают к 2016 г. перевести 95% документооборота в онлайн.
+
+[348]: id = 3288 , agency =  РБК , link =  http://top.rbc.ru/economics/24/10/2013/884810.shtml  title =  Торги в РФ завершились небольшим снижением в отсутствие новых драйверов.
+
+[349]: id = 3290 , agency =  РБК , link =  http://top.rbc.ru/society/24/10/2013/884829.shtml  title =  Ушел из жизни британский скульптор Энтони Каро.
+
+[350]: id = 3313 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/25/10/2013/884956.shtml  title =  К 2016 г. средняя зарплата кубанцев составит 33 тыс. рублей.
+
+[351]: id = 3329 , agency =  РБК , link =  http://top.rbc.ru/photoreport/27/10/2013/885163.shtml  title =  Президентские выборы в Грузии.
+
+[352]: id = 3333 , agency =  РБК , link =  http://top.rbc.ru/politics/28/10/2013/885191.shtml  title =  Израиль освободит еще 26 палестинских заключенных.
+
+[353]: id = 3344 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/28/10/2013/885399.shtml  title =  Прожиточный минимум на Кубани с начала года вырос на 266 рублей.
+
+[354]: id = 3345 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/28/10/2013/885273.shtml  title =  В Гулькевичском районе построят микрорайон для детей-сирот.
+
+[355]: id = 3362 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/30/10/2013/885858.shtml  title =  «Рубин» выбыл из Кубка России.
+
+[356]: id = 3379 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/31/10/2013/886127.shtml  title =  По факту взрыва на оборонном заводе в Ленобласти возбудили дело.
+
+[357]: id = 3380 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/31/10/2013/886045.shtml  title =  Скандального чиновника Ленобласти приговорили к сроку за избиение людей.
+
+[358]: id = 3381 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/31/10/2013/885982.shtml  title =  "Салават Юлаев" уступил омскому "Авангарду".
+
+[359]: id = 3382 , agency =  РБК , link =  http://top.rbc.ru/photoreport/31/10/2013/886047.shtml  title =  Беспорядки на матче "Спартак" - "Шинник".
+
+[360]: id = 3392 , agency =  РБК , link =  http://top.rbc.ru/incidents/01/11/2013/886249.shtml  title =  На Алтае в ДТП с пассажирским автобусом пострадали 10 человек.
+
+[361]: id = 3395 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/01/11/2013/886214.shtml  title =  В Анапе к 2014 г. построят новую сеть фонтанов.
+
+[362]: id = 3408 , agency =  РБК , link =  http://top.rbc.ru/photoreport/03/11/2013/886546.shtml  title =  В Таиланде затонул паром с россиянами.
+
+[363]: id = 3418 , agency =  РБК , link =  http://top.rbc.ru/photoreport/04/11/2013/886582.shtml  title =  "Русский марш" в Москве завершился задержанием 20 человек.
+
+[364]: id = 3423 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/05/11/2013/886708.shtml  title =  В Сочи к Олимпиаде высадят 27 тыс. деревьев и разобьют 3 тыс. кв. м цветников.
+
+[365]: id = 3424 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/05/11/2013/886694.shtml  title =  В Перми на суде по делу "Хромой лошади" отклонен отвод прокурору.
+
+[366]: id = 3439 , agency =  РБК , link =  http://top.rbc.ru/incidents/06/11/2013/886912.shtml  title =  Жертвой серии взрывов у здания Компартии Китая стал один человек.
+
+[367]: id = 3441 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/06/11/2013/886875.shtml  title =  В Башкирии с 2014 года ипподромы освободят от уплаты налога на имущество.
+
+[368]: id = 3452 , agency =  РБК , link =  http://rostov.rbc.ru/rostov_topnews/07/11/2013/908200.shtml  title =  На борту самолета Ереван – Петербург скончался пассажир.
+
+[369]: id = 3467 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/08/11/2013/887585.shtml  title =  Присяжные признали Цапка, Алексеева и Черных виновными в смерти семьи Аметовых.
+
+[370]: id = 3500 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/11/11/2013/887822.shtml  title =  Петербуржцы голосуют за искусственную новогоднюю ель на Дворцовой площади.
+
+[371]: id = 3546 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/13/11/2013/888503.shtml  title =  Обвинение 14 ноября озвучит требования по мере пресечения для "цапков".
+
+[372]: id = 3547 , agency =  РБК , link =  http://perm.rbc.ru/perm_freenews/13/11/2013/888426.shtml  title =  В Перми вновь проверят систему оповещения о ЧС.
+
+[373]: id = 3565 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/14/11/2013/888670.shtml  title =  В Петербурге задержан второй подозреваемый в убийстве замначальника тверской полиции.
+
+[374]: id = 3567 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/14/11/2013/888665.shtml  title =  "Олимпстрой" направит 2,2 млн руб. на страхование 65 своих автомобилей.
+
+[375]: id = 3568 , agency =  РБК , link =  http://perm.rbc.ru/perm_freenews/14/11/2013/888756.shtml  title =  В Добрянке суд отказался привлекать к ответственности организатора народного схода.
+
+[376]: id = 3581 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/11/2013/889096.shtml  title =  "Лениздат" могут снести под парковку для Апрашки.
+
+[377]: id = 3583 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/11/2013/889018.shtml  title =  В Петербурге могут запретить детские конкурсы красоты.
+
+[378]: id = 3584 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/11/2013/888921.shtml  title =  Полиция нашла, кто мог обстрелять машину и квартиру А.Соболенко.
+
+[379]: id = 3585 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/11/2013/888887.shtml  title =  Философский и исторический факультеты СПбГУ объединяются.
+
+[380]: id = 3586 , agency =  РБК , link =  http://perm.rbc.ru/perm_freenews/15/11/2013/888922.shtml  title =  Пермский министр финансов стала "Отличником финансовой работы".
+
+[381]: id = 3607 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/17/11/2013/889208.shtml  title =  Полицейская авиация и 94 поисковые группы задействованы на Кубани в поисках убийцы 4 человек.
+
+[382]: id = 3609 , agency =  РБК , link =  http://top.rbc.ru/politics/18/11/2013/889426.shtml  title =  Кремль назвал точную дату большой пресс-конференции В.Путина.
+
+[383]: id = 3623 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/18/11/2013/889379.shtml  title =  МАК подтвердил информацию об обнаружении самописцев разбившегося в Казани самолета.
+
+[384]: id = 3624 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/18/11/2013/889344.shtml  title =  В связи с авиакатастрофой открытие школы вратарей в Казани перенесено.
+
+[385]: id = 3625 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/18/11/2013/889329.shtml  title =  В аэропорту Казани отменено или отложено более 50 рейсов.
+
+[386]: id = 3626 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/18/11/2013/889325.shtml  title =  УНИКС организует сбор средств для семей погибших в авиакатастрофе.
+
+[387]: id = 3641 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/19/11/2013/889752.shtml  title =  "Ростелеком" заблокировал "ВКонтакте" по ошибке.
+
+[388]: id = 3642 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/19/11/2013/889580.shtml  title =  Выдачу депутатских мандатов могут поставить под контроль.
+
+[389]: id = 3645 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/19/11/2013/889694.shtml  title =  В аэропорту Сочи протестировали работу нового сектора.
+
+[390]: id = 3646 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/19/11/2013/889563.shtml  title =  Кубанское МВД проводит проверку по факту причастности полицейского к наезду на пешехода.
+
+[391]: id = 3649 , agency =  РБК , link =  http://top.rbc.ru/society/20/11/2013/889957.shtml  title =  Самый сексуальный мужчина по версии People женится на модели.
+
+[392]: id = 3656 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/20/11/2013/889972.shtml  title =  На месте крушения "Боинга-737" нашли кассету с записью разговоров экипажа.
+
+[393]: id = 3657 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/20/11/2013/889776.shtml  title =  На сессии ЗСК в среду планируется принять закон о бюджете Краснодарского края на 2014 г.
+
+[394]: id = 3658 , agency =  РБК , link =  http://perm.rbc.ru/perm_topnews/20/11/2013/889985.shtml  title =  В Перми туристический поток увеличат на 10% к 2016 году.
+
+[395]: id = 3670 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_topnews/21/11/2013/890217.shtml  title =  Новосибирск готов к снегопадам на 90%.
+
+[396]: id = 3693 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/24/11/2013/890665.shtml  title =  Ректор КубГАУ выразил соболезнования родным и близким Н.Кондратенко.
+
+[397]: id = 3717 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/26/11/2013/891019.shtml  title =  Суд признал незаконным выплату "золотого парашюта" экс-главе "Ростелекома".
+
+[398]: id = 3735 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_topnews/27/11/2013/891358.shtml  title =  Правительство Новосибирской области приобретет акции «Биотехнопарка».
+
+[399]: id = 3745 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/28/11/2013/891618.shtml  title =  "Адмиралтейские верфи" спустили на воду подлодку для Черноморского флота.
+
+[400]: id = 3746 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/28/11/2013/891600.shtml  title =  За 9 месяцев 2013 г. в Краснодаре выявлено 447 нелегальных такси.
+
+[401]: id = 3747 , agency =  РБК , link =  http://top.rbc.ru/photoreport/28/11/2013/891627.shtml  title =  Барак Обама помиловал двух индюков ко Дню благодарения.
+
+[402]: id = 3757 , agency =  РБК , link =  http://top.rbc.ru/incidents/29/11/2013/891825.shtml  title =  В Петербурге сына экс-главы МВД Мали заподозрили в педофилии.
+
+[403]: id = 3760 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/29/11/2013/891853.shtml  title =  В рядах петербургской оппозиции произошел крупный раскол.
+
+[404]: id = 3761 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/29/11/2013/891960.shtml  title =  Около 1 млрд руб. субсидий получат производители молока на Кубани до конца года.
+
+[405]: id = 3780 , agency =  РБК , link =  http://top.rbc.ru/politics/02/12/2013/892301.shtml  title =  Премьер Таиланда отказалась выполнить требование оппозиции об отставке.
+
+[406]: id = 3788 , agency =  РБК , link =  http://perm.rbc.ru/perm_freenews/02/12/2013/892280.shtml  title =  Назначена директор Музея современного искусства PERMM.
+
+[407]: id = 3807 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/03/12/2013/892480.shtml  title =  Дорожники с Крестовского острова взыскали со Смольного невыплаченные 143 млн руб.
+
+[408]: id = 3808 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/03/12/2013/892592.shtml  title =  Главу казанского ОБНОН Д.Андреенко отстранен судом от работы.
+
+[409]: id = 3810 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_freenews/03/12/2013/892424.shtml  title =  С 25 декабря подразделения МЧС переведут в режим повышенной готовности.
+
+[410]: id = 3816 , agency =  РБК , link =  http://top.rbc.ru/society/04/12/2013/892798.shtml  title =  ФСИН не нашла нарушений в ИК-14, где голодала Н.Толоконникова.
+
+[411]: id = 3827 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/04/12/2013/892728.shtml  title =  Гендиректора авиакомпании «Татарстан» Аксана Гиниятуллина отправили в отставку.
+
+[412]: id = 3842 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/05/12/2013/893032.shtml  title =  К юбилею Уфы выпустят книгу на русском и английском языках.
+
+[413]: id = 3882 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/10/12/2013/893776.shtml  title =  В суд направлено уголовное дело по рубке пихты на сумму более 570 тыс рублей.
+
+[414]: id = 3883 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_freenews/10/12/2013/893914.shtml  title =  СКЖД за 11 мес. вложила 1,14 млрд рублей в реконструкцию подъездов к портам Тамани.
+
+[415]: id = 3899 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/11/12/2013/894167.shtml  title =  Глава Всеволожского муниципального района Ленобласти подал заявление об увольнении.
+
+[416]: id = 3900 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_freenews/11/12/2013/894024.shtml  title =  Два человека погибли при пожарах.
+
+[417]: id = 3901 , agency =  РБК , link =  http://top.rbc.ru/photoreport/11/12/2013/894073.shtml  title =  Евромайдан в Киеве: "Беркут" пошел на штурм мэрии.
+
+[418]: id = 3909 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/12/12/2013/894370.shtml  title =  МЧС России по РБ объявило штормовое предупреждение.
+
+[419]: id = 3924 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_topnews/13/12/2013/894520.shtml  title =  Натхо принес «Рубину» победу в последнем матче года.
+
+[420]: id = 3930 , agency =  РБК , link =  http://top.rbc.ru/photoreport/14/12/2013/894753.shtml  title =  На Луне сел первый китайский луноход.
+
+[421]: id = 3937 , agency =  РБК , link =  http://top.rbc.ru/photoreport/15/12/2013/894803.shtml  title =  Скончался актер Питер О'Тул.
+
+[422]: id = 3947 , agency =  РБК , link =  http://kuban.rbc.ru/krasnodar_topnews/16/12/2013/894878.shtml  title =  Несанкционированный митинг в Сочи, по разным данным, собрал от 40 до 150 человек.
+
+[423]: id = 3978 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/18/12/2013/895553.shtml  title =  Максим Чудов объявил о завершении профессиональной карьеры.
+
+[424]: id = 3990 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/19/12/2013/895639.shtml  title =  В Петербурге глава учебного авиацентра выдавал удостоверения за взятки.
+
+[425]: id = 3991 , agency =  РБК , link =  http://ufa.rbc.ru/ufa_freenews/19/12/2013/895615.shtml  title =  В Уфе самолет, следовавший рейсом "Москва-Уфа", выкатился за пределы ВПП.
+
+[426]: id = 3992 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_freenews/19/12/2013/895605.shtml  title =  В мэрии создадут комиссию для решения вопросов барахолки.
+
+[427]: id = 3993 , agency =  РБК , link =  http://top.rbc.ru/photoreport/19/12/2013/895713.shtml  title =  Рабочий год подходит к концу, или 9-я пресс-конференция В.Путина.
+
+[428]: id = 4019 , agency =  РБК , link =  http://top.rbc.ru/incidents/23/12/2013/896348.shtml  title =  В Нью-Йорке эмигрант из Украины сбросил сына с крыши небоскреба.
+
+[429]: id = 4023 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/23/12/2013/896433.shtml  title =  Прокуратура РТ выступила с комментарием по факту пыток в деле о поджоге церквей.
+
+[430]: id = 4031 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/24/12/2013/896543.shtml  title =  Топонимическая комиссия согласилась назвать площадь в Петербурге именем Стругацких.
+
+[431]: id = 4032 , agency =  РБК , link =  http://nsk.rbc.ru/nsk_freenews/24/12/2013/896481.shtml  title =  Проблему нехватки мест в детских садах планируют решить к 2016 году.
+
+[432]: id = 4040 , agency =  РБК , link =  http://top.rbc.ru/society/25/12/2013/896844.shtml  title =  В Удмуртии объявили двухдневный траур по М.Калашникову.
+
+[433]: id = 4047 , agency =  РБК , link =  http://rt.rbc.ru/tatarstan_freenews/25/12/2013/896904.shtml  title =  Татарстанцы пришли на прием к президенту РТ с вопросами о детских садах.
+
+[434]: id = 4056 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/26/12/2013/897029.shtml  title =  Здание биржи на Васильевском острове передали Эрмитажу.
+
+[435]: id = 4069 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/27/12/2013/897312.shtml  title =  Все иностранцы с Arctic Sunrise получили визы для выезда из России.
+
+[436]: id = 4070 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/27/12/2013/897256.shtml  title =  В Петербурге сотрудница банка похитила деньги умершего клиента.
+
+[437]: id = 4096 , agency =  РБК , link =  http://perm.rbc.ru/perm_freenews/30/12/2013/897599.shtml  title =  При взрыве на вокзале в Волгограде погиб пермяк.
+
+[438]: id = 4097 , agency =  РБК , link =  http://volg.rbc.ru/volg_topnews/30/12/2013/908242.shtml  title =  На петербургские вокзалы прибыли кинологи.
+
+[439]: id = 4109 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/31/12/2013/897828.shtml  title =  В Ленобласти мужчина поджег себя на глазах полицейских.
+
+[440]: id = 11915 , agency =  РБК , link =  http://top.rbc.ru/politics/27/12/2014/549dda269a79478f6ad5bd22  title =  Украина сообщила о поставках российского угля в страну без предоплаты
+
+[441]: id = 12046 , agency =  РБК , link =  http://top.rbc.ru/politics/27/12/2014/549e9b859a7947a9e68a0364  title =  Лукашенко сменил главу правительства
+
+[442]: id = 30905 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/15/04/2015/969242.shtml  title =  По факту столкновения поезда и автобуса в Ленобласти возбуждено дело
+
+[443]: id = 30947 , agency =  РБК , link =  http://top.rbc.ru/finances/15/04/2015/552e86359a794794ff1b6a90  title =  ЦБ запретил Связному банку принимать новые вклады
+
+[444]: id = 31278 , agency =  РБК , link =  http://top.rbc.ru/finances/17/04/2015/5530a2789a79476d9dcf5a60  title =  Центробанк отозвал лицензии у двух банков
+
+[445]: id = 31311 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/17/04/2015/969452.shtml  title =  ЦБ отозвал лицензию у банка, топ-менеджером которого является Вера Путина
+
+[446]: id = 31756 , agency =  РБК , link =  http://top.rbc.ru/business/20/04/2015/553511b59a79472dbf8a59e4  title =  Еврокомиссия в среду предъявит официальные обвинения «Газпрому»
+
+[447]: id = 32096 , agency =  РБК , link =  http://top.rbc.ru/business/22/04/2015/5537754b9a794729e25d20d7  title =  Еврокомиссия предъявила обвинения «Газпрому»
+
+[448]: id = 32125 , agency =  РБК , link =  http://top.rbc.ru/economics/22/04/2015/55379ee59a794755ec0e469a  title =  Минэкономразвития улучшило прогноз по экономике России в 2015 году
+
+[449]: id = 32230 , agency =  РБК , link =  http://top.rbc.ru/politics/23/04/2015/55393a469a7947dfa4f1352e  title =  МВД назвало недопустимыми слова Кадырова «об огне на поражение»
+
+[450]: id = 32363 , agency =  РБК , link =  http://top.rbc.ru/spb_sz/23/04/2015/969984.shtml  title =  УЕФА разведет «Зенит» и украинские клубы в Лиге Европы
+
+[451]: id = 32453 , agency =  Российская газета , link =  http://rg.ru/2015/04/24/iran-anons.html  title =  Рябков заявил о продвижении по вопросу снятия санкций с Ирана
+
+[452]: id = 32459 , agency =  РИА Новости , link =  http://ria.ru/world/20150424/1060741064.html  title =  Рябков: "шестерке" и Ирану удалось продвинуться в вопросе санкций
+
+[453]: id = 32527 , agency =  РБК , link =  http://top.rbc.ru/politics/25/04/2015/553af5d49a7947367df496b6  title =  Кадыров призвал Бастрыкина объяснить отмену дела против сотрудников МВД
+
+[454]: id = 32835 , agency =  Российская газета , link =  http://rg.ru/2015/04/27/diplom-site-anons.html  title =  Пять российских вузов не смогут выдавать дипломы
+
+[455]: id = 32903 , agency =  РБК , link =  http://top.rbc.ru/politics/27/04/2015/553e0de59a79470334bd62b6  title =  Назарбаев извинился перед «супердемократичными» странами за итоги выборов
+
+[456]: id = 32931 , agency =  РБК , link =  http://top.rbc.ru/economics/27/04/2015/553e2adc9a79471d05f51791  title =  Путин заявил о преодолении пиковых нагрузок из-за санкций
+
+[457]: id = 33009 , agency =  РБК , link =  http://top.rbc.ru/finances/27/04/2015/553e955d9a794787311641ff  title =  Банк России выступил против ограничений на использование валюты
+
+[458]: id = 33029 , agency =  РБК , link =  http://top.rbc.ru/society/28/04/2015/553ed2609a79479e11b2a6aa  title =  Власти Балтимора объявили комендантский час в разграбляемом городе
+
+[459]: id = 33084 , agency =  РБК , link =  http://top.rbc.ru/society/28/04/2015/553f4e769a7947d5cfc19aed  title =  На полигоне под Ростовом после взрыва сгорело около 30 автомобилей
+
+[460]: id = 33094 , agency =  РИА Новости , link =  http://ria.ru/economy/20150427/1061255625.html  title =  "Роснефть" выступает за урегулирование спора России с ExxonMobil
+
+[461]: id = 33117 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/28/04/2015/970403.shtml  title =  Петербургское «Яблоко» повторно изберет председателя в мае
+
+[462]: id = 33154 , agency =  РИА Новости , link =  http://ria.ru/world/20150428/1061434902.html  title =  ТВ: на борту задержанного ВМС Ирана судна США находятся 34 американца
+
+[463]: id = 33569 , agency =  Российская газета , link =  http://rg.ru/2015/04/30/poroshenko-anons.html  title =  Порошенко пообещал воевать до тех пор, пока не вернет Крым и Донбасс
+
+[464]: id = 33739 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/02/05/2015/970714.shtml  title =  В Петербурге задержали подозреваемых в краже швейцарских часов на 21 млн рублей
+
+[465]: id = 33760 , agency =  РБК , link =  http://top.rbc.ru/spb_freenews/02/05/2015/970719.shtml  title =  В Петербурге в результате ДТП с маршруткой пострадали 5 человек
+
+[466]: id = 33900 , agency =  РБК , link =  http://top.rbc.ru/politics/04/05/2015/5546c0be9a7947855e2f0c07  title =  Задержанным в Германии «Ночным волкам» разрешили продолжить движение
+
+[467]: id = 34011 , agency =  Российская газета , link =  http://rg.ru/2015/05/05/usa-anons.html  title =  Генерал Данфорд станет главой Комитета начальников штабов ВС США
+
+[468]: id = 34102 , agency =  РБК , link =  http://top.rbc.ru/economics/04/05/2015/55479cfd9a79474a64bf13f4  title =  Цена на Brent достигла максимума в 2015 году
+
+[469]: id = 34123 , agency =  Российская газета , link =  http://rg.ru/2015/05/05/churkin-anons.html  title =  Чуркин: Попытки оправдать пособников нацистов не изменят вердикт Нюрнберга
+
+[470]: id = 34140 , agency =  Российская газета , link =  http://rg.ru/2015/05/05/tretyakovka-anons.html  title =  В Третьяковке прошли обыски по делу о контрабанде культурных ценностей
+
+[471]: id = 34198 , agency =  РБК , link =  http://top.rbc.ru/politics/06/05/2015/5549ba9d9a79475b1d0164d1  title =  Le Figaro сообщила о готовности Франции затопить «Мистрали»
+
+[472]: id = 34558 , agency =  РБК , link =  http://top.rbc.ru/society/08/05/2015/554c79bb9a794735953b7593  title =  Суд снял с Васильевой обвинения в хищении 2 млрд руб.
+
+Completed!
+
+Number of text from agency with one example: 
+РБК http://top.rbc.ru/society/08/05/2015/554c79bb9a794735953b7593 size:  464
+Российская газета http://rg.ru/2015/05/05/tretyakovka-anons.html size:  6
+РИА Новости http://ria.ru/world/20150428/1061434902.html size:  3
+
+Link status codes:
+
+Process finished with exit code 0
