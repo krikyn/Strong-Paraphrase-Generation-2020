@@ -15,9 +15,6 @@ import logging
 import warnings
 from lxml import etree
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.ERROR)
-warnings.filterwarnings("ignore", category=DeprecationWarning)
-
 data_words = []
 
 root = etree.parse(r'C:\Users\kiva0319\PycharmProjects\Diploma2020\processed\without_stopwords_short\paraphrases.xml')

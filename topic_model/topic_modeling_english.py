@@ -11,14 +11,12 @@ import pyLDAvis
 import pyLDAvis.gensim
 import matplotlib.pyplot as plt
 import logging
+import warnings
+from nltk.corpus import stopwords
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.ERROR)
 
-import warnings
-
 warnings.filterwarnings("ignore", category=DeprecationWarning)
-
-from nltk.corpus import stopwords
 
 stop_words = stopwords.words('english')
 stop_words.extend(['from', 'subject', 're', 'edu', 'use'])
@@ -51,6 +49,7 @@ bigram_mod = gensim.models.phrases.Phraser(bigram)
 trigram_mod = gensim.models.phrases.Phraser(trigram)
 
 print(trigram_mod[bigram_mod[data_words[0]]])
+
 
 def remove_stopwords(texts):
     return [[word for word in simple_preprocess(str(doc)) if word not in stop_words] for doc in texts]
