@@ -31,7 +31,7 @@ Top-level directory structure with a short description of the contents.
 
 Project dependencies:
 ```sh
-pandas                   1.0.1 1.0.4
+pandas                   1.0.1
 nltk                     3.4.5 +
 numpy                    1.16.3 +
 tensorboard              1.15.0 +
@@ -52,10 +52,10 @@ idna                     2.8 +
 joblib                   0.14.1 +
 lxml                     4.5.0 +
 mock                     4.0.2
-opt-einsum               3.2.1 3.2.1
-protobuf                 3.11.3 3.12.2
-pyasn1                   0.4.8 0.4.8
-python-dateutil          2.8.1 2.8.1
+opt-einsum               3.2.1
+protobuf                 3.11.3
+pyasn1                   0.4.8
+python-dateutil          2.8.1
 pytz                     2019.3 +
 regex                    2017.4.5 +
 requests                 2.21.0 +
